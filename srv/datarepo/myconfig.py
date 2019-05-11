@@ -1,0 +1,10 @@
+
+STD_PATH = "/data/network_zz/data/std"
+STD_FILE = "zz_std_words_mini.txt"
+#STD_FILE = "dz_zzxx_cs_full.csv"
+#TEST_PATH = "/data/network_zz/data/test/"
+TEST_PATH = "/data/network_zz/data/std/"
+TEST_FILE = "zz_std_words_mini.txt"
+#TEST_FILE = "eval_zz.txt"
+SAVE_PATH = "/data/network_zz"
+SAVE_FILE = "pickle_mini.txt"

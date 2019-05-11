@@ -1,0 +1,14 @@
+乌当区 DIST 99
+云岩区 DIST 99
+修文县 DIST 99
+南明区 DIST 99
+小河区 DIST 99
+开阳县 DIST 99
+息烽县 DIST 99
+清镇市 DIST 99
+白云区 DIST 99
+经济开发区 DIST 99
+经济技术开发区 DIST 99
+花溪区 DIST 99
+观山湖区 DIST 99
+金阳新区 DIST 99

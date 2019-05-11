@@ -1,0 +1,62 @@
+2018-05-04 09:47:34,181 - traval_simple - INFO - logger record start...
+2018-05-04 09:47:34,181 - traval_simple - WARNING - i am warnning
+2018-05-04 09:47:34,181 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 09:47:34,181 - traval_simple - INFO - timeer start to work...
+2018-05-04 09:47:34,182 - traval_simple - INFO - start_time: 2018-05-04 09:47:34.181994
+2018-05-04 09:47:50,696 - traval_simple - INFO - logger record start...
+2018-05-04 09:47:50,696 - traval_simple - WARNING - i am warnning
+2018-05-04 09:47:50,696 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 09:47:50,696 - traval_simple - INFO - timeer start to work...
+2018-05-04 09:47:50,697 - traval_simple - INFO - start_time: 2018-05-04 09:47:50.696996
+2018-05-04 10:00:03,071 - traval_simple - INFO - logger record start...
+2018-05-04 10:00:03,071 - traval_simple - WARNING - i am warnning
+2018-05-04 10:00:03,071 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 10:00:03,071 - traval_simple - INFO - timeer start to work...
+2018-05-04 10:00:03,071 - traval_simple - INFO - start_time: 2018-05-04 10:00:03.071839
+2018-05-04 10:00:19,152 - traval_simple - INFO - logger record start...
+2018-05-04 10:00:19,152 - traval_simple - WARNING - i am warnning
+2018-05-04 10:00:19,152 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 10:00:19,152 - traval_simple - INFO - timeer start to work...
+2018-05-04 10:00:19,152 - traval_simple - INFO - start_time: 2018-05-04 10:00:19.152949
+2018-05-04 13:49:07,826 - traval_simple - INFO - logger record start...
+2018-05-04 13:49:07,826 - traval_simple - WARNING - i am warnning
+2018-05-04 13:49:07,826 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 13:49:07,826 - traval_simple - INFO - timeer start to work...
+2018-05-04 13:49:07,826 - traval_simple - INFO - start_time: 2018-05-04 13:49:07.826584
+2018-05-04 13:49:24,359 - traval_simple - INFO - logger record start...
+2018-05-04 13:49:24,359 - traval_simple - WARNING - i am warnning
+2018-05-04 13:49:24,359 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 13:49:24,359 - traval_simple - INFO - timeer start to work...
+2018-05-04 13:49:24,360 - traval_simple - INFO - start_time: 2018-05-04 13:49:24.360005
+2018-05-04 13:50:41,754 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:01:16.984834, real 2018-05-04 13:50:41.754857
+2018-05-04 13:51:22,908 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:41.153259, real 2018-05-04 13:51:22.908113
+2018-05-04 13:51:25,851 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:02.943269, real 2018-05-04 13:51:25.851381
+2018-05-04 13:53:40,251 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:02:14.400108, real 2018-05-04 13:53:40.251478
+2018-05-04 13:55:08,982 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:01:28.731165, real 2018-05-04 13:55:08.982654
+2018-05-04 13:55:16,122 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:07.139660, real 2018-05-04 13:55:16.122315
+2018-05-04 13:55:19,955 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:03.833355, real 2018-05-04 13:55:19.955669
+2018-05-04 13:55:29,624 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:09.669058, real 2018-05-04 13:55:29.624728
+2018-05-04 13:56:08,473 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:38.848985, real 2018-05-04 13:56:08.473713
+2018-05-04 14:03:11,868 - traval_simple - INFO - logger record start...
+2018-05-04 14:03:11,868 - traval_simple - WARNING - i am warnning
+2018-05-04 14:03:11,868 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 14:03:11,868 - traval_simple - INFO - timeer start to work...
+2018-05-04 14:03:11,868 - traval_simple - INFO - start_time: 2018-05-04 14:03:11.868439
+2018-05-04 14:03:48,972 - traval_simple - INFO - logger record start...
+2018-05-04 14:03:48,973 - traval_simple - WARNING - i am warnning
+2018-05-04 14:03:48,973 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 14:03:48,973 - traval_simple - INFO - timeer start to work...
+2018-05-04 14:03:48,973 - traval_simple - INFO - start_time: 2018-05-04 14:03:48.973234
+2018-05-04 14:04:05,308 - traval_simple - INFO - logger record start...
+2018-05-04 14:04:05,308 - traval_simple - WARNING - i am warnning
+2018-05-04 14:04:05,308 - traval_simple - INFO - Initial is do once!!!
+2018-05-04 14:04:05,308 - traval_simple - INFO - timeer start to work...
+2018-05-04 14:04:05,308 - traval_simple - INFO - start_time: 2018-05-04 14:04:05.308896
+2018-05-04 14:04:25,510 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:19.791440, real 2018-05-04 14:04:25.510852
+2018-05-04 14:04:30,862 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:05.351886, real 2018-05-04 14:04:30.862738
+2018-05-04 14:04:36,103 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:05.240483, real 2018-05-04 14:04:36.103221
+2018-05-04 14:04:50,641 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:14.538281, real 2018-05-04 14:04:50.641502
+2018-05-04 14:04:51,787 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:01.145813, real 2018-05-04 14:04:51.787325
+2018-05-04 14:04:54,344 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:02.556799, real 2018-05-04 14:04:54.344124
+2018-05-04 14:04:59,314 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:04.970286, real 2018-05-04 14:04:59.314400
+2018-05-04 14:05:20,541 - traval_simple - INFO - bilstm start to handle the sentence now,cost 0:00:21.226862, real 2018-05-04 14:05:20.541262

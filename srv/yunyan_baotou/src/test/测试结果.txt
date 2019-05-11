@@ -1,0 +1,339 @@
+
+输入: 青山区青山路5号街坊五二家属楼18栋吉祥旅店
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 5号街坊/XIAOQU 五二家属楼/JZW 18栋/DONGHAO 吉祥旅店/CJWH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 吉祥旅店/CJWH 青山路/JLX 5号街坊/XIAOQU 五二家属楼/JZW 18栋/DONGHAO
+======
+输入: 青山区青东佳苑2栋1单元1801号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东佳苑/XIAOQU 2栋/DONGHAO 1单元/DYH 1801号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东佳苑/XIAOQU 2栋/DONGHAO 1单元/DYH 1801号/HSH
+======
+输入: 青山区锦林花园29栋1单元202号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 锦林花园/XIAOQU 29栋/DONGHAO 1单元/DYH 202号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 锦林花园/XIAOQU 29栋/DONGHAO 1单元/DYH 202号/HSH
+======
+输入: 青山区赵家营花园小区4区7栋3号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赵家营花园小区/XIAOQU 4区/ZRCZ 7栋/DONGHAO 3号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 4区/ZRCZ 赵家营花园小区/XIAOQU 7栋/DONGHAO 3号/HSH
+======
+输入: 青山区自由路3号街坊5栋一机电视台5号底店
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 3号街坊/XIAOQU 5栋/DONGHAO 一机电视台/JZW 5号/MPH 底店/JZW 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 5号/MPH 3号街坊/XIAOQU 一机电视台/JZW 5栋/DONGHAO
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 5号/MPH 3号街坊/XIAOQU 底店/JZW 5栋/DONGHAO
+======
+输入: 青山区自由路13号街坊35栋22号（星期六酒吧）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 13号/MPH 街坊/XIAOQU 35栋/DONGHAO 22号/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 13号/MPH 街坊/XIAOQU 35栋/DONGHAO
+======
+输入: 青山区科学路富强路富9-九星E世界写字楼13-14层A1409
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富强路/JLX 富9/XIAOQU -/x 九星E世界/JZW 写/x 字/x 楼/x 1/x 3/x -/x 14层/LOUC A/x 1/x 4/x 0/x 9/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 14层/LOUC
+======
+输入: 青山区科学路富强路富9-九星E世界写字楼13-14层A1409
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富强路/JLX 富9/XIAOQU -/x 九星E世界/JZW 写/x 字/x 楼/x 1/x 3/x -/x 14层/LOUC A/x 1/x 4/x 0/x 9/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 14层/LOUC
+======
+输入: 青山区科学路富强路富9-九星E世界写字楼13-14层A1409
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富强路/JLX 富9/XIAOQU -/x 九星E世界/JZW 写/x 字/x 楼/x 1/x 3/x -/x 14层/LOUC A/x 1/x 4/x 0/x 9/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 14层/LOUC
+======
+输入: 青山区科学路富强路富9-九星E世界写字楼13-14层A1409
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富强路/JLX 富9/XIAOQU -/x 九星E世界/JZW 写/x 字/x 楼/x 1/x 3/x -/x 14层/LOUC A/x 1/x 4/x 0/x 9/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 14层/LOUC
+======
+输入: 青山区科学路富强路富9-九星E世界3号楼2单元1803号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富强路/JLX 富9/XIAOQU -/x 九星E世界/JZW 3号/HSH 楼/x 2单元/DYH 1803号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 2单元/DYH 3号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 2单元/DYH 1803号/HSH
+======
+输入: 青山区科学路富强路富9-九星E世界3号楼2单元1803号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富强路/JLX 富9/XIAOQU -/x 九星E世界/JZW 3号/HSH 楼/x 2单元/DYH 1803号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 2单元/DYH 3号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 2单元/DYH 1803号/HSH
+======
+输入: 青山区科学路富强路富9-九星E世界3号楼2单元1803号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富强路/JLX 富9/XIAOQU -/x 九星E世界/JZW 3号/HSH 楼/x 2单元/DYH 1803号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 2单元/DYH 3号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 富9/XIAOQU 九星E世界/JZW 2单元/DYH 1803号/HSH
+======
+输入: 青山区民主路6号街坊五栋二单元503号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 6号街坊/XIAOQU 五栋/DONGHAO 二单元/DYH 503号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 6号街坊/XIAOQU 五栋/DONGHAO 二单元/DYH 503号/HSH
+======
+输入: 青山区民主路6号街坊2栋3单元37号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 6号街坊/XIAOQU 2栋/DONGHAO 3单元/DYH 37号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 6号街坊/XIAOQU 2栋/DONGHAO 3单元/DYH 37号/HSH
+======
+输入: 青山区民主路3号街坊13栋1单元13-14号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 3号街坊/XIAOQU 13栋/DONGHAO 1单元/DYH 1/x 3/x -/x 14号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 3号街坊/XIAOQU 13栋/DONGHAO 1单元/DYH 14号/HSH
+======
+输入: 青山区文化路52号小尾羊欢乐牧场3楼
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 52号/MPH 小尾/m 羊欢/MPH 乐牧/XIAOQU 场/x 3/x 楼/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 羊欢/MPH 乐牧/XIAOQU
+======
+输入: 青山区当铺村火车道道口小二楼王喜珍家
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 当铺村/JLX 火车/m 道道/MPH 口/XIAOQU 小二楼/JZW 王喜/JLX 珍家/m 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 当铺村/JLX 道道/MPH 口/XIAOQU 小二楼/JZW
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 王喜/JLX 道道/MPH 口/XIAOQU 小二楼/JZW
+======
+输入: 青山区当铺村村口小卖部吕国家
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 当铺村/JLX 村口/m 小卖/MPH 部吕国家/XIAOQU 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 当铺村/JLX 小卖/MPH 部吕国家/XIAOQU
+======
+输入: 青山区幸福路5号街坊世龙大厦11号底店
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福路/JLX 5号街坊/XIAOQU 世龙/JLX 大厦/m 11号/MPH 底店/JZW 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福路/JLX 11号/MPH 5号街坊/XIAOQU 底店/JZW
+======
+输入: 青山区富强路九星电子大楼办公区4楼
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 九星/m 电子/MPH 大楼办/JLX 公区/m 4楼/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 电子/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 4楼/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大楼办/JLX 电子/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大楼办/JLX 4楼/MPH
+======
+输入: 青山区富强路九星电子大楼办公区4楼
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 九星/m 电子/MPH 大楼办/JLX 公区/m 4楼/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 电子/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 4楼/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大楼办/JLX 电子/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大楼办/JLX 4楼/MPH
+======
+输入: 青山区富强路九星电子大楼办公区4楼
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 九星/m 电子/MPH 大楼办/JLX 公区/m 4楼/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 电子/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 4楼/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大楼办/JLX 电子/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大楼办/JLX 4楼/MPH
+======
+输入: 青山区富强路19号街坊棉纺小区55栋一单元6号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 19号/HSH 街坊/XIAOQU 棉纺/JLX 小区/m 55栋/DONGHAO 一单元/DYH 6号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 街坊/XIAOQU 55栋/DONGHAO 一单元/DYH 19号/HSH
+======
+输入: 青山区呼德木林大街12号街坊二附院主任室（李）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼德木林/JLX 大街/JLX 12号/MPH 街坊/XIAOQU 二附院/JLX 主任/m 室/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼德木林/JLX 12号/MPH 街坊/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼德木林/JLX 室/MPH 街坊/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大街/JLX 12号/MPH 街坊/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 大街/JLX 室/MPH 街坊/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 二附院/JLX 12号/MPH 街坊/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 二附院/JLX 室/MPH 街坊/XIAOQU
+======
+输入: 青山区呼得木林大街8号街坊59栋4号底店（繁荣通讯）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 8号街坊/XIAOQU 59栋/DONGHAO 4号/MPH 底店/JZW 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 4号/MPH 8号街坊/XIAOQU 底店/JZW 59栋/DONGHAO
+======
+输入: 青山区呼得木林大街7号街坊电力招待所宿舍1号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 7号街坊/XIAOQU 电/JLX 力招/m 待所/MPH 宿舍/XIAOQU 1号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 待所/MPH 7号街坊/XIAOQU 1号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 待所/MPH 宿舍/XIAOQU 1号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 电/JLX 待所/MPH 7号街坊/XIAOQU 1号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 电/JLX 待所/MPH 宿舍/XIAOQU 1号/HSH
+======
+输入: 青山区呼得木林大街12号街坊7栋3单元85号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 12号/HSH 街坊/XIAOQU 7栋/DONGHAO 3单元/DYH 85号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 街坊/XIAOQU 7栋/DONGHAO 3单元/DYH 12号/HSH
+======
+输入: 青山区保利三期25栋三单元106号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 保利/JLX 三期/m 25栋/DONGHAO 三单元/DYH 106号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 保利/JLX 25栋/DONGHAO 三单元/DYH 106号/HSH
+======
+输入: 青山区202厂四道沙河庞海军家
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 202厂/XIAOQU 四道/m 沙河/MPH 庞海军家/XIAOQU 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 沙河/MPH 202厂/XIAOQU
+======
+输入: 昆区青山区友谊19#1区24栋49号(三单元5楼西户)
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 昆区/ZUTUAN 青山区/DIST 友谊1/JLX 9#/MPH 1区/ZRCZ 24栋/DONGHAO 49号/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 1区/ZRCZ 友谊1/JLX 9#/MPH 昆区/ZUTUAN 24栋/DONGHAO
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 1区/ZRCZ 友谊1/JLX 49号/MPH 昆区/ZUTUAN 24栋/DONGHAO
+======
+输入: 市区青山区民主路6号街坊4栋105
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 市区/ZUTUAN 青山区/DIST 民主路/JLX 6号街坊/XIAOQU 4栋/DONGHAO 1/x 0/x 5/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 6号街坊/XIAOQU 市区/ZUTUAN 4栋/DONGHAO
+======
+输入: 市区青山区民主路3号街坊19栋4单元407号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 市区/ZUTUAN 青山区/DIST 民主路/JLX 3号街坊/XIAOQU 19栋/DONGHAO 4单元/DYH 407号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 3号街坊/XIAOQU 市区/ZUTUAN 19栋/DONGHAO 4单元/DYH 407号/HSH
+======
+输入: 市区青山区幸福路甲3号街坊工学院底店16号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 市区/ZUTUAN 青山区/DIST 幸福路/JLX 甲/x 3号街坊/XIAOQU 工学院/JLX 底店/JZW 16号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福路/JLX 3号街坊/XIAOQU 市区/ZUTUAN 底店/JZW 16号/HSH
+======
+输入: 市区青山区幸福路7号街坊43栋305号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 市区/ZUTUAN 青山区/DIST 幸福路/JLX 7号街坊/XIAOQU 43栋/DONGHAO 305号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福路/JLX 7号街坊/XIAOQU 市区/ZUTUAN 43栋/DONGHAO 305号/HSH
+======
+输入: 市区青山区呼得木林大街8号街坊1栋15号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 市区/ZUTUAN 青山区/DIST 呼得木林大街/JLX 8号街坊/XIAOQU 1栋/DONGHAO 15号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 8号街坊/XIAOQU 市区/ZUTUAN 1栋/DONGHAO 15号/HSH
+======
+输入: 市区青山区厂前路二电厂西侧青建水泥制品有限公司
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 市区/ZUTUAN 青山区/DIST 厂前路/JLX 二电/ZUTUAN 厂/x 西/x 侧青/MPH 建水泥/JLX 制品/m 有限/MPH 公司/XIAOQU 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 厂前路/JLX 有限/MPH 公司/XIAOQU 市区/ZUTUAN
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 厂前路/JLX 有限/MPH 公司/XIAOQU 二电/ZUTUAN
+======
+输入: 市区青山区光辉小区2区光辉佳苑3栋2单元13号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 市区/ZUTUAN 青山区/DIST 光辉小区/XIAOQU 2区/ZRCZ 光辉/XIAOQU 佳苑/ZUTUAN 3栋/DONGHAO 2单元/DYH 13号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 2区/ZRCZ 光辉小区/XIAOQU 市区/ZUTUAN 3栋/DONGHAO 2单元/DYH 13号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 2区/ZRCZ 光辉小区/XIAOQU 佳苑/ZUTUAN 3栋/DONGHAO 2单元/DYH 13号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 2区/ZRCZ 光辉/XIAOQU 市区/ZUTUAN 3栋/DONGHAO 2单元/DYH 13号/HSH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 2区/ZRCZ 光辉/XIAOQU 佳苑/ZUTUAN 3栋/DONGHAO 2单元/DYH 13号/HSH
+======
+输入: 包头青山区青年路与民主东路交叉口恒源银座恒源银座27楼办公楼2706
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青年路/JLX 与民主/JLX 东路/m 交叉/MPH 口恒源/JLX 银座/m 恒源/MPH 银座27楼办/JLX 公楼/m 27/MPH 06/XIAOQU 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青年路/JLX 交叉/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青年路/JLX 恒源/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青年路/JLX 27/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 与民主/JLX 交叉/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 与民主/JLX 恒源/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 与民主/JLX 27/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 口恒源/JLX 交叉/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 口恒源/JLX 恒源/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 口恒源/JLX 27/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银座27楼办/JLX 交叉/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银座27楼办/JLX 恒源/MPH 06/XIAOQU
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银座27楼办/JLX 27/MPH 06/XIAOQU
+======
+输入: 包头青山区青山路一机单身公寓1栋1单元101
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 一机/m 单身/MPH 公寓/XIAOQU 1栋/DONGHAO 1单元/DYH 1/x 0/x 1/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 单身/MPH 公寓/XIAOQU 1栋/DONGHAO 1单元/DYH
+======
+输入: 包头青山区银河广场东北角体育道西青年路南青山万达广场写字楼A座610室覆盖610室
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银河/JLX 广场/m 东北角体/MPH 育道/XIAOQU 西/x 青年路/JLX 南青山/JLX 万达/ZUTUAN 广场/m 写字楼/MPH A座/DONGHAO 610室/HSH 覆/x 盖/x 610室/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青年路/JLX 东北角体/MPH 育道/XIAOQU 万达/ZUTUAN A座/DONGHAO 610室/HSH
+======
+输入: 包头青山区钢铁大街体育馆路万达公寓楼B座22层2232
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 钢铁大街/JLX 体育/JLX 馆路/m 万达/ZUTUAN 公/x 寓/x 楼/x B座/DONGHAO 22层/LOUC 2/x 2/x 3/x 2/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 钢铁大街/JLX 万达/ZUTUAN B座/DONGHAO 22层/LOUC
+======
+输入: 包头青山区赵家营子花园小区4区8栋12号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赵家营子/CJWH 花园小区/XIAOQU 4区/ZRCZ 8栋/DONGHAO 12号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赵家营子/CJWH 4区/ZRCZ 花园小区/XIAOQU 8栋/DONGHAO 12号/HSH
+======
+输入: 包头青山区赵家营子花园小区4区8栋12号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赵家营子/CJWH 花园小区/XIAOQU 4区/ZRCZ 8栋/DONGHAO 12号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赵家营子/CJWH 4区/ZRCZ 花园小区/XIAOQU 8栋/DONGHAO 12号/HSH
+======
+输入: 包头青山区赛音道赛音3#住宅区3号楼96
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 赛/x 音/x 3#/MPH 住宅区/ZUTUAN 3号楼/DONGHAO 9/x 6/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 3#/MPH 住宅区/ZUTUAN 3号楼/DONGHAO
+======
+输入: 包头青山区自8#街坊17号楼3单元10号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自/x 8#街坊/XIAOQU 17号/HSH 楼/x 3单元/DYH 10号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 8#街坊/XIAOQU 3单元/DYH 17号/HSH
+======
+输入: 包头青山区自8#街坊17号楼2单元底店（蜜菓秘制鲜饮）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自/x 8#街坊/XIAOQU 17号楼/DONGHAO 2单元/DYH 底店/JZW 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 8#街坊/XIAOQU 底店/JZW 17号楼/DONGHAO 2单元/DYH
+======
+输入: 包头青山区繁荣道呼得木林大街472-4-000000013包头职业技术学院老校区F楼409室（包职院出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁/JLX 荣道/m 呼得木林大街/JLX 4/x 7/x 2/x -/x 4/x -/x 00/JLX 0包/m 头职/MPH 业技术学院/JLX 老校区/XIAOQU F/x 楼/x 409室/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 头职/MPH 老校区/XIAOQU 409室/HSH
+======
+输入: 包头青山区繁荣道呼得木林大街472-4-000000013包头职业技术学院老校区F楼409室（包职院出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁/JLX 荣道/m 呼得木林大街/JLX 4/x 7/x 2/x -/x 4/x -/x 00/JLX 0包/m 头职/MPH 业技术学院/JLX 老校区/XIAOQU F/x 楼/x 409室/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 头职/MPH 老校区/XIAOQU 409室/HSH
+======
+输入: 包头青山区科学路进步道472-4-000000029民富新苑18栋3单元307号（民富新苑18栋出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 进步/m 道4/MPH 72/XIAOQU -/x 4/x -/x 0/x 0/x 0/x 民富新苑/ZUTUAN 18栋/DONGHAO 3单元/DYH 307号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 道4/MPH 72/XIAOQU 民富新苑/ZUTUAN 18栋/DONGHAO 3单元/DYH 307号/HSH
+======
+输入: 包头青山区科学路自由路自由路8#15栋111号（自8#15栋出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 自由路/JLX 自由路/JLX 8#/MPH 15栋/DONGHAO 111号/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 8#/MPH 15栋/DONGHAO
+======
+输入: 包头青山区科学路科学路同利家电商场科学路同利家电商场一楼覆盖科学路同利家电商场一楼海信组
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 科学路/JLX 同/JLX 利家/m 电商场/MPH 科学路/JLX 同/JLX 利家/m 电商场/MPH 一楼/LOUCENG 覆/x 盖/x 科学路/JLX 同/JLX 利家/m 电商场/MPH 一楼/LOUCENG 海/JLX 信组/m 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 电商场/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 同/JLX 电商场/MPH
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 海/JLX 电商场/MPH
+======
+输入: 包头青山区科学路民主路472-4-0000000181号街坊21栋41号（民1出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 民主路/JLX 4/x 7/x 2/x -/x 4/x -/x 0/x 0/x 0号/MPH 街坊/XIAOQU 21栋/DONGHAO 41号/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 41号/MPH 街坊/XIAOQU 21栋/DONGHAO
+======
+输入: 包头青山区科学路幸福路幸福路7#街坊33#1单元-3.1交换机472-6-000040340幸福路7号街坊33栋27号（幸福路7号街坊出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 幸福路/JLX 幸福路/JLX 7#街坊/XIAOQU 3/x 3#/MPH 1单元/DYH -/x 3/x ./x 1/x 交换/x 机/x 4/x 7/x 2/x -/x 6/x -/x 0/x 0/x 0/x 幸福路/JLX 7号街坊/XIAOQU 33栋/DONGHAO 27号/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 27号/MPH 7#街坊/XIAOQU 33栋/DONGHAO 1单元/DYH
+======
+输入: 包头青山区科学路幸福路472-4-0000000255#10栋74号（幸5#出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 幸福路/JLX 4/x 7/x 2/x -/x 4/x -/x 0/x 0/x 0/x #/x 10栋/DONGHAO 74号/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 74号/MPH 10栋/DONGHAO
+======
+输入: 包头青山区科学路呼得木林大街472-4-000000022呼14#南区5栋23号（电力院）（呼14#出线）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 呼得木林大街/JLX 4/x 7/x 2/x -/x 4/x -/x 000000022/MPH 呼/JLX 14#/MPH 南区/ZUTUAN 5栋/DONGHAO 23号/MPH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 14#/MPH 南区/ZUTUAN 5栋/DONGHAO
+======
+输入: 包头青山区民族东路西昆北办事处村委会四楼征兵办公桉覆盖征兵办公楼内用户（包头市九原区新城镇新城村委会3楼（城管中队3楼）
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 九原区/DIST 新城镇/SHEQU 新城村/CJWH 委会/XIAOQU 3/x 楼/x 
+比对: 内蒙古自治区/PROV 包头市/CITY 九原区/DIST 新城镇/SHEQU 新城村/CJWH 委会/XIAOQU
+======
+输入: 包头青山区民主路朝阳一区9号楼3单元72号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 朝阳一区/XIAOQU 9号/HSH 楼/x 3单元/DYH 72号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 朝阳一区/XIAOQU 3单元/DYH 9号/HSH
+======
+输入: 包头青山区春光小区二区7号楼4单元68号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 春光小区/XIAOQU 二区/ZUTUAN 7号/HSH 楼/x 4单元/DYH 68号/HSH 
+比对: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 春光小区/XIAOQU 二区/ZUTUAN 4单元/DYH 68号/HSH
+======
+输入: 包头青山区新型一品机房10号ONU覆盖周围用户 瑞景4号楼二单元503号
+
+拆分: 内蒙古自治区/PROV 包头市/CITY 青山区/DIST 新型/JLX 一品/m 机房/x 10号/HSH ONU覆/JLX 盖周/m 围用户/MPH  /x 瑞景/ZUTUAN 4号/HSH 楼/x 二单元/DYH 503号/HSH 

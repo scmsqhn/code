@@ -1,0 +1,30 @@
+#!/bin/bash
+rm ./pred/警务pred.txt
+rm ./pred/常口pred.txt
+rm ./pred/户籍pred.txt
+rm ./pred/广电pred.txt
+#rm /data/address_gy_release/source/pred/广电pred.txt
+rm ./pred/纠错pred.txt
+rm ./pred/tmp.txt
+
+python reghelper.py 1 /data/shikou.txt ./pred/实口pred.txt 1000
+python reghelper.py 1 /data/changkou.txt ./pred/常口pred.txt 1000
+python reghelper.py 1 /data/广电清洗地址.txt ./pred/广电pred.txt 1000
+#python reghelper.py 1 /data/户籍全部地址.txt ./pred/户籍pred.txt 400
+#python reghelper.py 1 /data/纠错.txt ./pred/纠错pred.txt 100
+
+cat ./pred/警务pred.txt ./pred/常口pred.txt ./pred/户籍pred.txt ./pred/纠错pred.txt > ./pred/tmp.txt 
+#cat ./pred/广电pred.txt ./pred/警务pred.txt ./pred/常口pred.txt ./pred/户籍pred.txt ./pred/纠错pred.txt > ./pred/tmp.txt 
+#awk 'BEGIN{srand()}{b[rand()NR]=$0}END{for(x in b)print b[x]}' > ./pred/tmp_shuffle.txt
+> ./pred/check.txt
+find ./pred/tmp.txt | xargs grep -s "小区名" | sort | uniq >> ./pred/check.txt 
+find ./pred/tmp.txt | xargs grep -s "组团名称" | sort | uniq >> ./pred/check.txt 
+find ./pred/tmp.txt | xargs grep -s "街路巷名" |sort | uniq >> ./pred/check.txt 
+find ./pred/tmp.txt | xargs grep -s "户室号" | sort | uniq >> ./pred/check.txt 
+find ./pred/tmp.txt | xargs grep -s "栋号" | sort | uniq >> ./pred/check.txt 
+
+#diff -Nur ./pred/tmp.txt ./pred/eval_file_1229.txt|egrep "^\+"|grep -v "+++"|wc -l
+#diff -Nur ./pred/tmp.txt ./pred/eval_file_1229.txt|egrep "^\-"|grep -v "---"|wc -l
+diff -Nur ./pred/tmp.txt ./pred/eval_file_1229.txt|wc -l
+
+python json_gen.py ./pred/tmp.txt ./pred/tmp.csv

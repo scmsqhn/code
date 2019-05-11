@@ -1,0 +1,1 @@
+{"description":"","lang":"zh","pipeline":["ner"],"name":"model","license":"","author":"","url":"","vectors":{"keys":1861,"width":768,"vectors":2306,"name":"zh_model.vectors"},"version":"0.0.0","spacy_version":">=2.1.3","email":""}

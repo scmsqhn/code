@@ -1,0 +1,7 @@
+# IPython log file
+
+
+l
+l
+get_ipython().run_line_magic('ls', '')
+exit()

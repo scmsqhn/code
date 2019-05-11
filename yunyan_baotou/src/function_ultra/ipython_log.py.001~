@@ -1,0 +1,23 @@
+# IPython log file
+
+
+get_ipython().run_line_magic('cd', '~/code')
+get_ipython().run_line_magic('cd', 'yunyan_baotou/')
+get_ipython().run_line_magic('cd', 'src/')
+get_ipython().run_line_magic('cd', 'function_ultra/')
+get_ipython().run_line_magic('run', 'word_discover_regress.py')
+predict_y
+fig = plt.figure(1)
+get_ipython().run_line_magic('pinfo', 'plt.scatter')
+plt.scatter(x_data[:,0),y_data)
+plt.scatter(x_data[:,0],y_data)
+plt.show()
+q
+x_data
+q
+get_ipython().run_line_magic('ed', 'word_discover_regress.py')
+x_data
+q
+get_ipython().run_line_magic('ed', 'word_discover_regress.py')
+get_ipython().run_line_magic('ed', 'word_discover_regress.py')
+get_ipython().run_line_magic('ed', 'word_discover_regress.py')

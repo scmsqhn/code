@@ -1,0 +1,16 @@
+2019-01-17 01:41:16,398 - root - DEBUG - debug 信息
+2019-01-17 01:41:16,398 - root - INFO - info 信息
+2019-01-17 01:41:16,398 - root - WARNING - warn 信息
+2019-01-17 01:41:16,398 - root - ERROR - error 信息
+2019-01-17 01:41:16,399 - root - CRITICAL - critical 信息
+2019-01-17 01:41:16,399 - root - DEBUG - 这些东西 是自定义信息
+2019-01-17 01:41:16,524 - werkzeug - WARNING -  * Debugger is active!
+2019-01-17 01:41:16,539 - werkzeug - INFO -  * Debugger PIN: 305-174-116
+2019-01-17 01:41:34,918 - werkzeug - INFO - 127.0.0.1 - - [17/Jan/2019 01:41:34] "[37mPOST /normalization/split HTTP/1.1[0m" 200 -
+2019-01-17 01:41:34,940 - werkzeug - INFO - 127.0.0.1 - - [17/Jan/2019 01:41:34] "[37mPOST /normalization/search HTTP/1.1[0m" 200 -
+2019-01-17 01:42:12,610 - werkzeug - INFO - 127.0.0.1 - - [17/Jan/2019 01:42:12] "[37mPOST /normalization/split HTTP/1.1[0m" 200 -
+2019-01-17 01:42:13,009 - werkzeug - INFO - 127.0.0.1 - - [17/Jan/2019 01:42:13] "[37mPOST /normalization/search HTTP/1.1[0m" 200 -
+
+2019-01-17 01:41:34,940 - werkzeug - INFO - 127.0.0.1 - - [17/Jan/2019 01:41:34] "[37mPOST /normalization/search HTTP/1.1[0m" 200 -
+2019-01-17 01:42:12,610 - werkzeug - INFO - 127.0.0.1 - - [17/Jan/2019 01:42:12] "[37mPOST /normalization/split HTTP/1.1[0m" 200 -
+2019-01-17 01:42:13,009 - werkzeug - INFO - 127.0.0.1 - - [17/Jan/2019 01:42:13] "[37mPOST /normalization/search HTTP/1.1[0m" 200 -

@@ -1,0 +1,216 @@
+[2019-01-16 22:03:56 +0800] [8136] [DEBUG] Current configuration:
+  config: None
+  bind: ['127.0.0.1:8000']
+  backlog: 2048
+  workers: 1
+  worker_class: sync
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 30
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /home/phoenixkiller/workbench/yunhai/src/myshell
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 1000
+  group: 1000
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1']
+  accesslog: ./access.log
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: ./error.log
+  loglevel: debug
+  capture_output: False
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  statsd_prefix: 
+  proc_name: None
+  default_proc_name: ../web/main_web:app
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x7f343f82a378>
+  on_reload: <function OnReload.on_reload at 0x7f343f82a488>
+  when_ready: <function WhenReady.when_ready at 0x7f343f82a598>
+  pre_fork: <function Prefork.pre_fork at 0x7f343f82a6a8>
+  post_fork: <function Postfork.post_fork at 0x7f343f82a7b8>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7f343f82a8c8>
+  worker_int: <function WorkerInt.worker_int at 0x7f343f82a9d8>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7f343f82aae8>
+  pre_exec: <function PreExec.pre_exec at 0x7f343f82abf8>
+  pre_request: <function PreRequest.pre_request at 0x7f343f82ad08>
+  post_request: <function PostRequest.post_request at 0x7f343f82ad90>
+  child_exit: <function ChildExit.child_exit at 0x7f343f82aea0>
+  worker_exit: <function WorkerExit.worker_exit at 0x7f343f841048>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7f343f841158>
+  on_exit: <function OnExit.on_exit at 0x7f343f841268>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: TLSv1
+  raw_paste_global_conf: []
+[2019-01-16 22:03:56 +0800] [8136] [INFO] Starting gunicorn 19.9.0
+[2019-01-16 22:03:56 +0800] [8136] [DEBUG] Arbiter booted
+[2019-01-16 22:03:56 +0800] [8136] [INFO] Listening at: http://127.0.0.1:8000 (8136)
+[2019-01-16 22:03:56 +0800] [8136] [INFO] Using worker: sync
+[2019-01-16 22:03:56 +0800] [8139] [INFO] Booting worker with pid: 8139
+[2019-01-16 22:03:56 +0800] [8139] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named '.'
+[2019-01-16 22:03:56 +0800] [8139] [INFO] Worker exiting (pid: 8139)
+[2019-01-16 22:03:56 +0800] [8136] [DEBUG] 1 workers
+[2019-01-16 22:03:56 +0800] [8136] [INFO] Shutting down: Master
+[2019-01-16 22:03:56 +0800] [8136] [INFO] Reason: Worker failed to boot.
+[2019-01-16 22:04:20 +0800] [8221] [DEBUG] Current configuration:
+  config: None
+  bind: ['127.0.0.1:8000']
+  backlog: 2048
+  workers: 1
+  worker_class: sync
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 30
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /home/phoenixkiller/workbench/yunhai/src/myshell
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 1000
+  group: 1000
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1']
+  accesslog: ./access.log
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: ./error.log
+  loglevel: debug
+  capture_output: False
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  statsd_prefix: 
+  proc_name: None
+  default_proc_name: ../web/main_web:app
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x7f74f400e378>
+  on_reload: <function OnReload.on_reload at 0x7f74f400e488>
+  when_ready: <function WhenReady.when_ready at 0x7f74f400e598>
+  pre_fork: <function Prefork.pre_fork at 0x7f74f400e6a8>
+  post_fork: <function Postfork.post_fork at 0x7f74f400e7b8>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7f74f400e8c8>
+  worker_int: <function WorkerInt.worker_int at 0x7f74f400e9d8>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7f74f400eae8>
+  pre_exec: <function PreExec.pre_exec at 0x7f74f400ebf8>
+  pre_request: <function PreRequest.pre_request at 0x7f74f400ed08>
+  post_request: <function PostRequest.post_request at 0x7f74f400ed90>
+  child_exit: <function ChildExit.child_exit at 0x7f74f400eea0>
+  worker_exit: <function WorkerExit.worker_exit at 0x7f74f4024048>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7f74f4024158>
+  on_exit: <function OnExit.on_exit at 0x7f74f4024268>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: TLSv1
+  raw_paste_global_conf: []
+[2019-01-16 22:04:20 +0800] [8221] [INFO] Starting gunicorn 19.9.0
+[2019-01-16 22:04:20 +0800] [8221] [DEBUG] Arbiter booted
+[2019-01-16 22:04:20 +0800] [8221] [INFO] Listening at: http://127.0.0.1:8000 (8221)
+[2019-01-16 22:04:20 +0800] [8221] [INFO] Using worker: sync
+[2019-01-16 22:04:20 +0800] [8224] [INFO] Booting worker with pid: 8224
+[2019-01-16 22:04:20 +0800] [8224] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/phoenixkiller/anaconda3/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named '.'
+[2019-01-16 22:04:20 +0800] [8224] [INFO] Worker exiting (pid: 8224)
+[2019-01-16 22:04:20 +0800] [8221] [DEBUG] 1 workers
+[2019-01-16 22:04:20 +0800] [8221] [INFO] Shutting down: Master
+[2019-01-16 22:04:20 +0800] [8221] [INFO] Reason: Worker failed to boot.

@@ -1,0 +1,21 @@
+#!
+
+1. 拆分测试
+访问接口 split 通过返回值判断,是否拆分正确
+http://58.17.133.80:15005/normalization/split
+
+2. 比对测试
+访问接口 search 通过返回值判断,是否比对正确
+http://58.17.133.80:15005/normalization/search
+
+3. 测试数据访问格式
+    headers = {'content-type': 'application/json', "Accept": "application/json"}
+    body = {
+        'messageid': "12",
+        'clientid': "13",
+        'text':line,
+        'encrypt':'false',
+        }
+    response = requests.post(url, data = json.dumps(body), headers = headers)
+    return json.loads(response.text)
+

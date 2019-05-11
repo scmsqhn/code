@@ -1,0 +1,927 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	src/struct_interface_ultra/Prototype.py	/^    class A:$/;"	c	function:main
+A	src/struct_interface_ultra/Visitor.py	/^class A(Node):$/;"	c
+AbstractExpression	src/struct_interface_ultra/Interpreter.py	/^class AbstractExpression:$/;"	c
+ActiMatch	src/main.py	/^class ActiMatch(object):$/;"	c
+Adapter	src/struct_interface_ultra/Adapter.py	/^class Adapter(object):$/;"	c
+Add	src/struct_interface_ultra/Composite.py	/^    def Add(self,com):$/;"	m	class:Component
+Add	src/struct_interface_ultra/Composite.py	/^    def Add(self,com):$/;"	m	class:Composite
+Add	src/struct_interface_ultra/Composite.py	/^    def Add(self,com):$/;"	m	class:Leaf
+AmState	src/struct_interface_ultra/State.py	/^class AmState(State):$/;"	c
+B	src/struct_interface_ultra/Visitor.py	/^class B(Node):$/;"	c
+BASE_DIR	src/function_ultra/xgb_classify.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	v
+BST	src/user_prob/test.py	/^BST = load_model(myconfig.CLASSMODPATH2)$/;"	v
+Builder	src/struct_interface_ultra/Builder.py	/^class Builder(object):$/;"	c
+BuilderFlat	src/struct_interface_ultra/Builder.py	/^class BuilderFlat(Builder):$/;"	c
+BuilderHouse	src/struct_interface_ultra/Builder.py	/^class BuilderHouse(Builder):$/;"	c
+Building	src/struct_interface_ultra/Builder.py	/^class Building(object):$/;"	c
+C	src/struct_interface_ultra/Visitor.py	/^class C(A, B):$/;"	c
+CHAR_HASH_DIVIDE	src/function_ultra/xgb_classify.py	/^CHAR_HASH_DIVIDE = 3000$/;"	v
+CHAR_HASH_DIVIDE	src/myconfig.py	/^CHAR_HASH_DIVIDE = 3000$/;"	v
+CHAR_STATE_TAB_P	src/jieba/posseg/__init__.py	/^CHAR_STATE_TAB_P = "char_state_tab.p"$/;"	v
+CHECK_RULE_JIEDAO	src/function_ultra/xgb_classify.py	/^CHECK_RULE_JIEDAO = re.compile("\\D\\D\\D[街道路巷村镇坡屯]")$/;"	v
+CHECK_RULE_JIEDAO	src/myconfig.py	/^CHECK_RULE_JIEDAO = re.compile("\\D\\D\\D[街道路巷村镇坡屯]")$/;"	v
+CHECK_RULE_LOUHAO	src/function_ultra/xgb_classify.py	/^CHECK_RULE_LOUHAO = re.compile($/;"	v
+CHECK_RULE_LOUHAO	src/myconfig.py	/^CHECK_RULE_LOUHAO = re.compile("([一二三四五六七八九零]+?[号杠])(?:.*?)?([一二三四五六七八九零]+?[号杠$])")$/;"	v
+CLASSMODPATH	src/myconfig.py	/^CLASSMODPATH = pth('model\/classifier.model')$/;"	v
+CLASSMODPATH2	src/myconfig.py	/^CLASSMODPATH2 = pth('model\/classifier.model')$/;"	v
+CURDIR	src/function_ultra/request.py	/^CURDIR = os.path.abspath(os.path.dirname(__file__))$/;"	v
+CURPATH	src/business_ultra/reghelper.py	/^CURPATH = os.path.dirname(os.path.realpath(__file__))$/;"	v
+CURPATH	src/jieba/finalseg/user_prob/test.py	/^CURPATH = os.path.dirname(os.path.realpath(__file__))$/;"	v
+CURPATH	src/main.py	/^CURPATH = os.path.dirname(os.path.realpath(__file__))$/;"	v
+CURPATH	src/myconfig.py	/^CURPATH = cur()$/;"	v
+CURPATH	src/user_prob/test.py	/^CURPATH = os.path.dirname(os.path.realpath(__file__))$/;"	v
+Car	src/struct_interface_ultra/Adapter.py	/^class Car(object):$/;"	c
+Card	src/struct_interface_ultra/Flyweight.py	/^class Card(object):$/;"	c
+Cat	src/struct_interface_ultra/Abstract_Factory.py	/^class Cat:$/;"	c
+Cat	src/struct_interface_ultra/Adapter.py	/^class Cat(object):$/;"	c
+CatFactory	src/struct_interface_ultra/Abstract_Factory.py	/^class CatFactory:$/;"	c
+ChinaGetter	src/struct_interface_ultra/Factory_Method.py	/^class ChinaGetter:$/;"	c
+ChineseAnalyzer	src/jieba/analyse/analyzer.py	/^def ChineseAnalyzer(stoplist=STOP_WORDS, minsize=1, stemfn=stem, cachesize=50000):$/;"	f
+ChineseTokenizer	src/jieba/analyse/analyzer.py	/^class ChineseTokenizer(Tokenizer):$/;"	c
+CircleShape	src/struct_interface_ultra/Bridge.py	/^class CircleShape(object):$/;"	c
+Client	src/struct_interface_ultra/Chain.py	/^class Client:$/;"	c
+Commit	src/struct_interface_ultra/Memento.py	/^    def Commit(self):$/;"	m	class:Transaction
+Component	src/struct_interface_ultra/Composite.py	/^class Component:$/;"	c
+Composite	src/struct_interface_ultra/Composite.py	/^class Composite(Component):$/;"	c
+ConcreteHandler1	src/struct_interface_ultra/Chain.py	/^class ConcreteHandler1(Handler):$/;"	c
+ConcreteHandler2	src/struct_interface_ultra/Chain.py	/^class ConcreteHandler2(Handler):$/;"	c
+ConcreteHandler3	src/struct_interface_ultra/Chain.py	/^class ConcreteHandler3(Handler):$/;"	c
+Context	src/struct_interface_ultra/Interpreter.py	/^class Context:$/;"	c
+DATA_DIR	src/function_ultra/xgb_classify.py	/^DATA_DIR = os.path.join(BASE_DIR, "data")$/;"	v
+DATPATH	src/myconfig.py	/^DATPATH = pth('data')$/;"	v
+DATPATH	src/myconfig.py	/^DATPATH = pth('model')$/;"	v
+DB	src/struct_interface_ultra/Mediator.py	/^class DB:$/;"	c
+DCTPATH	src/myconfig.py	/^DCTPATH = pth('dct_file\/dct_level')$/;"	v
+DEBUG	src/business_ultra/init_data.py	/^DEBUG = True$/;"	v
+DEBUG	src/business_ultra/reghelper.py	/^DEBUG = True$/;"	v
+DEBUG	src/jieba/finalseg/user_prob/test.py	/^DEBUG = False$/;"	v
+DEBUG	src/main.py	/^DEBUG = True$/;"	v
+DEBUG	src/user_prob/test.py	/^DEBUG = False$/;"	v
+DEFAULT_DICT	src/jieba/__init__.py	/^DEFAULT_DICT = None$/;"	v
+DEFAULT_DICT_NAME	src/jieba/__init__.py	/^DEFAULT_DICT_NAME = "dict.txt"$/;"	v
+DEFAULT_IDF	src/jieba/analyse/tfidf.py	/^DEFAULT_IDF = _get_module_path("idf.txt")$/;"	v
+DICT	src/business_ultra/init_data.py	/^DICT = False#$True$/;"	v
+DICT	src/business_ultra/reghelper.py	/^DICT = False#$True$/;"	v
+DICT	src/main.py	/^DICT = False#$True$/;"	v
+DICT_WRITING	src/jieba/__init__.py	/^DICT_WRITING = {}$/;"	v
+Data	src/struct_interface_ultra/Observer.py	/^class Data(Subject):$/;"	c
+Data	src/struct_ultra/observer_app.py	/^class Data(Subject):$/;"	c
+DecimalViewer	src/struct_interface_ultra/Observer.py	/^class DecimalViewer:$/;"	c
+DecimalViewer	src/struct_ultra/observer_app.py	/^class DecimalViewer:$/;"	c
+Director	src/struct_interface_ultra/Builder.py	/^class Director(object):$/;"	c
+Display	src/struct_interface_ultra/Composite.py	/^    def Display(self,nDepth):$/;"	m	class:Component
+Display	src/struct_interface_ultra/Composite.py	/^    def Display(self,nDepth):$/;"	m	class:Composite
+Display	src/struct_interface_ultra/Composite.py	/^    def Display(self,nDepth):$/;"	m	class:Leaf
+DoStuff	src/struct_interface_ultra/Memento.py	/^    def DoStuff(self):$/;"	m	class:NumObj
+Dog	src/struct_interface_ultra/Abstract_Factory.py	/^class Dog:$/;"	c
+Dog	src/struct_interface_ultra/Adapter.py	/^class Dog(object):$/;"	c
+DogFactory	src/struct_interface_ultra/Abstract_Factory.py	/^class DogFactory:$/;"	c
+DrawingAPI1	src/struct_interface_ultra/Bridge.py	/^class DrawingAPI1(object):$/;"	c
+DrawingAPI2	src/struct_interface_ultra/Bridge.py	/^class DrawingAPI2(object):$/;"	c
+EVAL_DATA	src/function_ultra/xgb_classify.py	/^EVAL_DATA = 300$/;"	v
+EVAL_DATA	src/myconfig.py	/^EVAL_DATA = 3$/;"	v
+EnglishGetter	src/struct_interface_ultra/Factory_Method.py	/^class EnglishGetter:$/;"	c
+Expression	src/struct_interface_ultra/Interpreter.py	/^class Expression(AbstractExpression):$/;"	c
+FmState	src/struct_interface_ultra/State.py	/^class FmState(State):$/;"	c
+Force_Split_Words	src/jieba/finalseg/__init__.py	/^Force_Split_Words = set([])$/;"	v
+Force_Split_Words	src/user_prob/bak/__init__.py	/^Force_Split_Words = set([])$/;"	v
+HASH_MAX	src/function_ultra/xgb_classify.py	/^HASH_MAX = 77777777$/;"	v
+HASH_MAX	src/myconfig.py	/^HASH_MAX = 77777777$/;"	v
+Handler	src/struct_interface_ultra/Chain.py	/^class Handler:$/;"	c
+HexViewer	src/struct_interface_ultra/Observer.py	/^class HexViewer:$/;"	c
+HexViewer	src/struct_ultra/observer_app.py	/^class HexViewer:$/;"	c
+Human	src/struct_interface_ultra/Adapter.py	/^class Human(object):$/;"	c
+IDFLoader	src/jieba/analyse/tfidf.py	/^class IDFLoader(object):$/;"	c
+Increment	src/struct_interface_ultra/Memento.py	/^    def Increment(self):$/;"	m	class:NumObj
+Interpret	src/struct_interface_ultra/Interpreter.py	/^    def Interpret(self,context):$/;"	m	class:AbstractExpression
+Interpret	src/struct_interface_ultra/Interpreter.py	/^    def Interpret(self,context):$/;"	m	class:Expression
+Interpret	src/struct_interface_ultra/Interpreter.py	/^    def Interpret(self,context):$/;"	m	class:NonterminalExpression
+JIEBACUT	src/business_ultra/init_data.py	/^JIEBACUT= True$/;"	v
+JIEBACUT	src/business_ultra/reghelper.py	/^JIEBACUT= True$/;"	v
+JIEBACUT	src/main.py	/^JIEBACUT= True$/;"	v
+KeywordExtractor	src/jieba/analyse/tfidf.py	/^class KeywordExtractor(object):$/;"	c
+LENTH_PADDING	src/function_ultra/xgb_classify.py	/^LENTH_PADDING = 15$/;"	v
+LENTH_PADDING	src/myconfig.py	/^LENTH_PADDING = 15$/;"	v
+Leaf	src/struct_interface_ultra/Composite.py	/^class Leaf(Component):$/;"	c
+MIN_FLOAT	src/jieba/finalseg/__init__.py	/^MIN_FLOAT = -3.14e100$/;"	v
+MIN_FLOAT	src/jieba/posseg/viterbi.py	/^MIN_FLOAT = -3.14e100$/;"	v
+MIN_FLOAT	src/user_prob/bak/__init__.py	/^MIN_FLOAT = -3.14e100$/;"	v
+MIN_INF	src/jieba/posseg/viterbi.py	/^MIN_INF = float("-inf")$/;"	v
+MODPATH	src/myconfig.py	/^MODPATH = pth('model')$/;"	v
+Memento	src/struct_interface_ultra/Memento.py	/^def Memento(obj, deep=False):$/;"	f
+MoveFileCommand	src/struct_interface_ultra/Command.py	/^class MoveFileCommand(object):$/;"	c
+Node	src/struct_interface_ultra/Visitor.py	/^class Node(object):$/;"	c
+NonterminalExpression	src/struct_interface_ultra/Interpreter.py	/^class NonterminalExpression(AbstractExpression):$/;"	c
+NumObj	src/struct_interface_ultra/Memento.py	/^class NumObj(object):$/;"	c
+P	src/jieba/finalseg/prob_emit.py	/^P = {$/;"	v
+P	src/jieba/finalseg/prob_start.py	/^P={$/;"	v
+P	src/jieba/finalseg/prob_trans.py	/^P={$/;"	v
+P	src/jieba/finalseg/user_prob/prob_emit.py	/^P = {$/;"	v
+P	src/jieba/finalseg/user_prob/prob_start.py	/^P={$/;"	v
+P	src/jieba/finalseg/user_prob/prob_trans.py	/^P={$/;"	v
+P	src/jieba/posseg/char_state_tab.py	/^P={'\\u4e00': (('B', 'm'),$/;"	v
+P	src/jieba/posseg/prob_emit.py	/^P = {$/;"	v
+P	src/jieba/posseg/prob_start.py	/^P={$/;"	v
+P	src/jieba/posseg/prob_trans.py	/^P={$/;"	v
+P	src/user_prob/bak/prob_emit.py	/^P={'B': { '\\u8d35': -1.7801943732,$/;"	v
+P	src/user_prob/bak/prob_start.py	/^P={'B': -1.26311597728,$/;"	v
+P	src/user_prob/bak/prob_trans.py	/^P={'B': {'E': -3.2770032528476309, 'M': -1.030296703073057},$/;"	v
+P	src/user_prob/prob_emit.py	/^P = {$/;"	v
+P	src/user_prob/prob_start.py	/^P={$/;"	v
+P	src/user_prob/prob_trans.py	/^P={$/;"	v
+POSTokenizer	src/jieba/posseg/__init__.py	/^class POSTokenizer(object):$/;"	c
+PREPATH	src/myconfig.py	/^PREPATH = pth('dct_file\/dct_level\/pre.txt')$/;"	v
+PRJPATH	src/myconfig.py	/^PRJPATH = '\/data\/zhengzhou_match_release'$/;"	v
+PROB_EMIT_P	src/jieba/finalseg/__init__.py	/^PROB_EMIT_P = "prob_emit.p"$/;"	v
+PROB_EMIT_P	src/jieba/posseg/__init__.py	/^PROB_EMIT_P = "prob_emit.p"$/;"	v
+PROB_EMIT_P	src/user_prob/bak/__init__.py	/^PROB_EMIT_P = "prob_emit.p"$/;"	v
+PROB_START_P	src/jieba/finalseg/__init__.py	/^PROB_START_P = "prob_start.p"$/;"	v
+PROB_START_P	src/jieba/posseg/__init__.py	/^PROB_START_P = "prob_start.p"$/;"	v
+PROB_START_P	src/user_prob/bak/__init__.py	/^PROB_START_P = "prob_start.p"$/;"	v
+PROB_TRANS_P	src/jieba/finalseg/__init__.py	/^PROB_TRANS_P = "prob_trans.p"$/;"	v
+PROB_TRANS_P	src/jieba/posseg/__init__.py	/^PROB_TRANS_P = "prob_trans.p"$/;"	v
+PROB_TRANS_P	src/user_prob/bak/__init__.py	/^PROB_TRANS_P = "prob_trans.p"$/;"	v
+PetShop	src/struct_interface_ultra/Abstract_Factory.py	/^class PetShop:$/;"	c
+PrevStatus	src/jieba/finalseg/__init__.py	/^PrevStatus = {$/;"	v
+PrevStatus	src/user_prob/bak/__init__.py	/^PrevStatus = {$/;"	v
+Prototype	src/struct_interface_ultra/Prototype.py	/^class Prototype:$/;"	c
+Proxy	src/struct_interface_ultra/Proxy.py	/^class Proxy:$/;"	c
+Radio	src/struct_interface_ultra/State.py	/^class Radio(object):$/;"	c
+RegHelper	src/business_ultra/reghelper.py	/^class RegHelper(object):$/;"	c
+Reporter	src/struct_interface_ultra/Mediator.py	/^class Reporter:$/;"	c
+Restore	src/struct_interface_ultra/Memento.py	/^    def Restore():$/;"	f	function:Memento
+Rollback	src/struct_interface_ultra/Memento.py	/^    def Rollback(self):$/;"	m	class:Transaction
+SLEEP	src/struct_interface_ultra/facade.py	/^SLEEP = 0.5$/;"	v
+SRCPATH	src/myconfig.py	/^SRCPATH = pth('src')$/;"	v
+STDADD	src/myconfig.py	/^STDADD = pth('data\/standard_addr.json')$/;"	v
+STDPATH	src/myconfig.py	/^STDPATH = pth('data\/standard_addr.json')$/;"	v
+STD_FILE	src/function_ultra/trie_tree.py	/^STD_FILE = "dz_zzxx_cs.csv"$/;"	v
+STD_PATH	src/function_ultra/trie_tree.py	/^STD_PATH = "\/data\/network\/data\/std\/zz"$/;"	v
+STOP_WORDS	src/jieba/analyse/analyzer.py	/^STOP_WORDS = frozenset(('a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'can',$/;"	v
+STOP_WORDS	src/jieba/analyse/tfidf.py	/^    STOP_WORDS = set(($/;"	v	class:KeywordExtractor
+SalesManager	src/struct_interface_ultra/Proxy.py	/^class SalesManager:$/;"	c
+SingleSpam	src/struct_interface_ultra/Singleton.py	/^    class SingleSpam(Singleton):$/;"	c	class:Singleton
+Singleton	src/struct_interface_ultra/Singleton.py	/^class Singleton(object):$/;"	c
+State	src/struct_interface_ultra/State.py	/^class State(object):$/;"	c
+StrategyExample	src/struct_interface_ultra/Strategy.py	/^class StrategyExample:$/;"	c
+StrategyMatch	src/struct_ultra/strategy_app.py	/^class StrategyMatch:$/;"	c
+Subject	src/struct_interface_ultra/Observer.py	/^class Subject(object):$/;"	c
+Subject	src/struct_ultra/observer_app.py	/^class Subject(object):$/;"	c
+TC	src/struct_interface_ultra/Mediator.py	/^class TC:$/;"	c
+TC1	src/struct_interface_ultra/facade.py	/^class TC1:$/;"	c
+TC2	src/struct_interface_ultra/facade.py	/^class TC2:$/;"	c
+TC3	src/struct_interface_ultra/facade.py	/^class TC3:$/;"	c
+TEST_PATH	src/function_ultra/trie_tree.py	/^TEST_PATH = "\/data\/network\/data\/test\/zz"$/;"	v
+TFIDF	src/jieba/analyse/tfidf.py	/^class TFIDF(KeywordExtractor):$/;"	c
+TRAIN_DATA	src/function_ultra/xgb_classify.py	/^TRAIN_DATA = 1000000$/;"	v
+TRAIN_DATA	src/myconfig.py	/^TRAIN_DATA = 10$/;"	v
+TestManager	src/struct_interface_ultra/Mediator.py	/^class TestManager:$/;"	c
+TestRunner	src/struct_interface_ultra/facade.py	/^class TestRunner:$/;"	c
+TextRank	src/jieba/analyse/textrank.py	/^class TextRank(KeywordExtractor):$/;"	c
+Tokenizer	src/jieba/__init__.py	/^class Tokenizer(object):$/;"	c
+Transaction	src/struct_interface_ultra/Memento.py	/^class Transaction:$/;"	c
+Trie	src/function_ultra/trie_tree.py	/^class Trie(object):$/;"	c
+TrieNode	src/function_ultra/trie_tree.py	/^class TrieNode(object):$/;"	c
+UndirectWeightedGraph	src/jieba/analyse/textrank.py	/^class UndirectWeightedGraph:$/;"	c
+Visitor	src/struct_interface_ultra/Visitor.py	/^class Visitor(object):$/;"	c
+ZZ_STD_ADD	src/myconfig.py	/^ZZ_STD_ADD = '\/data\/network_zz\/data\/test\/zz\/'$/;"	v
+ZZ_STD_ADD_TREE	src/myconfig.py	/^ZZ_STD_ADD_TREE = pth('model\/zz_add_tree.pkl')$/;"	v
+ZZ_STD_WORD_TREE	src/myconfig.py	/^ZZ_STD_WORD_TREE = pth('model\/zz_word_tree.pkl')$/;"	v
+_CardPool	src/struct_interface_ultra/Flyweight.py	/^    _CardPool = weakref.WeakValueDictionary()$/;"	v	class:Card
+__call__	src/jieba/analyse/analyzer.py	/^    def __call__(self, text, **kargs):$/;"	m	class:ChineseTokenizer	file:
+__call__	src/struct_interface_ultra/Command.py	/^    def __call__(self):$/;"	m	class:MoveFileCommand	file:
+__cut	src/jieba/finalseg/__init__.py	/^def __cut(sentence):$/;"	f	file:
+__cut	src/jieba/posseg/__init__.py	/^    def __cut(self, sentence):$/;"	m	class:POSTokenizer	file:
+__cut	src/user_prob/bak/__init__.py	/^def __cut(sentence):$/;"	f	file:
+__cut_DAG	src/jieba/__init__.py	/^    def __cut_DAG(self, sentence):$/;"	m	class:Tokenizer	file:
+__cut_DAG	src/jieba/posseg/__init__.py	/^    def __cut_DAG(self, sentence):$/;"	m	class:POSTokenizer	file:
+__cut_DAG_NO_HMM	src/jieba/__init__.py	/^    def __cut_DAG_NO_HMM(self, sentence):$/;"	m	class:Tokenizer	file:
+__cut_DAG_NO_HMM	src/jieba/posseg/__init__.py	/^    def __cut_DAG_NO_HMM(self, sentence):$/;"	m	class:POSTokenizer	file:
+__cut_all	src/jieba/__init__.py	/^    def __cut_all(self, sentence):$/;"	m	class:Tokenizer	file:
+__cut_detail	src/jieba/posseg/__init__.py	/^    def __cut_detail(self, sentence):$/;"	m	class:POSTokenizer	file:
+__cut_internal	src/jieba/posseg/__init__.py	/^    def __cut_internal(self, sentence, HMM=True):$/;"	m	class:POSTokenizer	file:
+__eq__	src/jieba/posseg/__init__.py	/^    def __eq__(self, other):$/;"	m	class:pair	file:
+__get__	src/struct_interface_ultra/Memento.py	/^    def __get__(self, obj, T):$/;"	m	class:transactional	file:
+__getattr__	src/jieba/posseg/__init__.py	/^    def __getattr__(self, name):$/;"	m	class:POSTokenizer	file:
+__getattr__	src/struct_interface_ultra/Adapter.py	/^    def __getattr__(self, attr):$/;"	m	class:Adapter	file:
+__getattr__	src/struct_interface_ultra/Decorator.py	/^    def __getattr__(self, name):$/;"	m	class:foo_decorator	file:
+__hash__	src/jieba/posseg/__init__.py	/^    def __hash__(self):$/;"	m	class:pair	file:
+__init__	src/business_ultra/reghelper.py	/^    def __init__(self):$/;"	m	class:RegHelper
+__init__	src/function_ultra/trie_tree.py	/^    def __init__(self):$/;"	m	class:Trie
+__init__	src/function_ultra/trie_tree.py	/^    def __init__(self,char,node):$/;"	m	class:TrieNode
+__init__	src/jieba/__init__.py	/^    def __init__(self, dictionary=DEFAULT_DICT):$/;"	m	class:Tokenizer
+__init__	src/jieba/analyse/textrank.py	/^    def __init__(self):$/;"	m	class:TextRank
+__init__	src/jieba/analyse/textrank.py	/^    def __init__(self):$/;"	m	class:UndirectWeightedGraph
+__init__	src/jieba/analyse/tfidf.py	/^    def __init__(self, idf_path=None):$/;"	m	class:IDFLoader
+__init__	src/jieba/analyse/tfidf.py	/^    def __init__(self, idf_path=None):$/;"	m	class:TFIDF
+__init__	src/jieba/posseg/__init__.py	/^    def __init__(self, tokenizer=None):$/;"	m	class:POSTokenizer
+__init__	src/jieba/posseg/__init__.py	/^    def __init__(self, word, flag):$/;"	m	class:pair
+__init__	src/main.py	/^    def __init__(self,pkl_path):$/;"	m	class:ActiMatch
+__init__	src/struct_interface_ultra/Abstract_Factory.py	/^    def __init__(self, animal_factory=None):$/;"	m	class:PetShop
+__init__	src/struct_interface_ultra/Adapter.py	/^    def __init__(self):$/;"	m	class:Car
+__init__	src/struct_interface_ultra/Adapter.py	/^    def __init__(self):$/;"	m	class:Cat
+__init__	src/struct_interface_ultra/Adapter.py	/^    def __init__(self):$/;"	m	class:Dog
+__init__	src/struct_interface_ultra/Adapter.py	/^    def __init__(self):$/;"	m	class:Human
+__init__	src/struct_interface_ultra/Adapter.py	/^    def __init__(self, obj, adapted_methods):$/;"	m	class:Adapter
+__init__	src/struct_interface_ultra/Bridge.py	/^    def __init__(self, x, y, radius, drawing_api):$/;"	m	class:CircleShape
+__init__	src/struct_interface_ultra/Builder.py	/^    def __init__(self):$/;"	m	class:Builder
+__init__	src/struct_interface_ultra/Builder.py	/^    def __init__(self):$/;"	m	class:Building
+__init__	src/struct_interface_ultra/Builder.py	/^    def __init__(self):$/;"	m	class:Director
+__init__	src/struct_interface_ultra/Chain.py	/^    def __init__(self):$/;"	m	class:Client
+__init__	src/struct_interface_ultra/Command.py	/^    def __init__(self, src, dest):$/;"	m	class:MoveFileCommand
+__init__	src/struct_interface_ultra/Composite.py	/^    def __init__(self,strName):$/;"	m	class:Component
+__init__	src/struct_interface_ultra/Composite.py	/^    def __init__(self,strName):$/;"	m	class:Composite
+__init__	src/struct_interface_ultra/Decorator.py	/^    def __init__(self, decoratee):$/;"	m	class:foo_decorator
+__init__	src/struct_interface_ultra/Factory_Method.py	/^    def __init__(self):$/;"	m	class:ChinaGetter
+__init__	src/struct_interface_ultra/Interpreter.py	/^    def __init__(self):$/;"	m	class:Context
+__init__	src/struct_interface_ultra/Mediator.py	/^    def __init__(self):$/;"	m	class:DB
+__init__	src/struct_interface_ultra/Mediator.py	/^    def __init__(self):$/;"	m	class:Reporter
+__init__	src/struct_interface_ultra/Mediator.py	/^    def __init__(self):$/;"	m	class:TC
+__init__	src/struct_interface_ultra/Mediator.py	/^    def __init__(self):$/;"	m	class:TestManager
+__init__	src/struct_interface_ultra/Memento.py	/^    def __init__(self, *targets):$/;"	m	class:Transaction
+__init__	src/struct_interface_ultra/Memento.py	/^    def __init__(self, method):$/;"	m	class:transactional
+__init__	src/struct_interface_ultra/Memento.py	/^    def __init__(self, value):$/;"	m	class:NumObj
+__init__	src/struct_interface_ultra/Observer.py	/^    def __init__(self):$/;"	m	class:Subject
+__init__	src/struct_interface_ultra/Observer.py	/^    def __init__(self, name=''):$/;"	m	class:Data
+__init__	src/struct_interface_ultra/Prototype.py	/^    def __init__(self):$/;"	m	class:Prototype
+__init__	src/struct_interface_ultra/Proxy.py	/^    def __init__(self):$/;"	m	class:Proxy
+__init__	src/struct_interface_ultra/Singleton.py	/^        def __init__(self, s):$/;"	m	class:Singleton.SingleSpam
+__init__	src/struct_interface_ultra/State.py	/^    def __init__(self):$/;"	m	class:Radio
+__init__	src/struct_interface_ultra/State.py	/^    def __init__(self, radio):$/;"	m	class:AmState
+__init__	src/struct_interface_ultra/State.py	/^    def __init__(self, radio):$/;"	m	class:FmState
+__init__	src/struct_interface_ultra/Strategy.py	/^    def __init__(self, func=None):$/;"	m	class:StrategyExample
+__init__	src/struct_interface_ultra/facade.py	/^    def __init__(self):$/;"	m	class:TestRunner
+__init__	src/struct_ultra/observer_app.py	/^    def __init__(self):$/;"	m	class:Subject
+__init__	src/struct_ultra/observer_app.py	/^    def __init__(self, name=''):$/;"	m	class:Data
+__init__	src/struct_ultra/strategy_app.py	/^    def __init__(self, func=None):$/;"	m	class:StrategyMatch
+__iter__	src/jieba/posseg/__init__.py	/^    def __iter__(self):$/;"	m	class:pair	file:
+__license__	src/jieba/__init__.py	/^__license__ = 'MIT'$/;"	v
+__lt__	src/jieba/posseg/__init__.py	/^    def __lt__(self, other):$/;"	m	class:pair	file:
+__new__	src/struct_interface_ultra/Flyweight.py	/^    def __new__(cls, value, suit):$/;"	m	class:Card	file:
+__new__	src/struct_interface_ultra/Singleton.py	/^    def __new__(cls, *args, **kw):$/;"	m	class:Singleton	file:
+__reg_level_match	src/user_prob/test.py	/^def __reg_level_match(word,lastlevel):$/;"	f	file:
+__repr__	src/jieba/__init__.py	/^    def __repr__(self):$/;"	m	class:Tokenizer	file:
+__repr__	src/jieba/posseg/__init__.py	/^    def __repr__(self):$/;"	m	class:POSTokenizer	file:
+__repr__	src/jieba/posseg/__init__.py	/^    def __repr__(self):$/;"	m	class:pair	file:
+__repr__	src/struct_interface_ultra/Builder.py	/^    def __repr__(self):$/;"	m	class:Building	file:
+__repr__	src/struct_interface_ultra/Flyweight.py	/^    def __repr__(self):$/;"	m	class:Card	file:
+__repr__	src/struct_interface_ultra/Memento.py	/^    def __repr__(self):$/;"	m	class:NumObj	file:
+__str__	src/jieba/posseg/__init__.py	/^    def __str__(self):$/;"	m	class:pair	file:
+__str__	src/struct_interface_ultra/Abstract_Factory.py	/^    def __str__(self):$/;"	m	class:Cat	file:
+__str__	src/struct_interface_ultra/Abstract_Factory.py	/^    def __str__(self):$/;"	m	class:Dog	file:
+__str__	src/struct_interface_ultra/Prototype.py	/^        def __str__(self):$/;"	m	class:main.A	file:
+__str__	src/struct_interface_ultra/Singleton.py	/^        def __str__(self):$/;"	m	class:Singleton.SingleSpam	file:
+__unicode__	src/jieba/posseg/__init__.py	/^    def __unicode__(self):$/;"	m	class:pair	file:
+__version__	src/jieba/__init__.py	/^__version__ = '0.39'$/;"	v
+_dict_search	src/user_prob/test.py	/^def _dict_search(words):$/;"	f
+_eval	src/business_ultra/filter_adabooster_addr.py	/^def _eval(std_file=u"\/home\/phoenixkiller\/nlppipeline\/ONSELL.txt.POSNEG",model='classifier.model'):$/;"	f
+_filename	src/main.py	/^    _filename = "\/data\/corpmgr\/区域语料\/郑州\/zz_std_words.txt"$/;"	v	class:ActiMatch
+_get_abs_path	src/jieba/__init__.py	/^_get_abs_path = lambda path: os.path.normpath(os.path.join(os.getcwd(), path))$/;"	v
+_get_abs_path	src/jieba/analyse/tfidf.py	/^_get_abs_path = jieba._get_abs_path$/;"	v
+_get_key	src/function_ultra/trie_tree.py	/^        def _get_key(pre, pre_node):$/;"	f	function:Trie.get_start
+_get_module_path	src/jieba/analyse/tfidf.py	/^_get_module_path = lambda path: os.path.normpath(os.path.join(os.getcwd(),$/;"	v
+_get_words_level	src/user_prob/test.py	/^def _get_words_level(cuts,bst):$/;"	f
+_lcut	src/jieba/__init__.py	/^    _lcut = lcut$/;"	v	class:Tokenizer
+_lcut	src/jieba/__init__.py	/^def _lcut(s):$/;"	f
+_lcut_all	src/jieba/__init__.py	/^    def _lcut_all(self, sentence):$/;"	m	class:Tokenizer
+_lcut_all	src/jieba/__init__.py	/^def _lcut_all(s):$/;"	f
+_lcut_for_search	src/jieba/__init__.py	/^    _lcut_for_search = lcut_for_search$/;"	v	class:Tokenizer
+_lcut_for_search	src/jieba/__init__.py	/^def _lcut_for_search(s):$/;"	f
+_lcut_for_search_no_hmm	src/jieba/__init__.py	/^    def _lcut_for_search_no_hmm(self, sentence):$/;"	m	class:Tokenizer
+_lcut_for_search_no_hmm	src/jieba/__init__.py	/^def _lcut_for_search_no_hmm(s):$/;"	f
+_lcut_internal	src/jieba/posseg/__init__.py	/^    def _lcut_internal(self, sentence):$/;"	m	class:POSTokenizer
+_lcut_internal	src/jieba/posseg/__init__.py	/^def _lcut_internal(s):$/;"	f
+_lcut_internal_no_hmm	src/jieba/posseg/__init__.py	/^    def _lcut_internal_no_hmm(self, sentence):$/;"	m	class:POSTokenizer
+_lcut_internal_no_hmm	src/jieba/posseg/__init__.py	/^def _lcut_internal_no_hmm(s):$/;"	f
+_lcut_no_hmm	src/jieba/__init__.py	/^    def _lcut_no_hmm(self, sentence):$/;"	m	class:Tokenizer
+_lcut_no_hmm	src/jieba/__init__.py	/^def _lcut_no_hmm(s):$/;"	f
+_pcut	src/jieba/__init__.py	/^def _pcut(sentence, cut_all=False, HMM=True):$/;"	f
+_pcut_for_search	src/jieba/__init__.py	/^def _pcut_for_search(sentence, HMM=True):$/;"	f
+_pred	src/business_ultra/filter_adabooster_addr.py	/^def _pred(k,v,bst):$/;"	f
+_pred	src/function_ultra/xgb_classify.py	/^def _pred(k, v, bst):$/;"	f
+_pred	src/user_prob/test.py	/^def _pred(k,v,bst):$/;"	f
+_replace_file	src/jieba/__init__.py	/^    _replace_file = os.rename$/;"	v
+_train	src/business_ultra/filter_adabooster_addr.py	/^def _train(std_file=u"\/home\/phoenixkiller\/nlppipeline\/shequ",model='classifier.model'):$/;"	f
+_train	src/business_ultra/filter_adabooster_addr.py	/^def _train(std_file=u"\/home\/phoenixkiller\/nlppipeline\/shequ",reg='',model='classifier.model'):$/;"	f
+_train	src/function_ultra/xgb_classify.py	/^def _train(std_file=u"\/home\/phoenixkiller\/nlppipeline\/shequ", model=os.path.join(DATA_DIR, 'classifier.model')):$/;"	f
+a	src/struct_interface_ultra/Visitor.py	/^a = A()$/;"	v
+accepted_chars	src/jieba/analyse/analyzer.py	/^accepted_chars = re.compile(r"[\\u4E00-\\u9FD5]+")$/;"	v
+acti_match_ins	src/main.py	/^    acti_match_ins = ActiMatch(kv)$/;"	v	class:ActiMatch
+actions	src/struct_interface_ultra/State.py	/^    actions = [radio.scan] * 2 + [radio.toggle_amfm] + [radio.scan] * 2$/;"	v
+actions	src/struct_interface_ultra/State.py	/^    actions = actions * 2$/;"	v
+addEdge	src/jieba/analyse/textrank.py	/^    def addEdge(self, start, end, weight):$/;"	m	class:UndirectWeightedGraph
+add_force_split	src/jieba/finalseg/__init__.py	/^def add_force_split(word):$/;"	f
+add_force_split	src/user_prob/bak/__init__.py	/^def add_force_split(word):$/;"	f
+add_word	src/jieba/__init__.py	/^    def add_word(self, word, freq=None, tag=None):$/;"	m	class:Tokenizer
+add_word	src/jieba/__init__.py	/^add_word = dt.add_word$/;"	v
+addr_classifier	src/business_ultra/mark_train_data.py	/^def addr_classifier(k,v,dct,direct):$/;"	f
+address_formula	src/business_ultra/reghelper.py	/^    def address_formula(self,txt):$/;"	m	class:RegHelper
+address_formula_sub	src/business_ultra/reghelper.py	/^    def address_formula_sub(self,txt):$/;"	m	class:RegHelper
+args	src/jieba/__main__.py	/^args = parser.parse_args()$/;"	v
+attach	src/struct_interface_ultra/Observer.py	/^    def attach(self, observer):$/;"	m	class:Subject
+attach	src/struct_ultra/observer_app.py	/^    def attach(self, observer):$/;"	m	class:Subject
+b	src/struct_interface_ultra/Visitor.py	/^b = B()$/;"	v
+bark	src/struct_interface_ultra/Adapter.py	/^    def bark(self):$/;"	m	class:Dog
+bst	src/business_ultra/filter_adabooster_addr.py	/^    bst = load_model("classifier.model")$/;"	v
+bst	src/function_ultra/xgb_classify.py	/^        bst = xgb.Booster()  # init model$/;"	v
+bsum	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^bsum = prob_trans['BE']+prob_trans['BM']$/;"	v
+bsum	src/user_prob/cnt_words_to_py.py	/^bsum = prob_trans['BE']+prob_trans['BM']+1$/;"	v
+build_floor	src/struct_interface_ultra/Builder.py	/^    def build_floor(self):$/;"	m	class:BuilderFlat
+build_floor	src/struct_interface_ultra/Builder.py	/^    def build_floor(self):$/;"	m	class:BuilderHouse
+build_size	src/struct_interface_ultra/Builder.py	/^    def build_size(self):$/;"	m	class:BuilderFlat
+build_size	src/struct_interface_ultra/Builder.py	/^    def build_size(self):$/;"	m	class:BuilderHouse
+building	src/struct_interface_ultra/Builder.py	/^    building = director.get_building()$/;"	v
+c	src/struct_interface_ultra/Interpreter.py	/^    c = []$/;"	v
+c	src/struct_interface_ultra/Interpreter.py	/^    c = c + [Expression()]$/;"	v
+c	src/struct_interface_ultra/Interpreter.py	/^    c = c + [NonterminalExpression()]$/;"	v
+c	src/struct_interface_ultra/Visitor.py	/^c = C()$/;"	v
+c1	src/struct_interface_ultra/Flyweight.py	/^    c1 = Card('9', 'h')$/;"	v
+c2	src/struct_interface_ultra/Flyweight.py	/^    c2 = Card('9', 'h')$/;"	v
+calc	src/business_ultra/filter_adabooster_addr.py	/^def calc(cbase,csent):$/;"	f
+calc	src/jieba/__init__.py	/^    def calc(self, sentence, DAG, route):$/;"	m	class:Tokenizer
+calc	src/jieba/__init__.py	/^calc = dt.calc$/;"	v
+cell_formula	src/business_ultra/reghelper.py	/^    def cell_formula(self,restr):$/;"	m	class:RegHelper
+check_initialized	src/jieba/__init__.py	/^    def check_initialized(self):$/;"	m	class:Tokenizer
+chunked_sents	src/business_ultra/reghelper.py	/^    def chunked_sents(self):$/;"	m	class:RegHelper
+client	src/struct_interface_ultra/Chain.py	/^    client = Client()$/;"	v	class:Client
+clone	src/struct_interface_ultra/Prototype.py	/^    def clone(self, name, **attr):$/;"	m	class:Prototype
+clr	src/function_ultra/utils.py	/^def clr(line):$/;"	f
+cnt	src/jieba/finalseg/test.py	/^cnt = 0$/;"	v
+cnt	src/user_prob/test.py	/^        cnt = 0$/;"	v
+cnt_prob_emit	src/jieba/finalseg/cnt_words_to_py.py	/^def cnt_prob_emit(lines):$/;"	f
+cnt_prob_emit	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^def cnt_prob_emit(lines):$/;"	f
+cnt_prob_emit	src/user_prob/bak/cnt_words_to_py.py	/^def cnt_prob_emit(lines):$/;"	f
+cnt_prob_emit	src/user_prob/cnt_words_to_py.py	/^def cnt_prob_emit(lines):$/;"	f
+cnt_prob_start	src/jieba/finalseg/cnt_words_to_py.py	/^def cnt_prob_start(lines):$/;"	f
+cnt_prob_start	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^def cnt_prob_start(lines):$/;"	f
+cnt_prob_start	src/user_prob/bak/cnt_words_to_py.py	/^def cnt_prob_start(lines):$/;"	f
+cnt_prob_start	src/user_prob/cnt_words_to_py.py	/^def cnt_prob_start(lines):$/;"	f
+cnt_prob_trans	src/jieba/finalseg/cnt_words_to_py.py	/^def cnt_prob_trans(lines):$/;"	f
+cnt_prob_trans	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^def cnt_prob_trans(lines):$/;"	f
+cnt_prob_trans	src/user_prob/bak/cnt_words_to_py.py	/^def cnt_prob_trans(lines):$/;"	f
+cnt_prob_trans	src/user_prob/cnt_words_to_py.py	/^def cnt_prob_trans(lines):$/;"	f
+comb	src/user_prob/test.py	/^def comb(dct1,dct2):$/;"	f
+command_stack	src/struct_interface_ultra/Command.py	/^    command_stack = []$/;"	v
+comp	src/business_ultra/reghelper.py	/^    def comp(self,baselabel,outbase,f):$/;"	m	class:RegHelper
+complex	src/business_ultra/reghelper.py	/^    def complex(self,dctin,dctout):$/;"	m	class:RegHelper
+complex_node	src/function_ultra/trie_tree.py	/^    def complex_node(self,node):$/;"	m	class:Trie
+consoleHandler	src/function_ultra/mylog.py	/^consoleHandler = logging.StreamHandler()$/;"	v
+construct_building	src/struct_interface_ultra/Builder.py	/^    def construct_building(self):$/;"	m	class:Director
+context	src/struct_interface_ultra/Interpreter.py	/^    context= ""$/;"	v
+cost_matrix_value	src/business_ultra/mark_train_data.py	/^def cost_matrix_value(cost):$/;"	f
+count_to	src/struct_interface_ultra/Iterator.py	/^def count_to(count):$/;"	f
+count_to_five	src/struct_interface_ultra/Iterator.py	/^count_to_five = lambda: count_to(5)$/;"	v
+count_to_two	src/struct_interface_ultra/Iterator.py	/^count_to_two = lambda: count_to(2)$/;"	v
+create_reg_from_doc	src/business_ultra/reghelper.py	/^    def create_reg_from_doc(self,docpath):$/;"	m	class:RegHelper
+cunjuweihui	src/user_prob/test.py	/^cunjuweihui = re.compile(r'([\\u4e00-\\u9fa5]+(?:委会|村委会|村委会|村民委员会|村委员会|居委会|创业园|(?<!新)村(?![街道路巷民组苑])))?(?:服务中心)?(?<!商铺)')$/;"	v
+cunjuweihui_ciku	src/user_prob/test.py	/^cunjuweihui_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"村居委会.txt")).readlines()])$/;"	v
+cur	src/myconfig.py	/^cur = lambda : os.path.dirname(os.path.realpath(__file__))$/;"	v
+cut	src/jieba/__init__.py	/^    def cut(self, sentence, cut_all=False, HMM=True):$/;"	m	class:Tokenizer
+cut	src/jieba/__init__.py	/^cut = dt.cut$/;"	v
+cut	src/jieba/finalseg/__init__.py	/^def cut(sentence):$/;"	f
+cut	src/jieba/posseg/__init__.py	/^    def cut(self, sentence, HMM=True):$/;"	m	class:POSTokenizer
+cut	src/jieba/posseg/__init__.py	/^def cut(sentence, HMM=True):$/;"	f
+cut	src/user_prob/bak/__init__.py	/^def cut(sentence):$/;"	f
+cut	src/user_prob/test.py	/^def cut(line):$/;"	f
+cut_for_search	src/jieba/__init__.py	/^    def cut_for_search(self, sentence, HMM=True):$/;"	m	class:Tokenizer
+cut_for_search	src/jieba/__init__.py	/^cut_for_search = dt.cut_for_search$/;"	v
+cutall	src/jieba/__main__.py	/^cutall = args.cutall$/;"	v
+cutfunc	src/jieba/__main__.py	/^    cutfunc = jieba.cut$/;"	v
+cutfunc	src/jieba/__main__.py	/^    def cutfunc(sentence, _, HMM=True):$/;"	f
+cuts	src/jieba/finalseg/user_prob/test.py	/^            cuts = list(jieba.cut(line))$/;"	v
+d	src/jieba/analyse/textrank.py	/^    d = 0.85$/;"	v	class:UndirectWeightedGraph
+danyuan	src/user_prob/test.py	/^danyuan = re.compile(r'([\\da-zA-Z一二三四壹贰叁肆五六七八九十甲乙丙丁]+单元$)?$')$/;"	v
+danyuanhao_ciku	src/user_prob/test.py	/^danyuanhao_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"单元号.txt")).readlines()])$/;"	v
+data	src/struct_interface_ultra/Observer.py	/^    def data(self):$/;"	m	class:Data
+data	src/struct_interface_ultra/Observer.py	/^    def data(self, value):$/;"	m	class:Data
+data	src/struct_ultra/observer_app.py	/^    def data(self):$/;"	m	class:Data
+data	src/struct_ultra/observer_app.py	/^    def data(self, value):$/;"	m	class:Data
+data_clr	src/main.py	/^    def data_clr(self,item):$/;"	m	class:ActiMatch
+data_gen	src/business_ultra/filter_adabooster_addr.py	/^def data_gen(stdfile,cnt,shuffle=False,rule='jieluxiang'):$/;"	f
+data_gen	src/main.py	/^    def data_gen(self,input_file):$/;"	m	class:ActiMatch
+db	src/struct_interface_ultra/Mediator.py	/^    db = DB()$/;"	v
+dct	src/function_ultra/json_gen.py	/^dct = {}$/;"	v
+dct_trans	src/business_ultra/filter_adabooster_addr.py	/^def dct_trans(k,global_dct):$/;"	f
+dct_trans	src/user_prob/test.py	/^def dct_trans(k,global_dct):$/;"	f
+deep	src/struct_interface_ultra/Memento.py	/^    deep = False$/;"	v	class:Transaction
+default_encoding	src/jieba/_compat.py	/^default_encoding = sys.getfilesystemencoding()$/;"	v
+default_logger	src/jieba/__init__.py	/^default_logger = logging.getLogger(__name__)$/;"	v
+default_textrank	src/jieba/analyse/__init__.py	/^default_textrank = TextRank()$/;"	v
+default_tfidf	src/jieba/analyse/__init__.py	/^default_tfidf = TFIDF()$/;"	v
+del_word	src/jieba/__init__.py	/^    def del_word(self, word):$/;"	m	class:Tokenizer
+del_word	src/jieba/__init__.py	/^del_word = dt.del_word$/;"	v
+delim	src/jieba/__main__.py	/^delim = text_type(args.delimiter)$/;"	v
+detach	src/struct_interface_ultra/Observer.py	/^    def detach(self, observer):$/;"	m	class:Subject
+detach	src/struct_ultra/observer_app.py	/^    def detach(self, observer):$/;"	m	class:Subject
+df	src/function_ultra/json_gen.py	/^df = pd.DataFrame(dct)$/;"	v
+dict_clus	src/user_prob/test.py	/^dict_clus = {}$/;"	v
+dict_search	src/user_prob/test.py	/^def dict_search(words):$/;"	f
+dict_set_lst	src/user_prob/test.py	/^dict_set_lst = [sheng_ciku,shi_ciku,qu_ciku,shequ_ciku,cunjuweihui_ciku,jieluxiangming_ciku,zirancunzu_ciku,menpaihao_ciku,xiaoqu_ciku,zutuan_ciku,donghao_ciku,danyuanhao_ciku,louceng_ciku,hushihao_ciku]$/;"	v
+director	src/struct_interface_ultra/Builder.py	/^    director = Director()$/;"	v
+disable_parallel	src/jieba/__init__.py	/^def disable_parallel():$/;"	f
+donghao	src/user_prob/test.py	/^donghao = re.compile(r'((?:[\\u4e00-\\u9fa5]+?)?(?:经济适用房)?(?:商铺)?[\\da-zA-Z至甲乙丙丁首一二三四壹贰叁肆五六七八九十东南西北壹贰叁肆伍\\-]+?[栋幢座](?:[\\u4e00-\\u9fa5]+阁)?$)?$')$/;"	v
+donghao_ciku	src/user_prob/test.py	/^donghao_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"栋号.txt")).readlines()])$/;"	v
+double_check	src/business_ultra/reghelper.py	/^    def double_check(self,inbase):$/;"	m	class:RegHelper
+draw	src/struct_interface_ultra/Bridge.py	/^    def draw(self):$/;"	m	class:CircleShape
+draw_circle	src/struct_interface_ultra/Bridge.py	/^    def draw_circle(self, x, y, radius):$/;"	m	class:DrawingAPI1
+draw_circle	src/struct_interface_ultra/Bridge.py	/^    def draw_circle(self, x, y, radius):$/;"	m	class:DrawingAPI2
+dt	src/jieba/__init__.py	/^dt = Tokenizer()$/;"	v
+dt	src/jieba/posseg/__init__.py	/^dt = POSTokenizer(jieba.dt)$/;"	v
+enable_parallel	src/jieba/__init__.py	/^def enable_parallel(processnum=None):$/;"	f
+encode	src/jieba/posseg/__init__.py	/^    def encode(self, arg):$/;"	m	class:pair
+esum	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^esum = prob_trans['EB']+prob_trans['ES']$/;"	v
+esum	src/user_prob/cnt_words_to_py.py	/^esum = prob_trans['EB']+prob_trans['ES']+1$/;"	v
+eval	src/business_ultra/reghelper.py	/^def eval(save_file):$/;"	f
+eval_file	src/business_ultra/filter_adabooster_addr.py	/^    eval_file = "\/data\/常口户籍数据.txt"$/;"	v
+eval_file	src/business_ultra/reghelper.py	/^    def eval_file(self,f2):$/;"	m	class:RegHelper
+eval_one	src/business_ultra/reghelper.py	/^    def eval_one(self,dctin,f2):$/;"	m	class:RegHelper
+execute	src/struct_interface_ultra/Command.py	/^    def execute(self):$/;"	m	class:MoveFileCommand
+execute	src/struct_interface_ultra/Mediator.py	/^    def execute(self):$/;"	m	class:TC
+execute	src/struct_interface_ultra/Strategy.py	/^    def execute(self):$/;"	m	class:StrategyExample
+execute	src/struct_ultra/strategy_app.py	/^    def execute(self):$/;"	m	class:StrategyMatch
+execute_replacement1	src/struct_interface_ultra/Strategy.py	/^def execute_replacement1(self):$/;"	f
+execute_replacement1	src/struct_ultra/strategy_app.py	/^def execute_replacement1(self):$/;"	f
+execute_replacement2	src/struct_interface_ultra/Strategy.py	/^def execute_replacement2(self):$/;"	f
+execute_replacement2	src/struct_ultra/strategy_app.py	/^def execute_replacement2(self):$/;"	f
+extract_tags	src/jieba/analyse/textrank.py	/^    extract_tags = textrank$/;"	v	class:TextRank
+extract_tags	src/jieba/analyse/tfidf.py	/^    def extract_tags(self, *args, **kwargs):$/;"	m	class:KeywordExtractor
+extract_tags	src/jieba/analyse/tfidf.py	/^    def extract_tags(self, sentence, topK=20, withWeight=False, allowPOS=(), withFlag=False):$/;"	m	class:TFIDF
+f	src/business_ultra/eval.py	/^f = sys.argv[1]$/;"	v
+f	src/main.py	/^    f = open('郑州比对程序测试.txt','a+')$/;"	v	class:ActiMatch
+f	src/user_prob/test.py	/^        f = os.path.join(path,filename)$/;"	v
+f1	src/struct_interface_ultra/Decorator.py	/^    def f1(self):$/;"	m	class:foo
+f1	src/struct_interface_ultra/Decorator.py	/^    def f1(self):$/;"	m	class:foo_decorator
+f2	src/struct_interface_ultra/Decorator.py	/^    def f2(self):$/;"	m	class:foo
+fail_cnt	src/main.py	/^    fail_cnt = 0$/;"	v	class:ActiMatch
+fileHandler	src/function_ultra/mylog.py	/^fileHandler = logging.FileHandler('log.log', mode='w', encoding='UTF-8')$/;"	v
+filepath	src/jieba/finalseg/cnt_words_to_py.py	/^filepath = sys.argv[1]$/;"	v
+filepath	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^filepath = sys.argv[1]$/;"	v
+filepath	src/user_prob/bak/cnt_words_to_py.py	/^filepath = sys.argv[1]$/;"	v
+filepath	src/user_prob/cnt_words_to_py.py	/^filepath = sys.argv[1]$/;"	v
+filter	src/main.py	/^    def filter(self, words):$/;"	m	class:ActiMatch
+find	src/user_prob/test.py	/^def find(reg,word):$/;"	f
+fl	src/function_ultra/eval_print.py	/^fl = open(target_file,'r',encoding='utf-8')$/;"	v
+fl	src/function_ultra/json_gen.py	/^fl = open(target_file,'r',encoding='utf-8')$/;"	v
+fl	src/function_ultra/json_gen.py	/^fl = open(target_file,'w+',encoding='utf-8')$/;"	v
+fl	src/function_ultra/show_stand_addr.py	/^fl = open(target_file,'r',encoding='utf-8')$/;"	v
+foo	src/struct_interface_ultra/Decorator.py	/^class foo(object):$/;"	c
+foo_decorator	src/struct_interface_ultra/Decorator.py	/^class foo_decorator(object):$/;"	c
+formatter	src/function_ultra/mylog.py	/^formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')$/;"	v
+fp	src/jieba/__main__.py	/^fp = open(args.filename, 'r') if args.filename else sys.stdin$/;"	v
+fs	src/function_ultra/utils.py	/^    fs = ['\/data\/社区警务全量地址.txt','\/data\/常口户籍数据.txt','\/data\/广电全量地址.txt']$/;"	v
+fscore	src/business_ultra/filter_adabooster_addr.py	/^def fscore(preds, dtrain):$/;"	f
+full_level_keys	src/user_prob/test.py	/^full_level_keys = ["省","市","区","社区","村居委会","街路巷名","自然村组","门牌号","小区名","组团名称","栋号","单元号","楼层","户室号"]$/;"	v
+fuzzy_search	src/function_ultra/trie_tree.py	/^    def fuzzy_search(self, node, words):$/;"	m	class:Trie
+g	src/jieba/finalseg/test.py	/^g = open("output.txt","a+")$/;"	v
+gen	src/business_ultra/mark_train_data.py	/^        gen = read_xlrd("\/home\/dell\/data\/addr_guiyang_zhongtian_huayuan.xlsx")$/;"	v
+gen	src/main.py	/^    gen = acti_match_ins.read_file(_filename)$/;"	v	class:ActiMatch
+gen_address_tree	src/business_ultra/init_data.py	/^def gen_address_tree(filename='\/home\/distdev\/src\/iba\/dmp\/gongan\/gy_addr_normal\/pre_data\/yyap_address_tree.csv',sav_file='.\/my_tree.pkl'):$/;"	f
+gen_pfdict	src/jieba/__init__.py	/^    def gen_pfdict(self, f):$/;"	m	class:Tokenizer
+gen_zhengzhou_tree	src/business_ultra/init_data.py	/^def gen_zhengzhou_tree(dirname=myconfig.ZZ_STD_ADD,sav_file=myconfig.zhengzhou_std_word,sav_file_2=myconfig.zhengzhou_std_tree):$/;"	f
+generic_visit	src/struct_interface_ultra/Visitor.py	/^    def generic_visit(self, node, *args, **kwargs):$/;"	m	class:Visitor
+get	src/struct_interface_ultra/Factory_Method.py	/^    def get(self, msgid):$/;"	m	class:ChinaGetter
+get	src/struct_interface_ultra/Factory_Method.py	/^    def get(self, msgid):$/;"	m	class:EnglishGetter
+get_DAG	src/jieba/__init__.py	/^    def get_DAG(self, sentence):$/;"	m	class:Tokenizer
+get_DAG	src/jieba/__init__.py	/^get_DAG = dt.get_DAG$/;"	v
+get_all_weak_data	src/function_ultra/utils.py	/^def get_all_weak_data(filein,fileout):$/;"	f
+get_building	src/struct_interface_ultra/Builder.py	/^    def get_building(self):$/;"	m	class:Director
+get_data	src/business_ultra/filter_adabooster_addr.py	/^def get_data(src,tar,direct):$/;"	f
+get_dict_file	src/jieba/__init__.py	/^    def get_dict_file(self):$/;"	m	class:Tokenizer
+get_dict_file	src/jieba/__init__.py	/^get_dict_file = dt.get_dict_file$/;"	v
+get_factory	src/struct_interface_ultra/Abstract_Factory.py	/^def get_factory():$/;"	f
+get_food	src/struct_interface_ultra/Abstract_Factory.py	/^    def get_food(self):$/;"	m	class:CatFactory
+get_food	src/struct_interface_ultra/Abstract_Factory.py	/^    def get_food(self):$/;"	m	class:DogFactory
+get_hash_from_node	src/function_ultra/trie_tree.py	/^    def get_hash_from_node(self, node, result):$/;"	m	class:Trie
+get_idf	src/jieba/analyse/tfidf.py	/^    def get_idf(self):$/;"	m	class:IDFLoader
+get_level	src/user_prob/test.py	/^def get_level(word, lastlevel):$/;"	f
+get_list	src/struct_interface_ultra/Template_Method.py	/^def get_list():$/;"	f
+get_lists	src/struct_interface_ultra/Template_Method.py	/^def get_lists():$/;"	f
+get_localizer	src/struct_interface_ultra/Factory_Method.py	/^def get_localizer(language="English"):$/;"	f
+get_module_res	src/jieba/_compat.py	/^    get_module_res = lambda *res: open(os.path.normpath(os.path.join($/;"	v
+get_module_res	src/jieba/_compat.py	/^    get_module_res = lambda *res: pkg_resources.resource_stream(__name__,$/;"	v
+get_pet	src/struct_interface_ultra/Abstract_Factory.py	/^    def get_pet(self):$/;"	m	class:CatFactory
+get_pet	src/struct_interface_ultra/Abstract_Factory.py	/^    def get_pet(self):$/;"	m	class:DogFactory
+get_ready_my_dict	src/jieba/finalseg/user_prob/test.py	/^def get_ready_my_dict():$/;"	f
+get_ready_my_dict	src/user_prob/test.py	/^def get_ready_my_dict():$/;"	f
+get_start	src/function_ultra/trie_tree.py	/^    def get_start(self, prefix):$/;"	m	class:Trie
+get_top_states	src/jieba/posseg/viterbi.py	/^def get_top_states(t_state_v, K=4):$/;"	f
+get_word_level	src/user_prob/test.py	/^def get_word_level(k,v,bst):$/;"	f
+get_words_level	src/user_prob/test.py	/^def get_words_level(cuts):$/;"	f
+get_xgb_data	src/business_ultra/filter_adabooster_addr.py	/^def get_xgb_data(src, tar, direct):$/;"	f
+global_cnt	src/user_prob/test.py	/^global_cnt = 0$/;"	v
+hamming	src/business_ultra/filter_adabooster_addr.py	/^def hamming(src,dat):$/;"	f
+handle	src/struct_interface_ultra/Chain.py	/^    def handle(self, request):$/;"	m	class:ConcreteHandler1
+handle	src/struct_interface_ultra/Chain.py	/^    def handle(self, request):$/;"	m	class:ConcreteHandler2
+handle	src/struct_interface_ultra/Chain.py	/^    def handle(self, request):$/;"	m	class:ConcreteHandler3
+help	src/jieba/__main__.py	/^                    help="don't print loading messages to stderr")$/;"	v
+help	src/jieba/__main__.py	/^                    help="enable POS tagging; if DELIM is specified, use DELIM instead of '_' for POS delimiter")$/;"	v
+help	src/jieba/__main__.py	/^                    help="full pattern cutting (ignored with POS tagging)")$/;"	v
+help	src/jieba/__main__.py	/^                    help="use DELIM instead of ' \/ ' for word delimiter; or a space if it is used without DELIM")$/;"	v
+help	src/jieba/__main__.py	/^                    help="use USER_DICT together with the default dictionary or DICT (if specified)")$/;"	v
+hmm	src/jieba/__main__.py	/^hmm = args.hmm$/;"	v
+hugry_match	src/business_ultra/mark_train_data.py	/^def hugry_match(mat,k1s,k2s):$/;"	f
+hushihao	src/user_prob/test.py	/^hushihao = re.compile(r'((?:[\\da-zA-Z]+型)?正?(?:[\\da-zA-Z]+)*?[负附付夹底夹底地下层]*?[门面\\da-zA-Z\\-、]+[号幢室]+?(?:附[\\d+一二三四壹贰叁肆五六七八九十]+号)?|\\d+室$|\\d+号$|附?[\\d一二三四壹贰叁肆五六七八九十]+号门面|[a-zA-Z]座|\\d+0\\d+$|\\d+$)?(?:空挂户)?$')$/;"	v
+hushihao_ciku	src/user_prob/test.py	/^hushihao_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"户室号.txt")).readlines()])$/;"	v
+ifin	src/business_ultra/reghelper.py	/^    def ifin(self,txt,dct,classify):$/;"	m	class:RegHelper
+info	src/function_ultra/eval_print.py	/^info = json.load(fl)$/;"	v
+info	src/function_ultra/json_gen.py	/^info = json.load(fl)$/;"	v
+info	src/function_ultra/show_stand_addr.py	/^info = json.load(fl)$/;"	v
+ingredients	src/struct_interface_ultra/Template_Method.py	/^ingredients = "spam eggs apple"$/;"	v
+init_classifier_model	src/user_prob/test.py	/^def init_classifier_model(model_name):$/;"	f
+init_global_cnt	src/business_ultra/filter_adabooster_addr.py	/^def init_global_cnt():$/;"	f
+init_global_cnt	src/user_prob/test.py	/^def init_global_cnt():$/;"	f
+init_ner_train_data	src/business_ultra/mark_train_data.py	/^def init_ner_train_data(filename):$/;"	f
+initialize	src/jieba/__init__.py	/^    def initialize(self, dictionary=None):$/;"	m	class:Tokenizer
+initialize	src/jieba/__init__.py	/^initialize = dt.initialize$/;"	v
+initialize	src/jieba/posseg/__init__.py	/^    def initialize(self, dictionary=None):$/;"	m	class:POSTokenizer
+initialize	src/jieba/posseg/__init__.py	/^initialize = dt.initialize$/;"	v
+input_file	src/function_ultra/json_gen.py	/^input_file = sys.argv[1]$/;"	v
+insert	src/function_ultra/trie_tree.py	/^    def insert(self, word):$/;"	m	class:Trie
+insert	src/struct_interface_ultra/Mediator.py	/^    def insert(self):$/;"	m	class:DB
+insert_num_lst	src/function_ultra/trie_tree.py	/^    def insert_num_lst(self, words, line):$/;"	m	class:Trie
+insert_wd_lst	src/function_ultra/trie_tree.py	/^    def insert_wd_lst(self, words):$/;"	m	class:Trie
+isDiff	src/business_ultra/reghelper.py	/^    def isDiff(self,dctin,dctout):$/;"	m	class:RegHelper
+isNotNull	src/user_prob/test.py	/^def isNotNull(dct):$/;"	f
+isParent	src/function_ultra/trie_tree.py	/^    def isParent(self,child,parent):$/;"	m	class:Trie
+isum	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^isum = 0$/;"	v
+isum	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^isum = sum(list(prob_start.values()))$/;"	v
+isum	src/user_prob/cnt_words_to_py.py	/^isum = 0$/;"	v
+isum	src/user_prob/cnt_words_to_py.py	/^isum = sum(list(prob_start.values()))$/;"	v
+item	src/function_ultra/json_gen.py	/^        item = {}$/;"	v
+item	src/function_ultra/json_gen.py	/^item = {}$/;"	v
+iter_elements	src/struct_interface_ultra/Template_Method.py	/^def iter_elements(getter, action):$/;"	f
+iteritems	src/jieba/_compat.py	/^    iteritems = lambda d: d.iteritems()$/;"	v
+iteritems	src/jieba/_compat.py	/^    iteritems = lambda d: iter(d.items())$/;"	v
+iterkeys	src/jieba/_compat.py	/^    iterkeys = lambda d: d.iterkeys()$/;"	v
+iterkeys	src/jieba/_compat.py	/^    iterkeys = lambda d: iter(d.keys())$/;"	v
+itervalues	src/jieba/_compat.py	/^    itervalues = lambda d: d.itervalues()$/;"	v
+itervalues	src/jieba/_compat.py	/^    itervalues = lambda d: iter(d.values())$/;"	v
+jianzhuwu	src/user_prob/test.py	/^jianzhuwu = re.compile(r'(?<![一二三四壹贰叁肆五六七八九十甲乙丙丁戊])(?<![期栋])([a-zA-Z\\d\\u4e00-\\u9fa5]+(?:宿舍|大厦|广场|综合体|健身中心))?')$/;"	v
+jieluxiang	src/user_prob/test.py	/^jieluxiang = re.compile(r'([\\u4e00-\\u9fa5]+(?:段|街|路|巷|道|家[湾弯]|坡(?=\\d)|地块|[东南西北]侧)(?!组)$)?(?:空头户)?$')$/;"	v
+jieluxiangming_ciku	src/user_prob/test.py	/^jieluxiangming_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"街路巷名.txt")).readlines()])$/;"	v
+jsdct	src/user_prob/test.py	/^def jsdct(lst,words):  $/;"	f
+judge	src/business_ultra/reghelper.py	/^    def judge(self,k,vin,vout):$/;"	m	class:RegHelper
+k	src/business_ultra/init_data.py	/^    k = item['type']$/;"	v
+k	src/business_ultra/mark_train_data.py	/^            k = "".join(i[0])$/;"	v
+k	src/business_ultra/reghelper.py	/^    k = item['type']$/;"	v
+k	src/function_ultra/json_gen.py	/^            k = line$/;"	v
+k	src/jieba/finalseg/user_prob/test.py	/^    k = item['type']$/;"	v
+k	src/main.py	/^    k = item['type']$/;"	v
+keys	src/business_ultra/init_data.py	/^keys = list(set(ks))$/;"	v
+keys	src/business_ultra/reghelper.py	/^keys = list(set(ks))$/;"	v
+keys	src/main.py	/^keys = list(set(ks))$/;"	v
+ks	src/business_ultra/init_data.py	/^ks = []$/;"	v
+ks	src/business_ultra/reghelper.py	/^ks = []$/;"	v
+ks	src/main.py	/^ks = []$/;"	v
+kv	src/main.py	/^    kv = {}$/;"	v	class:ActiMatch
+l	src/jieba/__main__.py	/^    l = ln.rstrip('\\r\\n')$/;"	v
+labelmap	src/business_ultra/mark_train_data.py	/^labelmap = {}$/;"	v
+lbl	src/business_ultra/filter_adabooster_addr.py	/^lbl = 0$/;"	v
+lcut	src/jieba/__init__.py	/^    def lcut(self, *args, **kwargs):$/;"	m	class:Tokenizer
+lcut	src/jieba/__init__.py	/^lcut = dt.lcut$/;"	v
+lcut	src/jieba/posseg/__init__.py	/^    def lcut(self, *args, **kwargs):$/;"	m	class:POSTokenizer
+lcut	src/jieba/posseg/__init__.py	/^def lcut(sentence, HMM=True):$/;"	f
+lcut_for_search	src/jieba/__init__.py	/^    def lcut_for_search(self, *args, **kwargs):$/;"	m	class:Tokenizer
+lcut_for_search	src/jieba/__init__.py	/^lcut_for_search = dt.lcut_for_search$/;"	v
+leval_name_list	src/function_ultra/xgb_classify.py	/^leval_name_list = ['省', '市', '区', '社区', '村居委会', '自然村组',$/;"	v
+level_key2name	src/function_ultra/xgb_classify.py	/^level_key2name = dict()$/;"	v
+level_keys	src/business_ultra/init_data.py	/^              "单元号","楼层","户室号","sent","rw"]$/;"	v
+level_keys	src/business_ultra/reghelper.py	/^              "单元号","楼层","户室号","sent","rw"]$/;"	v
+level_keys	src/jieba/finalseg/user_prob/test.py	/^        "单元号","楼层","户室号","sent","rw"]$/;"	v
+level_keys	src/main.py	/^              "单元号","楼层","户室号","sent","rw"]$/;"	v
+level_keys	src/user_prob/test.py	/^level_keys = ["省","市","区","社区","村居委会","街路巷名","自然村组","门牌号","小区名","组团名称","栋号","单元号","楼层","户室号"]$/;"	v
+level_name2key	src/function_ultra/xgb_classify.py	/^level_name2key = dict()$/;"	v
+level_words_kv	src/user_prob/test.py	/^level_words_kv = {}$/;"	v
+line	src/function_ultra/request.py	/^    line = '黄山冲20号'$/;"	v
+line	src/struct_interface_ultra/Template_Method.py	/^line = '-' * 10$/;"	v
+lines	src/business_ultra/eval.py	/^lines = [f]$/;"	v
+lines	src/function_ultra/json_gen.py	/^lines = open(input_file,"r").readlines()$/;"	v
+lines	src/jieba/finalseg/cnt_words_to_py.py	/^lines = read_file(filepath)$/;"	v
+lines	src/jieba/finalseg/test.py	/^    lines = f.readlines()$/;"	v
+lines	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^lines = read_file(filepath)$/;"	v
+lines	src/jieba/finalseg/user_prob/test.py	/^        lines = f.readlines()$/;"	v
+lines	src/jieba/finalseg/user_prob/test.py	/^    lines = g.readlines()$/;"	v
+lines	src/user_prob/bak/cnt_words_to_py.py	/^lines = read_file(filepath)$/;"	v
+lines	src/user_prob/cnt_words_to_py.py	/^lines = read_file(filepath)$/;"	v
+lines	src/user_prob/test.py	/^        lines = [re.sub("[^\\u4e00-\\u9fa50-9a-zA-Z\\-]","",line) for line in lines]$/;"	v
+lines	src/user_prob/test.py	/^        lines = f.readlines()$/;"	v
+lines	src/user_prob/test.py	/^        lines = lines[:100]$/;"	v
+ln	src/jieba/__main__.py	/^    ln = fp.readline()$/;"	v
+ln	src/jieba/__main__.py	/^ln = fp.readline()$/;"	v
+load_address_tree	src/business_ultra/init_data.py	/^def load_address_tree(sav_file='.\/my_tree.pkl'):$/;"	f
+load_json	src/business_ultra/init_data.py	/^load_json = lambda x:json.load(open(x,'r',encoding='utf-8'))$/;"	v
+load_json	src/business_ultra/reghelper.py	/^load_json = lambda x:json.load(open(x,'r',encoding='utf-8'))$/;"	v
+load_json	src/main.py	/^load_json = lambda x:json.load(open(x,'r',encoding='utf-8'))$/;"	v
+load_model	src/business_ultra/filter_adabooster_addr.py	/^def load_model(model_name):$/;"	f
+load_model	src/jieba/finalseg/__init__.py	/^def load_model():$/;"	f
+load_model	src/jieba/posseg/__init__.py	/^def load_model():$/;"	f
+load_model	src/user_prob/bak/__init__.py	/^def load_model():$/;"	f
+load_model	src/user_prob/test.py	/^def load_model(model_name):$/;"	f
+load_userdict	src/jieba/__init__.py	/^    def load_userdict(self, f):$/;"	m	class:Tokenizer
+load_userdict	src/jieba/__init__.py	/^load_userdict = dt.load_userdict$/;"	v
+load_word_tag	src/jieba/posseg/__init__.py	/^    def load_word_tag(self, f):$/;"	m	class:POSTokenizer
+log_console	src/jieba/__init__.py	/^log_console = logging.StreamHandler(sys.stderr)$/;"	v
+log_keys	src/jieba/finalseg/cnt_words_to_py.py	/^def log_keys(kvs):$/;"	f
+log_keys	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^def log_keys(kvs):$/;"	f
+log_keys	src/user_prob/bak/cnt_words_to_py.py	/^def log_keys(kvs):$/;"	f
+log_keys	src/user_prob/cnt_words_to_py.py	/^def log_keys(kvs):$/;"	f
+logger	src/function_ultra/mylog.py	/^logger = logging.getLogger()$/;"	v
+louceng	src/user_prob/test.py	/^louceng = re.compile(r'((?:[负附])?[\\d一二三四壹贰叁肆五六七八九十a-zA-Z]+?[楼层]$|[一二三四壹贰叁肆五六七八九十]+层$)?$')$/;"	v
+louceng_ciku	src/user_prob/test.py	/^louceng_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"楼层.txt")).readlines()])$/;"	v
+louhao	src/user_prob/test.py	/^louhao = re.compile(r'((?:附)?[\\da-zA-Z]+(?:号楼)$|办公楼$|号(?=[\\da-zA-Z一二三四五]+栋)$|\\d+号(?!$)$)?$')$/;"	v
+main	src/struct_interface_ultra/Adapter.py	/^def main():$/;"	f
+main	src/struct_interface_ultra/Bridge.py	/^def main():$/;"	f
+main	src/struct_interface_ultra/Observer.py	/^def main():$/;"	f
+main	src/struct_interface_ultra/Prototype.py	/^def main():$/;"	f
+main	src/struct_ultra/observer_app.py	/^def main():$/;"	f
+make_noise	src/struct_interface_ultra/Adapter.py	/^    def make_noise(self, octane_level):$/;"	m	class:Car
+make_template	src/struct_interface_ultra/Template_Method.py	/^def make_template(skeleton, getter, action):$/;"	f
+makesure_userdict_loaded	src/jieba/posseg/__init__.py	/^    def makesure_userdict_loaded(self):$/;"	m	class:POSTokenizer
+matrix_build	src/business_ultra/mark_train_data.py	/^def matrix_build(contl,contr,dct=None,weight=0):$/;"	f
+menpaihao	src/user_prob/test.py	/^menpaihao = re.compile(r'(散居\\d+|(?:散居|新|附|门面|门面房)?[a-zA-Z\\d一二三四壹贰叁肆五六七八九十\\-]+号(?:地块)?(?!楼)(?:附\\d+号(?!$))?|\\d+网格|散居\\d+(?=\\d0)|\\d+号)?')$/;"	v
+menpaihao_ciku	src/user_prob/test.py	/^menpaihao_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"门牌号.txt")).readlines()])$/;"	v
+meow	src/struct_interface_ultra/Adapter.py	/^    def meow(self):$/;"	m	class:Cat
+merge	src/user_prob/test.py	/^def merge(rule,xgb):$/;"	f
+mode_match	src/function_ultra/trie_tree.py	/^    def mode_match(self,sent,result,lth=7):$/;"	m	class:Trie
+mode_match	src/main.py	/^    def mode_match(self, sentence,lth=7):$/;"	m	class:ActiMatch
+mode_match_str	src/business_ultra/filter_adabooster_addr.py	/^def mode_match_str(src,tar):$/;"	f
+msum	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^msum = prob_trans['ME']+prob_trans['MM']$/;"	v
+msum	src/user_prob/cnt_words_to_py.py	/^msum = prob_trans['ME']+prob_trans['MM']+1$/;"	v
+n	src/struct_interface_ultra/Memento.py	/^    n = NumObj(-1)$/;"	v
+new_building	src/struct_interface_ultra/Builder.py	/^    def new_building(self):$/;"	m	class:Builder
+new_cut	src/user_prob/test.py	/^def new_cut(line):$/;"	f
+new_cut_xgb	src/user_prob/test.py	/^def new_cut_xgb(line):$/;"	f
+node_seem	src/function_ultra/trie_tree.py	/^    def node_seem(self,node,bronode,result,n):$/;"	m	class:Trie
+node_seem_scan	src/function_ultra/trie_tree.py	/^    def node_seem_scan(self,targetnode,root,level=2):$/;"	m	class:Trie
+notify	src/struct_interface_ultra/Observer.py	/^    def notify(self, modifier=None):$/;"	m	class:Subject
+notify	src/struct_ultra/observer_app.py	/^    def notify(self, modifier=None):$/;"	m	class:Subject
+out_keys	src/business_ultra/init_data.py	/^out_keys = ["省","市","区","社区","村居委会","街路巷名","自然村组","门牌号","小区名","组团名称","栋号","单元号","楼层","户室号"]$/;"	v
+out_keys	src/business_ultra/reghelper.py	/^out_keys = ["省","市","区","社区","村居委会","街路巷名","自然村组","门牌号","小区名","组团名称","栋号","单元号","楼层","户室号"]$/;"	v
+out_keys	src/main.py	/^out_keys = ["省","市","区","社区","村居委会","街路巷名","自然村组","门牌号","小区名","组团名称","栋号","单元号","楼层","户室号"]$/;"	v
+p	src/struct_interface_ultra/Composite.py	/^    p = Composite("Wong")$/;"	v	class:Composite
+p	src/struct_interface_ultra/Proxy.py	/^    p = Proxy()$/;"	v
+p1	src/struct_interface_ultra/Composite.py	/^    p1 = Composite("Wu")$/;"	v	class:Composite
+padding	src/business_ultra/filter_adabooster_addr.py	/^def padding(lst,l0=15,dummy=-1):$/;"	f
+pair	src/jieba/posseg/__init__.py	/^class pair(object):$/;"	c
+pairfilter	src/jieba/analyse/textrank.py	/^    def pairfilter(self, wp):$/;"	m	class:TextRank
+parent_tree	src/function_ultra/trie_tree.py	/^    def parent_tree(self,node,parstr):$/;"	m	class:Trie
+parser	src/jieba/__main__.py	/^parser = ArgumentParser(usage="%s -m jieba [options] filename" % sys.executable, description="Jieba command line interface.", epilog="If no filename specified, use STDIN instead.")$/;"	v
+part_ext	src/business_ultra/reghelper.py	/^    def part_ext(self,txt,pat,target,resdict):$/;"	m	class:RegHelper
+pf	src/user_prob/test.py	/^pf = os.walk(myconfig.DCTPATH)$/;"	v
+pick	src/user_prob/test.py	/^def pick(level_keys,words):  $/;"	f
+pool	src/jieba/__init__.py	/^pool = None$/;"	v
+posdelim	src/jieba/__main__.py	/^    posdelim = args.pos$/;"	v
+pre_trans	src/function_ultra/utils.py	/^def pre_trans(line):$/;"	f
+pred	src/function_ultra/xgb_classify.py	/^        pred = bst.predict(dtest)$/;"	v
+prepare	src/struct_interface_ultra/Mediator.py	/^    def prepare(self):$/;"	m	class:Reporter
+prepareReporting	src/struct_interface_ultra/Mediator.py	/^    def prepareReporting(self):$/;"	m	class:TestManager
+print_item	src/struct_interface_ultra/Template_Method.py	/^def print_item(item):$/;"	f
+prob_emit	src/jieba/finalseg/cnt_words_to_py.py	/^prob_emit = cnt_prob_emit(lines)$/;"	v
+prob_emit	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^prob_emit = cnt_prob_emit(lines)$/;"	v
+prob_emit	src/user_prob/bak/cnt_words_to_py.py	/^prob_emit = cnt_prob_emit(lines)$/;"	v
+prob_emit	src/user_prob/cnt_words_to_py.py	/^prob_emit = cnt_prob_emit(lines)$/;"	v
+prob_start	src/jieba/finalseg/cnt_words_to_py.py	/^prob_start = cnt_prob_start(lines)$/;"	v
+prob_start	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^prob_start = cnt_prob_start(lines)$/;"	v
+prob_start	src/user_prob/bak/cnt_words_to_py.py	/^prob_start = cnt_prob_start(lines)$/;"	v
+prob_start	src/user_prob/cnt_words_to_py.py	/^prob_start = cnt_prob_start(lines)$/;"	v
+prob_trans	src/jieba/finalseg/cnt_words_to_py.py	/^prob_trans = cnt_prob_trans(lines)$/;"	v
+prob_trans	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^prob_trans = cnt_prob_trans(lines)$/;"	v
+prob_trans	src/user_prob/bak/cnt_words_to_py.py	/^prob_trans = cnt_prob_trans(lines)$/;"	v
+prob_trans	src/user_prob/cnt_words_to_py.py	/^prob_trans = cnt_prob_trans(lines)$/;"	v
+pth	src/myconfig.py	/^pth = lambda x : os.path.join(PRJPATH,x)$/;"	v
+publishReport	src/struct_interface_ultra/Mediator.py	/^    def publishReport(self):$/;"	m	class:TestManager
+qu	src/user_prob/test.py	/^qu = re.compile("\\D&\\d")$/;"	v
+qu_ciku	src/user_prob/test.py	/^qu_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"区.txt")).readlines()])$/;"	v
+r_cnt	src/business_ultra/init_data.py	/^r_cnt = 1$/;"	v
+r_cnt	src/business_ultra/reghelper.py	/^r_cnt = 1$/;"	v
+r_cnt	src/main.py	/^r_cnt = 1$/;"	v
+radio	src/struct_interface_ultra/State.py	/^    radio = Radio()$/;"	v
+rank	src/jieba/analyse/textrank.py	/^    def rank(self):$/;"	m	class:UndirectWeightedGraph
+re_eng	src/jieba/__init__.py	/^re_eng = re.compile('[a-zA-Z0-9\\-]', re.U)$/;"	v
+re_eng	src/jieba/posseg/__init__.py	/^re_eng = re.compile("[a-zA-Z0-9]+")$/;"	v
+re_eng1	src/jieba/posseg/__init__.py	/^re_eng1 = re.compile('^[a-zA-Z0-9]$', re.U)$/;"	v
+re_han	src/jieba/finalseg/__init__.py	/^re_han = re.compile("([\\u4E00-\\u9FD5]+)")$/;"	v
+re_han	src/user_prob/bak/__init__.py	/^re_han = re.compile("([\\u4E00-\\u9FD5]+)")$/;"	v
+re_han_cut_all	src/jieba/__init__.py	/^re_han_cut_all = re.compile("([\\u4E00-\\u9FD5]+)", re.U)$/;"	v
+re_han_default	src/jieba/__init__.py	/^re_han_default = re.compile("([\\u4E00-\\u9FD5a-zA-Z0-9+#&\\._%\\-]+)", re.U)$/;"	v
+re_han_detail	src/jieba/posseg/__init__.py	/^re_han_detail = re.compile("([\\u4E00-\\u9FD5]+)")$/;"	v
+re_han_internal	src/jieba/posseg/__init__.py	/^re_han_internal = re.compile("([\\u4E00-\\u9FD5a-zA-Z0-9+#&\\._]+)")$/;"	v
+re_num	src/jieba/posseg/__init__.py	/^re_num = re.compile("[\\.0-9]+")$/;"	v
+re_skip	src/jieba/finalseg/__init__.py	/^re_skip = re.compile("([a-zA-Z0-9]+(?:\\.\\d+)?%?)")$/;"	v
+re_skip	src/user_prob/bak/__init__.py	/^re_skip = re.compile("([a-zA-Z0-9]+(?:\\.\\d+)?%?)")$/;"	v
+re_skip_cut_all	src/jieba/__init__.py	/^re_skip_cut_all = re.compile("[^a-zA-Z0-9\\-+#\\n]", re.U)$/;"	v
+re_skip_default	src/jieba/__init__.py	/^re_skip_default = re.compile("(\\r\\n|\\s)", re.U)$/;"	v
+re_skip_detail	src/jieba/posseg/__init__.py	/^re_skip_detail = re.compile("([\\.0-9]+|[a-zA-Z0-9]+)")$/;"	v
+re_skip_internal	src/jieba/posseg/__init__.py	/^re_skip_internal = re.compile("(\\r\\n|\\s)")$/;"	v
+re_userdict	src/jieba/__init__.py	/^re_userdict = re.compile('^(.+?)( [0-9]+)?( [a-z]+)?$', re.U)$/;"	v
+read_file	src/jieba/finalseg/cnt_words_to_py.py	/^def read_file(filepath):$/;"	f
+read_file	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^def read_file(filepath):$/;"	f
+read_file	src/main.py	/^    def read_file(self,input_file):$/;"	m	class:ActiMatch
+read_file	src/user_prob/bak/cnt_words_to_py.py	/^def read_file(filepath):$/;"	f
+read_file	src/user_prob/cnt_words_to_py.py	/^def read_file(filepath):$/;"	f
+read_standard_data	src/business_ultra/init_data.py	/^def read_standard_data(self,docpath='standard_address.json'):$/;"	f
+read_txt	src/business_ultra/mark_train_data.py	/^def read_txt(filename,shuffle):$/;"	f
+read_var	src/function_ultra/utils.py	/^def read_var(fl):$/;"	f
+reg	src/business_ultra/filter_adabooster_addr.py	/^    reg = address_formula_release.src.reghelper.RegHelper()$/;"	v
+reg	src/main.py	/^    reg = reghelper.RegHelper()$/;"	v	class:ActiMatch
+regHelperInstance	src/business_ultra/eval.py	/^regHelperInstance = reghelper.RegHelper()$/;"	v
+reg_factory	src/business_ultra/reghelper.py	/^    def reg_factory(self,intxt):$/;"	m	class:RegHelper
+reg_gene	src/business_ultra/reghelper.py	/^    def reg_gene(self,txtLst):$/;"	m	class:RegHelper
+reg_level_match	src/user_prob/test.py	/^def reg_level_match(word,lastlevel):$/;"	f
+reg_lst	src/user_prob/test.py	/^reg_lst = [sheng,shi,qu,shequ,cunjuweihui,jieluxiang,zirancunzu,menpaihao,xiaoqu,zutuan,donghao,danyuan,louceng,hushihao]$/;"	v
+register_object	src/struct_interface_ultra/Prototype.py	/^    def register_object(self, name, obj):$/;"	m	class:Prototype
+rep	src/main.py	/^    def rep(self,item,key,value):$/;"	m	class:ActiMatch
+report	src/struct_interface_ultra/Mediator.py	/^    def report(self):$/;"	m	class:Reporter
+reporter	src/struct_interface_ultra/Mediator.py	/^    reporter = Reporter()$/;"	v
+reqs	src/main.py	/^    reqs = set()$/;"	v	class:ActiMatch
+res	src/user_prob/test.py	/^            res = new_cut(line)$/;"	v
+resolve_filename	src/jieba/_compat.py	/^def resolve_filename(f):$/;"	f
+result	src/business_ultra/eval.py	/^    result = regHelperInstance.address_formula(re.sub(" ","",line))$/;"	v
+result	src/jieba/__main__.py	/^    result = delim.join(cutfunc(ln.rstrip('\\r\\n'), cutall, hmm))$/;"	v
+ret	src/user_prob/test.py	/^def ret(words,js_dct,lst): $/;"	f
+rev_elements	src/struct_interface_ultra/Template_Method.py	/^def rev_elements(getter, action):$/;"	f
+reverse_item	src/struct_interface_ultra/Template_Method.py	/^def reverse_item(item):$/;"	f
+rule_check	src/business_ultra/filter_adabooster_addr.py	/^def rule_check(src,tar,rule="louhao"):$/;"	f
+rule_lst_check	src/business_ultra/filter_adabooster_addr.py	/^def rule_lst_check(line1,line2,rules):$/;"	f
+rules_cover_cnt	src/business_ultra/reghelper.py	/^    def rules_cover_cnt(self,rule):$/;"	m	class:RegHelper
+run	src/struct_interface_ultra/facade.py	/^    def run(self):$/;"	m	class:TC1
+run	src/struct_interface_ultra/facade.py	/^    def run(self):$/;"	m	class:TC2
+run	src/struct_interface_ultra/facade.py	/^    def run(self):$/;"	m	class:TC3
+runAll	src/struct_interface_ultra/facade.py	/^    def runAll(self):$/;"	m	class:TestRunner
+s1	src/struct_interface_ultra/Singleton.py	/^    s1 = SingleSpam('spam')$/;"	v	class:Singleton
+s2	src/struct_interface_ultra/Singleton.py	/^    s2 = SingleSpam('spa')$/;"	v	class:Singleton
+sav_model	src/business_ultra/filter_adabooster_addr.py	/^def sav_model(bst,model_name):$/;"	f
+save_data	src/business_ultra/reghelper.py	/^def save_data(js,f):$/;"	f
+save_var	src/function_ultra/utils.py	/^def save_var(var,fl):$/;"	f
+scale	src/struct_interface_ultra/Bridge.py	/^    def scale(self, pct):$/;"	m	class:CircleShape
+scan	src/function_ultra/trie_tree.py	/^    def scan(self, node, letter, result):$/;"	m	class:Trie
+scan	src/struct_interface_ultra/State.py	/^    def scan(self):$/;"	m	class:Radio
+scan	src/struct_interface_ultra/State.py	/^    def scan(self):$/;"	m	class:State
+scan_child_word	src/function_ultra/trie_tree.py	/^    def scan_child_word(self,node,result):$/;"	m	class:Trie
+scan_many	src/function_ultra/trie_tree.py	/^    def scan_many(self,lst,letter):$/;"	m	class:Trie
+scan_node	src/function_ultra/trie_tree.py	/^    def scan_node(self,rootnode,letter,result):$/;"	m	class:Trie
+scan_word	src/function_ultra/trie_tree.py	/^    def scan_word(self,rootnodes,word,style='child'):$/;"	m	class:Trie
+search	src/function_ultra/trie_tree.py	/^    def search(self, rootnode, word):$/;"	m	class:Trie
+search	src/main.py	/^    def search(self,tree,words):$/;"	m	class:ActiMatch
+search_node	src/function_ultra/trie_tree.py	/^    def search_node(self,rootnode,letter):$/;"	m	class:Trie
+search_num_get_node	src/function_ultra/trie_tree.py	/^    def search_num_get_node(self, word, result):$/;"	m	class:Trie
+sent_pair_gen	src/business_ultra/mark_train_data.py	/^def sent_pair_gen(filename):$/;"	f
+seperate_zhengz_address	src/business_ultra/mark_train_data.py	/^def seperate_zhengz_address(filename):$/;"	f
+setDB	src/struct_interface_ultra/Mediator.py	/^    def setDB(self, db):$/;"	m	class:TestManager
+setLogLevel	src/jieba/__init__.py	/^def setLogLevel(log_level):$/;"	f
+setProblem	src/struct_interface_ultra/Mediator.py	/^    def setProblem(self, value):$/;"	m	class:TC
+setReporter	src/struct_interface_ultra/Mediator.py	/^    def setReporter(self, reporter):$/;"	m	class:TestManager
+setTC	src/struct_interface_ultra/Mediator.py	/^    def setTC(self, tc):$/;"	m	class:TestManager
+setTM	src/struct_interface_ultra/Mediator.py	/^    def setTM(self, TM):$/;"	m	class:DB
+setTM	src/struct_interface_ultra/Mediator.py	/^    def setTM(self, TM):$/;"	m	class:Reporter
+setTM	src/struct_interface_ultra/Mediator.py	/^    def setTM(self, TM):$/;"	m	class:TC
+set_dictionary	src/jieba/__init__.py	/^    def set_dictionary(self, dictionary_path):$/;"	m	class:Tokenizer
+set_dictionary	src/jieba/__init__.py	/^set_dictionary = dt.set_dictionary$/;"	v
+set_idf_path	src/jieba/analyse/__init__.py	/^set_idf_path = default_tfidf.set_idf_path$/;"	v
+set_idf_path	src/jieba/analyse/tfidf.py	/^    def set_idf_path(self, idf_path):$/;"	m	class:TFIDF
+set_new_path	src/jieba/analyse/tfidf.py	/^    def set_new_path(self, new_idf_path):$/;"	m	class:IDFLoader
+set_stop_words	src/jieba/analyse/__init__.py	/^def set_stop_words(stop_words_path):$/;"	f
+set_stop_words	src/jieba/analyse/tfidf.py	/^    def set_stop_words(self, stop_words_path):$/;"	m	class:KeywordExtractor
+setup	src/struct_interface_ultra/Mediator.py	/^    def setup(self):$/;"	m	class:TC
+sheng	src/user_prob/test.py	/^sheng = re.compile('(.+省)?')$/;"	v
+sheng_ciku	src/user_prob/test.py	/^sheng_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"省.txt")).readlines()])$/;"	v
+shequ	src/user_prob/test.py	/^shequ = re.compile(r'([\\u4e00-\\u9fa5]+(?:乡|镇(?!委会)|办事处|社区服务中心|社区|片区))?$')$/;"	v
+shequ_ciku	src/user_prob/test.py	/^shequ_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"社区.txt")).readlines()])$/;"	v
+shequ_jingqu_quanliang_shuju_data_gen	src/business_ultra/filter_adabooster_addr.py	/^def shequ_jingqu_quanliang_shuju_data_gen(reg,stdfile,cnt=myconfig.TRAIN_DATA,shuffle=True):$/;"	f
+shequ_jingqu_quanliang_shuju_data_gen	src/function_ultra/xgb_classify.py	/^def shequ_jingqu_quanliang_shuju_data_gen(stdfile, cnt=1000000, shuffle=True):$/;"	f
+shi	src/user_prob/test.py	/^shi = re.compile('(.{2,3}(?<!区)市(?!巷))?')$/;"	v
+shi_ciku	src/user_prob/test.py	/^shi_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"市.txt")).readlines()])$/;"	v
+show_diff	src/business_ultra/reghelper.py	/^    def show_diff(self,item,pred,sent):$/;"	m	class:RegHelper
+show_match	src/business_ultra/mark_train_data.py	/^def show_match(filename):$/;"	f
+show_pet	src/struct_interface_ultra/Abstract_Factory.py	/^    def show_pet(self):$/;"	m	class:PetShop
+speak	src/struct_interface_ultra/Abstract_Factory.py	/^    def speak(self):$/;"	m	class:Cat
+speak	src/struct_interface_ultra/Abstract_Factory.py	/^    def speak(self):$/;"	m	class:Dog
+speak	src/struct_interface_ultra/Adapter.py	/^    def speak(self):$/;"	m	class:Human
+ssum	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^ssum = prob_trans['SB']+prob_trans['SS']$/;"	v
+ssum	src/user_prob/cnt_words_to_py.py	/^ssum = prob_trans['SB']+prob_trans['SS']+1$/;"	v
+stanard_keys	src/user_prob/test.py	/^stanard_keys = ['city', 'ld', 'room', 'floor', 'street', 'unit', 'doornum', 'group', 'community', 'committee', 'village', 'province', 'county', 'xiaoqu', 'juweihui', 'shequ']$/;"	v
+stand_data_gen	src/main.py	/^    def stand_data_gen(self, input_file):$/;"	m	class:ActiMatch
+standard_addr	src/business_ultra/init_data.py	/^standard_addr = load_json(myconfig.STDADD)$/;"	v
+standard_addr	src/business_ultra/init_data.py	/^standard_addr = {}$/;"	v
+standard_addr	src/business_ultra/reghelper.py	/^standard_addr = load_json(os.path.join(myconfig.DATPATH,"standard_addr.json"))$/;"	v
+standard_addr	src/business_ultra/reghelper.py	/^standard_addr = {}$/;"	v
+standard_addr	src/main.py	/^standard_addr = load_json(myconfig.STDADD)$/;"	v
+standard_addr	src/main.py	/^standard_addr = {}$/;"	v
+standard_dct	src/business_ultra/init_data.py	/^standard_dct = {}$/;"	v
+standard_dct	src/business_ultra/reghelper.py	/^standard_dct = {}$/;"	v
+standard_dct	src/main.py	/^standard_dct = {}$/;"	v
+standard_dct	src/user_prob/test.py	/^standard_dct = get_ready_my_dict()$/;"	v
+standard_dct	src/user_prob/test.py	/^standard_dct = {}$/;"	v
+starts_with	src/function_ultra/trie_tree.py	/^    def starts_with(self, prefix):$/;"	m	class:Trie
+stats_dict	src/jieba/finalseg/cnt_words_to_py.py	/^stats_dict = {}$/;"	v
+stats_dict	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^stats_dict = {}$/;"	v
+stats_dict	src/user_prob/bak/cnt_words_to_py.py	/^stats_dict = {}$/;"	v
+stats_dict	src/user_prob/cnt_words_to_py.py	/^stats_dict = {}$/;"	v
+std_file	src/business_ultra/filter_adabooster_addr.py	/^    std_file = "\/data\/社区警务全量地址.txt"$/;"	v
+std_file	src/function_ultra/xgb_classify.py	/^    std_file = os.path.join(DATA_DIR, "train_classifier.txt")$/;"	v
+strQ2B	src/function_ultra/utils.py	/^def strQ2B(ustring):$/;"	f
+str_xiaoqu	src/jieba/finalseg/user_prob/test.py	/^str_xiaoqu = "|".join(standard_dct['xiaoqu'])$/;"	v
+str_xiaoqu	src/jieba/finalseg/user_prob/test.py	/^str_xiaoqu = ("(?:%s)?"%str_xiaoqu)$/;"	v
+str_xiaoqu	src/user_prob/test.py	/^str_xiaoqu = "(?:"+str_xiaoqu+")?"$/;"	v
+str_xiaoqu	src/user_prob/test.py	/^str_xiaoqu = "|".join(standard_dct['xiaoqu'])$/;"	v
+strdecode	src/jieba/_compat.py	/^def strdecode(sentence):$/;"	f
+string_types	src/jieba/_compat.py	/^    string_types = (str, unicode)$/;"	v
+string_types	src/jieba/_compat.py	/^    string_types = (str,)$/;"	v
+successor	src/struct_interface_ultra/Chain.py	/^    def successor(self, successor):$/;"	m	class:Handler
+suggest_freq	src/jieba/__init__.py	/^    def suggest_freq(self, segment, tune=False):$/;"	m	class:Tokenizer
+suggest_freq	src/jieba/__init__.py	/^suggest_freq = dt.suggest_freq$/;"	v
+t	src/struct_interface_ultra/Memento.py	/^    t = Transaction(n)$/;"	v
+talk	src/struct_interface_ultra/Proxy.py	/^    def talk(self):$/;"	m	class:SalesManager
+target_file	src/function_ultra/eval_print.py	/^target_file = 'eval_file_1228.json'$/;"	v
+target_file	src/function_ultra/json_gen.py	/^target_file = input_file.split('.')[0]+'.json'$/;"	v
+target_file	src/function_ultra/show_stand_addr.py	/^target_file = '.\/standard_addr.json'$/;"	v
+tearDown	src/struct_interface_ultra/Mediator.py	/^    def tearDown(self):$/;"	m	class:TC
+template	src/struct_interface_ultra/Template_Method.py	/^    def template():$/;"	f	function:make_template
+templates	src/struct_interface_ultra/Template_Method.py	/^templates = [make_template(s, g, a)$/;"	v
+test	src/function_ultra/request.py	/^def test(line):$/;"	f
+test1	src/business_ultra/filter_adabooster_addr.py	/^test1 = "12号楼9单元1号"$/;"	v
+test2	src/business_ultra/filter_adabooster_addr.py	/^test2 = "20单元10单元1号"$/;"	v
+testrunner	src/struct_interface_ultra/facade.py	/^    testrunner = TestRunner()$/;"	v
+text_type	src/jieba/_compat.py	/^    text_type = str$/;"	v
+text_type	src/jieba/_compat.py	/^    text_type = unicode$/;"	v
+textrank	src/jieba/analyse/__init__.py	/^textrank = default_textrank.extract_tags$/;"	v
+textrank	src/jieba/analyse/textrank.py	/^    def textrank(self, sentence, topK=20, withWeight=False, allowPOS=('ns', 'n', 'vn', 'v'), withFlag=False):$/;"	m	class:TextRank
+tm	src/struct_interface_ultra/Mediator.py	/^    tm = TestManager()$/;"	v
+toggle_amfm	src/struct_interface_ultra/State.py	/^    def toggle_amfm(self):$/;"	m	class:AmState
+toggle_amfm	src/struct_interface_ultra/State.py	/^    def toggle_amfm(self):$/;"	m	class:FmState
+toggle_amfm	src/struct_interface_ultra/State.py	/^    def toggle_amfm(self):$/;"	m	class:Radio
+tokenize	src/jieba/__init__.py	/^    def tokenize(self, unicode_sentence, mode="default", HMM=True):$/;"	m	class:Tokenizer
+tokenize	src/jieba/__init__.py	/^tokenize = dt.tokenize$/;"	v
+train_data_gen_sent_pairs	src/business_ultra/mark_train_data.py	/^def train_data_gen_sent_pairs(filename,writeintrain,writeintest):$/;"	f
+trans	src/business_ultra/filter_adabooster_addr.py	/^def trans(chars):$/;"	f
+trans	src/function_ultra/xgb_classify.py	/^def trans(chars):$/;"	f
+trans	src/user_prob/test.py	/^def trans(chars):$/;"	f
+trans_dict	src/jieba/finalseg/cnt_words_to_py.py	/^trans_dict = {}$/;"	v
+trans_dict	src/jieba/finalseg/user_prob/cnt_words_to_py.py	/^trans_dict = {}$/;"	v
+trans_dict	src/user_prob/bak/cnt_words_to_py.py	/^trans_dict = {}$/;"	v
+trans_dict	src/user_prob/cnt_words_to_py.py	/^trans_dict = {}$/;"	v
+transaction	src/struct_interface_ultra/Memento.py	/^        def transaction(*args, **kwargs):$/;"	f	function:transactional.__get__
+transactional	src/struct_interface_ultra/Memento.py	/^class transactional(object):$/;"	c
+txt	src/jieba/finalseg/user_prob/test.py	/^        txt = re.sub("(.+?)[\\(（].+?[\\)）]","\\1",txt)$/;"	v
+txt	src/jieba/finalseg/user_prob/test.py	/^        txt = re.sub("[^\\u4e00-\\u9fa50-9a-zA-Z\\-]","",txt)$/;"	v
+txt_reformat	src/business_ultra/reghelper.py	/^    def txt_reformat(self,txt):$/;"	m	class:RegHelper
+u	src/struct_interface_ultra/Decorator.py	/^u = foo()$/;"	v
+undo	src/struct_interface_ultra/Command.py	/^    def undo(self):$/;"	m	class:MoveFileCommand
+union_lst	src/user_prob/test.py	/^def union_lst(cuts):$/;"	f
+unregister_object	src/struct_interface_ultra/Prototype.py	/^    def unregister_object(self, name):$/;"	m	class:Prototype
+update	src/struct_interface_ultra/Mediator.py	/^    def update(self):$/;"	m	class:DB
+update	src/struct_interface_ultra/Observer.py	/^    def update(self, subject):$/;"	m	class:DecimalViewer
+update	src/struct_interface_ultra/Observer.py	/^    def update(self, subject):$/;"	m	class:HexViewer
+update	src/struct_ultra/observer_app.py	/^    def update(self, subject):$/;"	m	class:DecimalViewer
+update	src/struct_ultra/observer_app.py	/^    def update(self, subject):$/;"	m	class:HexViewer
+user_word_tag_tab	src/jieba/__init__.py	/^user_word_tag_tab = dt.user_word_tag_tab$/;"	v
+v	src/business_ultra/init_data.py	/^    v = item['name']$/;"	v
+v	src/business_ultra/mark_train_data.py	/^            v = "".join([str(_) for _ in i[1]])$/;"	v
+v	src/business_ultra/reghelper.py	/^    v = item['name']$/;"	v
+v	src/function_ultra/json_gen.py	/^            v = ''$/;"	v
+v	src/jieba/finalseg/user_prob/test.py	/^    v = item['name']$/;"	v
+v	src/main.py	/^    v = item['name']$/;"	v
+v	src/struct_interface_ultra/Decorator.py	/^v = foo_decorator(u)$/;"	v
+values	src/business_ultra/init_data.py	/^values = list(set(vs))$/;"	v
+values	src/business_ultra/reghelper.py	/^values = list(set(vs))$/;"	v
+values	src/main.py	/^values = list(set(vs))$/;"	v
+version	src/jieba/__main__.py	/^                    version="Jieba " + jieba.__version__)$/;"	v
+visit	src/struct_interface_ultra/Visitor.py	/^    def visit(self, node, *args, **kwargs):$/;"	m	class:Visitor
+visit_B	src/struct_interface_ultra/Visitor.py	/^    def visit_B(self, node, *args, **kwargs):$/;"	m	class:Visitor
+visitor	src/struct_interface_ultra/Visitor.py	/^visitor = Visitor()$/;"	v
+viterbi	src/jieba/finalseg/__init__.py	/^def viterbi(obs, states, start_p, trans_p, emit_p):$/;"	f
+viterbi	src/jieba/posseg/viterbi.py	/^def viterbi(obs, states, start_p, trans_p, emit_p):$/;"	f
+viterbi	src/user_prob/bak/__init__.py	/^def viterbi(obs, states, start_p, trans_p, emit_p):$/;"	f
+vs	src/business_ultra/init_data.py	/^vs = []$/;"	v
+vs	src/business_ultra/reghelper.py	/^vs = []$/;"	v
+vs	src/main.py	/^vs = []$/;"	v
+w_cnt	src/business_ultra/init_data.py	/^w_cnt = 0$/;"	v
+w_cnt	src/business_ultra/reghelper.py	/^w_cnt = 0$/;"	v
+w_cnt	src/main.py	/^w_cnt = 0$/;"	v
+words_route	src/function_ultra/trie_tree.py	/^    def words_route(self,words):$/;"	m	class:Trie
+work	src/struct_interface_ultra/Proxy.py	/^    def work(self):$/;"	m	class:Proxy
+work	src/struct_interface_ultra/Proxy.py	/^    def work(self):$/;"	m	class:SalesManager
+wr_lst	src/business_ultra/reghelper.py	/^    def wr_lst(self,lst,filename):$/;"	m	class:RegHelper
+write_2_csv	src/business_ultra/reghelper.py	/^    def write_2_csv(self,outbase,keys):$/;"	m	class:RegHelper
+write_2_jieba	src/business_ultra/reghelper.py	/^    def write_2_jieba(self,outbase):$/;"	m	class:RegHelper
+xgb_train	src/business_ultra/filter_adabooster_addr.py	/^def xgb_train(dtrain,num_round=4):$/;"	f
+xgb_train	src/function_ultra/xgb_classify.py	/^def xgb_train(dtrain, num_round=4):$/;"	f
+xgboost_train_data_gen	src/business_ultra/filter_adabooster_addr.py	/^def xgboost_train_data_gen(cnt=myconfig.TRAIN_DATA,shuffle=True):$/;"	f
+xiaoqu	src/user_prob/test.py	/^xiaoqu = re.compile(r'(.+?小区|[\\u4e00-\\u9fa5\\-]*?(?=[附a-zA-Z\\d一二三四五六七八九十甲乙丙丁戊贰叁肆玖(?:老三|壹栋)?]+[(?:壹栋)幢栋单元号楼期区(?:网格)?])|龙城壹号|老三栋|.+?(?:家属|工业|生活)区|.+?(?:地质队)|.+?厂[东西南北一二三四]区|%s$)?$'%str_xiaoqu)$/;"	v
+xiaoqu_check	src/business_ultra/reghelper.py	/^    def xiaoqu_check(self,outbase):$/;"	m	class:RegHelper
+xiaoqu_ciku	src/user_prob/test.py	/^xiaoqu_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"小区名.txt")).readlines()])$/;"	v
+xrange	src/jieba/_compat.py	/^    xrange = range$/;"	v
+xrange	src/jieba/posseg/viterbi.py	/^    xrange = range$/;"	v
+zhengz_train_data_gen_sent_pairs	src/business_ultra/mark_train_data.py	/^def zhengz_train_data_gen_sent_pairs():$/;"	f
+zhengzhou_std_tree	src/myconfig.py	/^zhengzhou_std_tree = pth('model\/zhengzhou_std_tree.pkl')$/;"	v
+zhengzhou_std_word	src/myconfig.py	/^zhengzhou_std_word = pth('model\/zhengzhou_std_word.pkl')$/;"	v
+zirancunzu	src/user_prob/test.py	/^zirancunzu = re.compile(r'(.+(?:(?:组(?![团新])|村(?!民))))?$')$/;"	v
+zirancunzu_ciku	src/user_prob/test.py	/^zirancunzu_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"自然村组.txt")).readlines()])$/;"	v
+zutuan	src/user_prob/test.py	/^zutuan = re.compile(r'(\\d+网格|(?![\\d甲乙丙丁一二三四壹贰叁肆五六七八九十壹]+栋)[^附]+(?:组团|区)(?:[a-zA-Z\\d]+区)?(?:\\d期)?|[东南西北壹贰叁伍拾\\dA-Za-z一二三四壹贰叁肆五六七八九十]+区|甲乙丙丁戊|\\d+期|\\d+网格|[\\d一二三四五]+区[\\d一二三四五]+期|[一二三四五六七八九十壹贰叁肆]+(?:期|组团)$)?(?:保障房)?$')$/;"	v
+zutuan_ciku	src/user_prob/test.py	/^zutuan_ciku = set([re.sub("\\n","",line.split(' ')[0]) for line in open(os.path.join(myconfig.DCTPATH,"组团名称.txt")).readlines()])$/;"	v

@@ -1,0 +1,15 @@
+2019-02-27 16:09:40,948 - root - DEBUG - debug 信息
+2019-02-27 16:09:40,949 - root - INFO - info 信息
+2019-02-27 16:09:40,950 - root - WARNING - warn 信息
+2019-02-27 16:09:40,950 - root - ERROR - error 信息
+2019-02-27 16:09:40,951 - root - CRITICAL - critical 信息
+2019-02-27 16:09:40,951 - root - DEBUG - 这些东西 是自定义信息
+2019-02-27 16:09:40,952 - root - DEBUG - > start mark
+2019-02-27 16:09:46,276 - gensim.summarization.textcleaner - INFO - 'pattern' package not found; tag filters are not available for English
+2019-02-27 16:09:46,302 - root - DEBUG - 测试标准地址生成
+2019-02-27 16:09:46,304 - root - DEBUG - 实例化一个StandAddrTreeBuilder
+2019-02-27 16:09:46,304 - root - DEBUG - 数据插入dataframe开始
+2019-02-27 16:09:46,397 - root - DEBUG - 数据插入dataframe开始 [('内蒙古自治区', 'PROV'), ('包头市', 'CITY')]
+2019-02-27 16:09:46,422 - root - DEBUG - 数据插入dataframe完毕
+2019-02-27 16:09:49,910 - root - DEBUG - 从dataframe生成树并保存
+2019-02-27 16:09:49,911 - root - DEBUG - 标准地址生成完毕

@@ -1,0 +1,7 @@
+2019-01-13 00:26:01,585 - root - DEBUG - debug 信息
+2019-01-13 00:26:01,585 - root - INFO - info 信息
+2019-01-13 00:26:01,585 - root - WARNING - warn 信息
+2019-01-13 00:26:01,585 - root - ERROR - error 信息
+2019-01-13 00:26:01,585 - root - CRITICAL - critical 信息
+2019-01-13 00:26:01,585 - root - DEBUG - 这些东西 是自定义信息
+2019-01-13 00:26:01,585 - root - DEBUG - > start mark

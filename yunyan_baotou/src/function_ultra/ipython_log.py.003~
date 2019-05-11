@@ -1,0 +1,17 @@
+# IPython log file
+
+
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', '~')
+get_ipython().run_line_magic('cd', 'code/')
+get_ipython().run_line_magic('cd', 'yunyan_baotou/')
+get_ipython().run_line_magic('cd', 'src/')
+get_ipython().run_line_magic('cd', 'function_ultra/')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('run', 'word_discover_tensor.py')
+get_ipython().run_line_magic('pdb', '')
+get_ipython().run_line_magic('run', 'word_discover_tensor.py')
+get_ipython().run_line_magic('ed', 'word_discover_tensor.py')
+get_ipython().run_line_magic('pinfo', '%reload_ext')
+q
+exit()

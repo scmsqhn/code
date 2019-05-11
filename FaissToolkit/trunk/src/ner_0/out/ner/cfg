@@ -1,0 +1,17 @@
+{
+  "pretrained_vectors":"zh_model.vectors",
+  "beam_density":0.0,
+  "cnn_maxout_pieces":3,
+  "maxout_pieces":2,
+  "beam_update_prob":1.0,
+  "hidden_width":64,
+  "bilstm_depth":0,
+  "nr_class":57,
+  "beam_width":1,
+  "min_action_freq":30,
+  "deprecation_fixes":{
+    "vectors_name":"zh_model.vectors"
+  },
+  "hidden_depth":1,
+  "token_vector_width":96
+}

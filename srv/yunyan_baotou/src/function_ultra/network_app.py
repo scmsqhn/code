@@ -1,0 +1,248 @@
+#!
+import networkx as nx
+import re
+import pdb
+import matplotlib.pyplot as plt
+import networkx as nx
+import os
+import sys
+import traceback
+sys.path.append(os.environ['YUNYAN'])
+sys.path.append(os.environ['ROOT'])
+sys.path.append(os.environ['WORKBENCH'])
+sys.path.append('.')
+sys.path.append('..')
+sys.path.append('../..')
+import myconfig
+import function_ultra
+from function_ultra import utils
+from function_ultra import trie_tree
+import matplotlib.pyplot as plt
+plt.switch_backend('agg')
+import re
+class networkx_app(object):
+    # 将一颗树生成图，用于分析
+
+    def __init__(self):
+        pass
+        self.my_tree,self.di = self.init_DG()
+        self.full_my_tree = utils.read_var(myconfig.MY_TREE)
+        #self.my_tree,self.di = self.first_init_DG()
+
+    def init_DG(self):
+        my_tree = utils.read_var(myconfig.MY_TREE)
+        di = utils.read_var(myconfig.DIGRAPH)
+        return my_tree, di 
+        
+    def first_init_DG(self):
+        my_tree = utils.read_var(myconfig.MY_TREE)
+        di = nx.DiGraph()
+        my_tree.trans_tree_2_graph(my_tree.root,di)
+        utils.save_var(di,myconfig.DIGRAPH) 
+        return my_tree,utils.read_var(myconfig.DIGRAPH) 
+
+    def search(self,words_lst):
+        res = {}
+        res['ROOT'] = {}
+        words_lst = words_lst.split(" ")
+        if "" in words_lst:
+            words_lst.remove("")
+        words_dct = {}
+        print(words_lst)
+        for word in words_lst:
+            key, value = word.split("/") 
+            if value in words_dct:
+                words_dct[value]+="&"
+                words_dct[value]+=key
+            else:
+                words_dct[value]=key
+        words = []
+        for key in myconfig.COLUMNS:
+            value = words_dct.get(key,'nan')
+            if value == 'nan':
+                continue
+            words.append("%s/%s"%(value,key))
+        tree = trie_tree.Trie()
+        tree.part_insert(tree.root,words)
+        result = []
+        tree.scan_child_word(tree.root,result)
+        _result = []
+        for node in result:
+            if node.is_word:
+                _result.append(node)
+        parents = tree.get_all_parent_tree(_result)
+        result = []
+        for words in parents:
+            words = words.split(' ')
+            result.append(self.search_one(words))
+        print(result)
+        result = list(set(result))
+        formula_result = []
+        final_result = []
+        for word in result:
+            word = word.split(' ')
+            if '' in word:
+                word.remove('')
+            formula_result = self.full_my_tree.scan_nodes([tree.root], word, formula_result)
+            print(formula_result)
+        result_child = []
+        for node in formula_result:
+            self.full_my_tree.scan_child_word(node,result_child)
+            #pdb.set_trace()
+        #print(result_child)
+        #pdb.set_trace()
+        final_result.extend(self.full_my_tree.get_all_parent_tree(result_child))
+        print(final_result)
+        #pdb.set_trace()
+        return ",".join(final_result)
+
+    def lst2str(self, lst): 
+        return " ".join(lst)+" "
+
+    def sum_wealth(self, lst): 
+        wealth_sum = 0
+        for edge in lst:
+            wealth_sum+=edge.wealth
+        return wealth_sum
+
+    def max_wealth(self,result,sum_wealth_result):
+        i0,j0 = "",0
+        for i,j in zip(result, sum_wealth_result):
+            if j > j0:
+                j0=j
+                i0=i
+        return i0,j0
+
+    def to_dict(self,lst):
+        dct = {}
+        for word in lst:
+            if word == 'ROOT':
+                continue
+            value,key = word.split('/')
+            if key in dct:
+                dct[key]+='&'
+                dct[key]+=value
+            else:
+                dct[key]=value
+        return dct
+            
+    def search_one(self,words_lst):
+        print(words_lst)
+        ROOT = 'ROOT'
+        result = []
+        words_lst_dct_base = self.to_dict(words_lst)
+        for word in words_lst:
+            forbiden =['MPH','DONGHAO','DYH','LOUC','HSH','XIAOQU']
+            if word.split('/')[1] in forbiden:
+                #if self.di.has_node(ROOT) and self.di.has_node(word) and nx.edge_connectivity(self.di,ROOT,word)>0:
+                if True:
+                    #shortest_path = nx.get_shortest_path(self.di,ROOT,word)
+                    #result.extend(shortest_path)
+                    result.append(word)
+                continue
+            if self.di.has_node(ROOT) and self.di.has_node(word) and nx.edge_connectivity(self.di,ROOT,word)>0:
+                print('bellman_ford_path:',ROOT,word)
+                best_result = nx.shortest_path(self.di,ROOT,word,'wealth')
+                #best_result= nx.bellman_ford_path(self.di,ROOT,word,'wealth')
+                print(best_result)
+                result.extend(best_result)
+                print(result)
+                ROOT = word
+            else:
+                if self.di.has_node('ROOT') and self.di.has_node(word) and nx.edge_connectivity(self.di,'ROOT',word)>0:
+                    best_result = nx.shortest_path(self.di,'ROOT',word,'wealth')
+                    #best_result = nx.bellman_ford_path(self.di,'ROOT',word,'wealth')
+                    result.extend(best_result)
+        dct = self.to_dict(result)
+        print(dct)
+        output_result = []
+        for key in myconfig.COLUMNS:      
+            value = dct.get(key,'nan')
+            if value=='nan':
+                continue
+            elif '&' in value:
+                words = value.split('&')
+                l0 = 0
+                w0 = ""
+                for word in words:
+                    standard_value = words_lst_dct_base.get(key,'nan')
+                    print(standard_value)
+                    print(word)
+                    #pdb.set_trace()
+                    sub_word = list(standard_value) and list(word)
+                    if standard_value == 'nan':
+                        sub_word = list(word)
+                    l1 = len(sub_word)
+                    if l1>l0:
+                        w0 = word
+                        l0 = l1
+                output_result.append('%s/%s '%(w0,key))
+            else:
+                output_result.append('%s/%s '%(value,key))
+        return " ".join(output_result) + " "
+
+    def max_lenth(self,gen):
+        maxlen = 0
+        maxstr = ""
+        for _next in gen:
+            _next_str = " ".join(_next) + " "
+            _temp_str = re.sub('[^\u4e00-\u9fa5]','',_next_str)
+            if len(_temp_str)>maxlen:
+                maxlen = len(_temp_str)
+                maxstr = _next_str
+        return maxstr
+
+def show_graph(di):
+    nx.draw(di,pos=nx.random_layout(di),node_color='b',edge_colot='r',with_labels=True,font_size=0.3,node_size=0.5)
+    #plt.show()
+    import numpy as np
+    import matplotlib.pyplot as plt
+    plt.savefig('power.png',dpi=1000)
+ 
+def paint(di):
+    #G = nx.random_geometric_graph(200, 0.125)
+    G = di
+    pos = nx.spring_layout(G) 
+
+    # color by path length from node near center
+    plt.figure(figsize=(8, 8))
+    nx.draw_networkx_edges(G, pos, nodelist=[G.nodes()], alpha=0.4)
+    nx.draw_networkx_nodes(G, pos, nodelist=list(G.nodes()),
+                       node_size=80,
+                       node_color='b',
+                       cmap=plt.cm.Reds_r)
+    plt.xlim(-0.05, 1.05)
+    plt.ylim(-0.05, 1.05)
+    plt.axis('off')
+    plt.savefig('power.png',dpi=1000)
+           
+if __name__ == "__main__":
+    words_lst = ['乌素图/SHEQU']
+    words_lst = ['自由路/JLX']
+    words_lst = ['保利花园/XIAOQU','12栋/DONGHAO','2号/HSH']
+    words_lst = ['内蒙古/PROV','包头/CITY','青山区/DIST','科学路/JLX','互助道/JLX','民/XIAOQU','5/m','小区/XIAOQU','红光/JZW']
+    words_lst = ['内蒙古/PROV','包头/CITY','青年路/JLX','安安2号/MPH']
+    words_lst = ['内蒙古/PROV','包头市/CITY','青山区/DIST','富强路/JLX','十九号街坊/XIAOQU','12栋/DONGHAO','61号/MPH']
+    #保利花园紫茗园12栋1单元5楼2号
+
+    lines = open('../../data/baotou_sample.txt','r').readlines()
+    #lines = open('../../data/baotou_std_addr_base.txt','r').readlines()
+    f = open('../test/测试结果.txt','w+')
+    from business_ultra.my_helper import address_formula 
+    m_networkx_app = networkx_app()
+    #search_res = m_networkx_app.search('包头市/CITY 富强路/JLX ')
+    #print(search_res)
+    #pdb.set_trace()
+    for line in lines[::-1]:
+        if not '青山区' in line:
+            continue
+        f.write("\n输入: %s"%line)
+        res = address_formula(line)
+        f.write("\n拆分: %s"%res)
+        search_res = m_networkx_app.search(res)
+        for search in search_res.split(','):
+            f.write("\n比对: %s"%search)
+        f.write("\n======")
+        #pdb.set_trace()
+        f.flush()
+   

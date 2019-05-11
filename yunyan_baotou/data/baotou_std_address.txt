@@ -1,0 +1,469 @@
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 110国道/JLX 0501号/MPH 北新街/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 110国道/JLX 0504号/MPH 二电鸳鸯楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 110国道/JLX 09002号/MPH 青福新城/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 敖根道/JLX 10号/MPH 呼得木林大街/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 敖根道/JLX 10号/MPH 呼得木林大街/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 兵工路/JLX 1901号/MPH 兵工佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 兵工路/JLX 21附1号/MPH 一分厂/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 兵工路/JLX 21号/MPH 内蒙古第一机械集团有限公司/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 兵工路/JLX 999号/MPH 兵工佳苑社区服务站/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 兵工路/JLX 九所段/JLX 2号/MPH 内蒙古阳光上城物业/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 草原道/JLX 14号/MPH 呼得木林大街/JLX /五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 草原道/JLX 14号/MPH 呼得木林大街/JLX /五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 草原道/JLX 24号/MPH 呼得木林大街/JLX /八号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 草原道/JLX 24号/MPH 呼得木林大街/JLX /八号街坊/MPH 包四中/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 草原道/JLX 24号/MPH 呼得木林大街/JLX /八号街坊/MPH 附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 草原道/JLX 5号/MPH 呼得木林大街/JLX /三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 草原道/JLX 5号/MPH 呼得木林大街/JLX /三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 10号/MPH 自由路/JLX 十一号街坊/MPH 二电/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 12号/MPH 自由路/JLX 十一号街坊/MPH 一电厂/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 2号/MPH 民主路/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 8号/MPH 自由路/JLX 十一号街坊/MPH 供电/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 9号/MPH 自由路/JLX 八号街坊/MPH 佳禾公寓/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 一所段/JLX 117号/MPH 民5南底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 一所段/JLX 119号/MPH 百兴小区南底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 一所段/JLX 166号/MPH 民五红光西底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 昌福道/JLX 一所段/JLX 1号/MPH 民六小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 厂前路/JLX 0502号/MPH 厂前路街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 厂前路/JLX 0503号/MPH 青铺路街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 厂前路/JLX 1号/MPH 厂前路/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 顶独龙贵路/JLX 1号/MPH 顶独龙贵村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 东边墙路/JLX 13001号/MPH 东边墙自然村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 东达沟路/JLX 2号/MPH 东达沟村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 二海壕路/JLX 1号/MPH 二海壕村一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 1001号/MPH 新增/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 13号/MPH 幸福路/JLX 五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 13号/MPH 幸福路/JLX 五号街坊甲/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 1号/MPH 呼得木林大街/JLX 十号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 36号/MPH 赛音道/JLX 八号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 36号/MPH 赛音道/JLX 八号街坊附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 43号/MPH 赛音道/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 43号/MPH 赛音道/JLX 六号街坊附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 54号/MPH 富强路/JLX 七号街坊/MPH 供电/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 繁荣道/JLX 九所段9号/MPH 富强路/JLX 小学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 纺织道/JLX 10号/MPH 富强路/JLX 十五号街坊/MPH 望园小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 纺织道/JLX 21号/MPH 富强路/JLX 十三号街坊/MPH 怡佳园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 丰产道/JLX 36号/MPH 富强路/JLX 三号街坊/MPH 教育局住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 丰产道/JLX 九所段/JLX 1号/MPH 北方重工实验小学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 福合当路/JLX 13001号/MPH 福合当自然村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 福强路/JLX 1401号/MPH 富强路/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 福强路/JLX 2号/MPH 九星公寓/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 1912号/MPH 富强路/JLX 五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 1号/MPH 富强路/JLX 十号街坊/MPH 望隆购物广场/XIAOQU 商住小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 30号/MPH 富强路/JLX 九号街坊/MPH 九星豪庭/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 3号/MPH 规划局/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 9号/MPH 富强路/JLX 九号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 九所段/JLX 14号/MPH 包头市/CITY 第五中学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 七所段/JLX 2号/MPH 意嘉咖啡店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强路/JLX 七所段/JLX 4号/MPH 舒安快捷酒店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 12号/MPH 富强路/JLX 十九号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 12号/MPH 富强路/JLX 十九号街坊/MPH 附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 12号/MPH 富强路/JLX 十九号街坊/MPH 甲/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 18号/MPH 振华小区一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 1号/MPH 西贝海鲜宿舍楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 24号/MPH 富南小区/三区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 26号/MPH 赵家营子村/三区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 34号/MPH 赵家营子村/四区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 富强中路/JLX 十二所段/JLX 2号/MPH 西贝海鲜/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 钢铁大街/JLX 1004号/MPH 育才小区/三段/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 钢铁大街/JLX 10号/MPH 中环大厦/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 钢铁大街/JLX 12号/MPH 育才小区/三段/恒通公寓/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 钢铁大街/JLX 7号/MPH 钢铁大街/JLX /七号街坊/MPH 正翔国际/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 钢铁大街/JLX 8号/MPH 华茂大厦/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 葛兰东道/JLX 1号/MPH 自由路/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 葛兰东道/JLX 4号/MPH 自由路/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 公忽洞/1号/MPH 公忽洞/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 光荣道/JLX 16号/MPH 赛音道/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 光荣道/JLX 16号/MPH 赛音道/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 光荣道/JLX 16号/MPH 赛音道/JLX 四号街坊/MPH 新华书店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 光荣道/JLX 37号/MPH 幸福路/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 光荣道/JLX 6号/MPH 赛音道/JLX 二号街坊/MPH 北方嘉苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 光荣道/JLX 6号/MPH 赛音道/JLX 二号街坊/MPH 北方嘉苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 0号/MPH 青云小区一段建材小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 11号/MPH 青云小区/二段/石油小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 12号/MPH 青云小区/一段/水苑小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 13号/MPH 青云小区/二段/奶业新楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 17号/MPH 青云小区/三段/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 19号/MPH 青云二段/职大小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 1号/MPH 青云小区/二段/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 1号/MPH 阳光公寓/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 1空挂号/MPH 青云小区/一段/卫生小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 21号/MPH 青云小区/一段/纺织小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 22号/MPH 青云小区/一段/公安小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 24号/MPH 青云小区/一段/物资小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 27号/MPH 青云小区/一段/计量小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 29号/MPH 青云小区/一段/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 30号/MPH 青云小区/一段/金属小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 4号/MPH 青云小区/二段/师范小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 广电路/JLX 8号/MPH 青云小区/二段/运管小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 哈达道/JLX 46号/MPH 呼得木林大街/JLX 十一号街坊/MPH 烟草公司住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 哈达道/JLX 46号/MPH 呼得木林大街/JLX 十一号街坊/MPH 烟草公司住宅小区附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 哈达道/JLX 46号/MPH 呼得木林大街/JLX 十一号街坊/MPH 烟草公司住宅小区新/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 哈达道/JLX 48号/MPH 呼得木林大街/JLX 十一号街坊/MPH /XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 哈达道/JLX 50号/MPH 幸福路/JLX 五号街坊/MPH 书香茗邸/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 哈达道/JLX 5号/MPH 呼得木林新天地/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 哈达道/JLX 7号/MPH 青山路/JLX 四号街坊/MPH 兵工华居/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 合成北道/JLX 4号/MPH 民主路/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 合作道/JLX 1128号/MPH 自由路/JLX 八号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 合作道/JLX 12号/MPH 自由路/JLX 十号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 合作道/JLX 3号/MPH 呼得木林大街/JLX 七号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 合作道/JLX 3号/MPH 呼得木林大街/JLX 七号街坊/MPH 世祥楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 00号/MPH 呼得木林大街/JLX 十四街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 01号/MPH 呼得木林大街/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 02号/MPH 呼得木林大街/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 10号/MPH 呼得木林大街/JLX 三号街坊/MPH 包头职业技术学院集体户/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 1129号/MPH 呼得木林大街/JLX 十四街坊/MPH 电科/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 1133号/MPH 呼得木林大街/JLX 十四街坊/MPH 电力/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 1135号/MPH 呼得木林大街/JLX 十四街坊/MPH 杆厂/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 1137号/MPH 呼得木林大街/JLX 十四街坊/MPH 供电/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 1139号/MPH 呼得木林大街/JLX 十四街坊甲/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 1141号/MPH 呼得木林大街/JLX 十四街坊/MPH 审计小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 1143号/MPH 呼得木林大街/JLX 十四街坊/MPH 乌拉山电厂/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 22号/MPH 包头市/CITY 职业技术学院宿舍楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 28号/MPH 呼得木林大街/JLX 九号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 28号/MPH 呼得木林大街/JLX 九号街坊/MPH 安装集体户/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 28号/MPH 呼得木林大街/JLX 九号街坊附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 46号/MPH 呼得木林大街/JLX 十二街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 4号/MPH 阳光佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 6号/MPH 青山路/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 8号/MPH 包头市/CITY 职业技术学院家属北院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 9号/MPH 呼得木林大街/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 呼得木林大街/JLX 呼得木林大街/JLX 十四号街坊/MPH 号/MPH 呼得木林大街/JLX 十四街坊/MPH 师专家属院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 湖滨路/JLX 16号/MPH 湖滨景苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 11号/MPH 自由路/JLX 十三号街坊/MPH 兴晟苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 13号/MPH 民主路/JLX 六号街坊/MPH 兴都大院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 17号/MPH 民主路/JLX 六号街坊/MPH 正业住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 2号/MPH 自由路/JLX 四号街坊/MPH /XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 5号/MPH 民主路/JLX 五号街坊/MPH 鑫达佳园小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 7号/MPH 自由路/JLX 九号街坊/MPH 百兴小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 7号/MPH 自由路/JLX 九号街坊/MPH 百兴小区栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 9号/MPH 自由路/JLX 十三号街坊/MPH 乐居小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 9号/MPH 自由路/JLX 十三号街坊/MPH 乐居小区栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 互助道/JLX 一所段/JLX 157号/MPH 百兴小区东底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 华清路/JLX 1号/MPH 青山路/JLX 五号街坊/MPH 华清佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 华清路/JLX 2号/MPH 青山路/JLX 五号街坊/MPH 新民村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 华清路/JLX 4号/MPH 青山路/JLX 五号街坊/MPH 青年新里程/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 建华路/JLX 1号/MPH 青年农场/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 建设路/JLX 1194号/MPH 建设路/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 建设路/JLX 1196号/MPH 建设路/JLX 二号街坊/MPH 电力佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 建设路/JLX 1197号/MPH 建设路/JLX 园林平房/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 建设路/JLX 189号/MPH 包头市/CITY 青山区人民政府/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 建设路/JLX 191号/MPH 包头市/CITY 公安局/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 金阳道/JLX 10号/MPH 宇雯普林斯顿小学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 金阳道/JLX 12号/MPH 普林斯顿幼儿园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 金阳道/JLX 1号/MPH 1号院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 金阳道/JLX 2号/MPH 2号院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 金阳道/JLX 5号/MPH 保利花园/金蕊苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 金阳道/JLX 8号/MPH 保利社区服务中心/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 进步道/JLX 41号/MPH 公园大道/JLX /XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 进步道/JLX 8号/MPH 富强路/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 进步道/JLX 8号/MPH 富强路/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 进步道/JLX 四所段/JLX 2号/MPH 格奥名烟名酒/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 进步道/JLX 四所段/JLX 8号/MPH 富强市场/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 进步路/JLX 32号/MPH 富强路/JLX 八号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 000号/MPH 乐厨家常菜/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 001号/MPH 昌福村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 0号/MPH 青东华庭/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 1126号/MPH 民主路/JLX 八号街坊/MPH 都市花园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 1128号/MPH 民主路/JLX 八号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 126号/MPH 富强路/JLX 十二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 18号/MPH 光辉三区/青东热源厂住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 199号/MPH 乐厨/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 1号/MPH 九星尚居/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 1号/MPH 青东嘉苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 20号/MPH 光辉三区/富华小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 21号/MPH 自由路/JLX 十一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 21号/MPH 自由路/JLX 十一号街坊/MPH 检修栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 27号/MPH 自由路/JLX 十一号街坊/MPH 富邦花苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 2号/MPH 青东华庭/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 30号/MPH 自由路/JLX 十三号街坊/MPH 颐园佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 30号/MPH 自由路/JLX 十三号街坊/MPH 颐园佳苑栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 31号/MPH 呼得木林大街/JLX 十三街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 32号/MPH 自由路/JLX 十三号街坊/MPH 都市花园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 34号/MPH 自由路/JLX 十三号街坊/MPH 瑞兴苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 34号/MPH 自由路/JLX 十三号街坊/MPH 瑞兴苑栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 3号/MPH 军辉花园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 3号/MPH 肿瘤医院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 44号/MPH 呼得木林大街/JLX 十四街坊/MPH 师专院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 48号/MPH 幸福路/JLX 八号街坊/MPH 雅园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 50号/MPH 幸福路/JLX 八号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 55号/MPH 幸福路/JLX 七号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 63号/MPH 幸福路/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 63号/MPH 幸福路/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 7号/MPH 晶典丽舍/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 99号/MPH 自由路/JLX 十三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 9号/MPH 民主路/JLX 六号街坊/MPH 宝林苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 东段1号/MPH 健康阳光城二期/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 东段2号/MPH 健康阳光城一期/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 四所段/JLX 102号/MPH 马家私房面/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 四所段/JLX 10号/MPH 碧湖浴场/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 四所段/JLX 12号/MPH 中国银行/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 四所段/JLX 14号/MPH 同利家电/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 四所段/JLX 2号/MPH 满堂红/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 四所段/JLX 4号/MPH 金地精品酒店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 四所段/JLX 6号/MPH 和顺园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 一所段/JLX 132号/MPH 自由路/JLX 十三号街坊/MPH 瑞兴苑底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 科学路/JLX 一所段/JLX 160号/MPH 自由路/JLX 十三号街坊/MPH 瑞兴苑西底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 林北路/JLX 007号/MPH 气象局家属楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 邻圃道/JLX 25号/MPH 丰产道/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 邻圃道/JLX 28附1号/MPH 园林新村/土产院住宅区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 邻圃道/JLX 28号/MPH 园林新村哲雯苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 邻圃道/JLX 30号/MPH 丰产道/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 邻圃道/JLX 32号/MPH 邻圃道/JLX /XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 邻圃道/JLX 九所段/JLX 202号/MPH 包头市/CITY 供暖经营管理处/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 邻圃道/JLX 九所段/JLX 2号/MPH 内蒙古新神农园林有限公司/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 流口测试路/JLX 1000号/MPH 流口测试小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 龙江道/JLX 01号/MPH 龙江道/JLX /XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 龙江道/JLX 01号/MPH 幸福路/JLX 十五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 龙江道/JLX 02号/MPH 幸福路/JLX 十七号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 龙江道/JLX 12号/MPH 幸福路/JLX 二十号街坊/MPH 御庭苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 龙江道/JLX 18号/MPH 春光小区三区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 龙江道/JLX 20号/MPH 春光小区六区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 龙江道/JLX 5号/MPH 新型小区逸民园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 001号/MPH 青山麗景/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 0号/MPH 光辉社区服务中心/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 1000号/MPH 光辉小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 10号/MPH 光辉二平放/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 11号/MPH 光辉二区副食品二厂家属小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 12号/MPH 民主路/JLX 八号街坊/MPH 景鑫苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 13号/MPH 光辉三区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 16号/MPH 民主路/JLX 八号街坊/MPH 青福佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 20号/MPH 民主路/JLX 五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 5号/MPH 朝阳二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 88号/MPH 光辉二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民主路/JLX 999号/MPH 碧海云天假日酒店有限公司/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民族东路/JLX 51号/MPH 振华小区二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民族东路/JLX 53附2号/MPH 富南小区二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民族东路/JLX 55号/MPH 赵家营子村一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民族东路/JLX 57号/MPH 赵家营子村二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民族东路/JLX 59号/MPH 激地公寓/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民族东路/JLX 66号/MPH 香格里拉/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 民族东路/JLX 九所段/JLX 3号/MPH 包头漫瀚艺术剧团/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 莫尼路/JLX 18号/MPH 迎宾小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 奇峰道/JLX 27号/MPH 青山路/JLX 五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 奇峰道/JLX 27号/MPH 青山路/JLX 五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 奇峰道/JLX 27号/MPH 青山路/JLX 五号街坊/MPH 一机单身集体户栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东东路/JLX 29号/MPH 保利钻石小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东路/JLX 0号/MPH 都兰社区服务中心/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东路/JLX 10号/MPH 光辉二区光辉佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东路/JLX 13号/MPH 福宇住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东路/JLX 15号/MPH 源和佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东路/JLX 19号/MPH 保利花园沁心园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东路/JLX 3号/MPH 都兰小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青东路/JLX 8号/MPH 光辉一区福泰嘉苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山东路/JLX 100号/MPH 绿海印象/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 000号/MPH 朝阳一区付/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 01号/MPH 六合成/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 030号/MPH 朝阳一区居委会/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 15号/MPH 六合新城二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 17拆迁号/MPH 六合成街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 17号/MPH 六合新城一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 1918号/MPH 富强路/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 1918号/MPH 富强路/JLX 一号街坊甲/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 1922号/MPH 青山路/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 21号/MPH 青山路/JLX 七号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 23号/MPH 青山路/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 27号/MPH 青山路/JLX 四号街坊/MPH 书香雅苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 30号/MPH 朝阳一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 30号/MPH 朝阳一区甲/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 32号/MPH 民主路/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 35号/MPH 青山路/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 40号/MPH 幸福路/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 40号/MPH 幸福路/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 44号/MPH 幸福路/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 44号/MPH 幸福路/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 48号/MPH 赛音道/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 48号/MPH 赛音道/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 青山路/JLX 九所段/JLX 137号/MPH 北重六小/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛汗路/JLX 1099号/MPH 青云念佛堂/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛汗路/JLX 16号/MPH 阳光翠景/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛汗路/JLX 18号/MPH 边防佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛汗路/JLX 25号/MPH 紫瑞园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 15号/MPH 赛音道/JLX 三号街坊/MPH 时代嘉苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 26号/MPH 赛音道/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 46号/MPH 赛音道/JLX 七号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 46号/MPH 赛音道/JLX 七号街坊附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 53号/MPH 赛音道/JLX 五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 53号/MPH 赛音道/JLX 五号街坊付/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 53号/MPH 赛音道/JLX 五号街坊附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赛音道/JLX 53号/MPH 赛音道/JLX 五号街坊/MPH 蔬菜栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 桑干道/JLX 11号/MPH 丰产道/JLX 四号街坊/MPH 金泰丽苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 桑干道/JLX 1号/MPH 丰产道/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 色气湾路/JLX 1号/MPH 色气湾村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 10号/MPH 新型小区春意园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 1101号/MPH 新型小区翠溪园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 11号/MPH 新型小区怡生园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 12号/MPH 新型小区温馨园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 1号/MPH 御融公馆/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 22附1号/MPH 春光小区/七区/交警小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 22附2号/MPH 春光小区/七区/居然苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 22附3号/MPH 春光小区/七区/电厂小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 22附5号/MPH 春光小区/七区/血站小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 22附6号/MPH 春光小区/七区/蓝鸟小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 22号/MPH 春光小区/七区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 32号/MPH 怡康苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 3号/MPH 新型小区/长熙园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 43号/MPH 横源居/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 49号/MPH 口岸花苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 50号/MPH 富南小区/一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 51号/MPH 振华小区/付二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 少先路/JLX 53号/MPH 松石家园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 蛇令窑路/JLX 13001号/MPH 蛇令窑自然村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 胜利路/JLX 5号/MPH 兴盛集镇石榴花园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 曙光路/JLX 1号/MPH 幸福路/JLX 十二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 曙光路/JLX 1号/MPH 幸福路/JLX 十二号街坊/MPH 平房1号院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 曙光路/JLX 1号/MPH 幸福路/JLX 十二号街坊/MPH 平房2号院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 曙光路/JLX 1号/MPH 幸福路/JLX 十二号街坊/MPH 平房3号院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 曙光路/JLX 2号/MPH 幸福路/JLX 十四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 曙光路/JLX 2号/MPH 幸福路/JLX 十四号街坊/MPH 拆迁户/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 曙光路/JLX 2号/MPH 幸福路/JLX 十四号街坊/MPH 金圣/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 四道/JLX 沙河纬一路/JLX 2号/MPH 包头市/CITY 泰鑫工贸有限责任公司/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 体育馆道/JLX 2号/MPH 青年路/JLX 二十六号街坊/MPH 万达/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 3号/MPH 富强路/JLX 七号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 11号/MPH 中国工商银行（迎宾小区支行）/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 15号/MPH 民族路小学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 19号/MPH 平安快捷酒店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 1号/MPH 包头市/CITY 国土资源监察支队/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 3号/MPH 包商银行富强支行/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 5号/MPH 内蒙古高新控股有限公司/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 7号/MPH 德克士（团结大街店）/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 九所段/JLX 9号/MPH 邮政银行团结东支行/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 四所段/JLX 1号/MPH 丽晶酒店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 团结大街/JLX 四所段/JLX 28号/MPH 北方医院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 万青路/JLX 1199号/MPH 万青路/JLX 自建房/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 万青路/JLX 11号/MPH 艺校住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 万青路/JLX 1号/MPH 田城康都苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 万青路/JLX 21号/MPH 晋剧团家属楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 万青路/JLX 2号/MPH 国安森林/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 万青路/JLX 5号/MPH 园林住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 万青路/JLX 6号/MPH 芳泽苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 王老大路/JLX 1号/MPH 王老大村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 王应基路/JLX 13001号/MPH 王应基村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望湖路/JLX 2号/MPH 中城国际/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园南道/JLX 12号/MPH 富强路/JLX 十五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 11号/MPH 富强路/JLX 十三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 3号/MPH 幸福路/JLX 九号街坊/MPH 设计院小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 3号/MPH 幸福路/JLX 九号街坊/MPH 设计院小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 5号/MPH 幸福路/JLX 九号街坊/MPH 区委小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 7号/MPH 幸福路/JLX 九号街坊/MPH 科教公寓/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 8号/MPH 幸福路/JLX 十号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 9号/MPH 幸福路/JLX 九号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 9号/MPH 幸福路/JLX 九号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 望园中道/JLX 9号/MPH 幸福路/JLX 九号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 10号/MPH 光辉一区健康新城/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1100号/MPH 自由路/JLX 六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1126号/MPH 自由路/JLX 七号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1140号/MPH 自由路/JLX 六号街坊/MPH 合志家园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 12号/MPH 光辉一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1335号/MPH 幸福路/JLX 甲三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1335号/MPH 幸福路/JLX 甲三号街坊/MPH 22附/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1335号/MPH 幸福路/JLX 甲三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1341号/MPH 幸福路/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1341号/MPH 幸福路/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1458号/MPH 富强路/JLX 六号街坊/MPH 都市阳光/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 15号/MPH 自由路/JLX 五号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1902号/MPH 园林新村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1908号/MPH 富强路/JLX 五号街坊/MPH 都市阳光/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1933号/MPH 锦林花园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1935号/MPH 青宾小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1附1号/MPH 供电家属小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 1号/MPH 欧鹿生活城/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 2号/MPH 万郡大都城/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 5号/MPH 民主路/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 东段00号/MPH 盛武肥牛/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 东段0号/MPH 昌福新村村委会/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 东段1号/MPH 昌福新村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 九所段/JLX 138号/MPH 青山区交警大队/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文化路/JLX 一所段/JLX 154号/MPH 自由路/JLX 七号街坊/MPH 南底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 1032号/MPH 自由路/JLX 八号街坊/MPH 西楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 1032号/MPH 自由路/JLX 八号街坊/MPH 西楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 1126号/MPH 民主路/JLX 五号街坊/MPH 红光/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 1128号/MPH 民主路/JLX 五号街坊/MPH 民源小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 1130号/MPH 自由路/JLX 八号街坊/MPH 北楼北楼/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 23号/MPH 保利花园郁金园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 31号/MPH 锦龙世家/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 文学道/JLX 一所段/JLX 202号/MPH 百兴小区北底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 0001号/MPH 乌审道/JLX 二号街坊/MPH 威龙汽车城/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 11号/MPH 春光小区四区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 12号/MPH 春光小区二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 13号/MPH 瑞春园A区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 14号/MPH 春光小区五区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 16号/MPH 阳光高尔夫小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 18号/MPH 瑞春园B区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 18号/MPH 乌审道/JLX 二号街坊/MPH 同心创业大厦/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 19号/MPH 乌审道/JLX 二号街坊/MPH 工商联大厦/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 2附1号/MPH 青建小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 2号/MPH 乌审道/JLX 二号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 3号/MPH 乌审道/JLX 二号街坊/MPH 威龙小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 4号/MPH 乌审道/JLX 二号街坊/MPH 龙德佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 5号/MPH 幸福路/JLX 十六号街坊/MPH 明大颐园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 乌审道/JLX 7号/MPH 春光小区一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 西边墙路/JLX 1号/MPH 西边墙村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 先锋道/JLX 13号/MPH 赛音道/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 先锋道/JLX 13号/MPH 赛音道/JLX 一号街坊/MPH 甲栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 先锋道/JLX 26号/MPH 富强路/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 先锋道/JLX 26号/MPH 富强路/JLX 四号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 先锋道/JLX 26号/MPH 富强路/JLX 四号街坊/MPH 税务局栋/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 先锋道/JLX 34号/MPH 富强路/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 先锋道/JLX 37号/MPH 丰产道/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 星火道/JLX 02号/MPH 乌审道/JLX 二号街坊/MPH 少先路小学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 星火道/JLX 1号/MPH 乌审道/JLX 二号街坊/MPH 香林湾佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 星火道/JLX 2号/MPH 乌审道/JLX 二号街坊/MPH 党校住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 兴业路/JLX 13001号/MPH 四道/JLX 沙河新村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 兴业路/JLX 2号/MPH 四道/JLX 沙河清真寺/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福路/JLX 26号/MPH 幸福路/JLX 四号街坊/MPH 时代财富城/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福南路/JLX 11号/MPH 幸福路/JLX 十六号街坊/MPH 阳光雅居/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福南路/JLX 14号/MPH 幸福路/JLX 十六号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福南路/JLX 15号/MPH 包头市/CITY 四十五中学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福南路/JLX 17号/MPH 幸福路/JLX 二十号街坊/MPH 宏瑞佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 幸福南路/JLX 3号/MPH 福兴佳园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 雁门道/JLX 1号/MPH 富强路/JLX 十号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 羊山窑子路/JLX 1号/MPH 羊山窑子寸/一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 羊山窑子路/JLX 2号/MPH 羊山窑子村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 阳光路/JLX 11号/MPH 保利花园/溪水园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 阳光路/JLX 14号/MPH 保利花园/紫茗园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 阳光路/JLX 41号/MPH 佳福小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 阳光路/JLX 9号/MPH 六合新城三区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 阳光五号/MPH 路/JLX 1号/MPH 上景园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银海路/JLX 09025号/MPH 银匠村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银海路/JLX 1号/MPH 二海壕村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银海路/JLX 2号/MPH 银匠窑子村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银海路/JLX 3号/MPH 同利仓储/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 银匠村经二路/JLX 09011号/MPH 银泽苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 101号/MPH 新村中学/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 1号/MPH 青山宾馆/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 9号/MPH 泓德绿苑豪庭/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 九所段/JLX 101号/MPH 关东大院/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 四所段/JLX 10号/MPH 乡间小路/JLX 饭店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 四所段/JLX 2号/MPH 向阳屯东北家常菜/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 四所段/JLX 4号/MPH 包头宝霆摩托车/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 四所段/JLX 6号/MPH 圣派嘉华音乐会所/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾道/JLX 四所段/JLX 8号/MPH 尚车e族洗车店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎宾小区203号/MPH 包头市/CITY 军队离休退休干部休养所/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎春道/JLX 02号/MPH 迎宾小区四运/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎春道/JLX 04号/MPH 迎春道/JLX 四运段/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎春道/JLX 2号/MPH 青昆清真寺/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎春道/JLX 4号/MPH 伊莎幼儿园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎春道/JLX 6号/MPH 迎宾道/JLX 一号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 迎春道/JLX 8号/MPH 迎春加油站/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 永和窑路/JLX 1号/MPH 永和窑村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 1029号/MPH 幸福路/JLX 二十号街坊/MPH 劳动技校住宅小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 1031号/MPH 幸福路/JLX 二十号街坊/MPH 平祥居/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 1033号/MPH 幸福路/JLX 二十号街坊/MPH 邮电小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 1035号/MPH 幸福路/JLX 二十号街坊/MPH /XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 15号/MPH 乌审道/JLX 三号街坊/MPH 左岸绿洲/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 17号/MPH 乌审道/JLX 三号街坊/MPH 赛汗郡庭/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 19号/MPH 乌审道/JLX 三号街坊/MPH 安泰华庭/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 23号/MPH 幸福路/JLX 二十号街坊/MPH 金地豪庭/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 60号/MPH 国安森林花园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 67号/MPH 传媒大厦文化创意园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 77号/MPH 富贵园/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 友谊大街/JLX 81号/MPH 金苑小区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 战备路/JLX 13001号/MPH 当铺佳苑/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 战备路/JLX 13003号/MPH 当铺村一区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 战备路/JLX 13005号/MPH 当铺村二区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 战备路/JLX 13007号/MPH 当铺村三区/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 赵家店路/JLX 1号/MPH 赵家店村/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 3号/MPH 自由路/JLX 三号街坊/MPH XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 自由路/JLX 一所段/JLX 156号/MPH 百兴小区/西底店/XIAOQU 
+内蒙古自治区/PROV 包头市/CITY 青山区/DIST 笸箩铺路/JLX 13001号/MPH 笸箩铺村/XIAOQU 

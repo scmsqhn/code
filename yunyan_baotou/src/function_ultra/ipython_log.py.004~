@@ -1,0 +1,8 @@
+# IPython log file
+
+
+get_ipython().run_line_magic('pdb', '')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('pwd', '-P')
+exit()

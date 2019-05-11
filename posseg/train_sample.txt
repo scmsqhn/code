@@ -1,0 +1,508 @@
+金沙/loc 乡镇/loc 安洛乡大/ns 萝卜村/村居委会 FTTH/eng 二组/loc 王永江/nr 
+金沙/loc 乡镇/loc 城关镇/loc 山槽/n 村民/loc 房/loc 住宅区/loc （刘勇/nr ）
+桐梓/ns 楚米镇/nr 三座/m 村/loc 冷村/loc 散户/n 
+麻江县/loc 坝芒/n 乡乐坪/n 村/n FTTH/eng 金盆/loc 穴/ng 组/v 
+两/m 城区/loc 金鼎/loc 镇/loc 金川/loc 村/loc 余家湾组/自然村组 
+毕节/市 金沙/loc 袁家桥/loc 民房/loc 住宅区/loc （袁/nr 天云/loc ）
+榕江县/loc 老八/loc 仓/nr 
+三都县/loc 水龙/loc 乡/loc 水龙/loc 村/loc 街上/loc 
+花溪区/loc 花溪大道南段/loc 董家堰村/loc 零星/n 户/q 
+毕节/市 乡镇/loc 水箐/nr 镇星/n 火村/loc FTTH/eng 大路/loc 组胡/l 家富/loc 
+黔西/ns 乡镇/loc 林泉/loc 镇/n 高锦村/nr （尤/d 荣光/loc ）
+织/v 金乡镇/loc 城关镇/loc 水依村/nr FTTH/eng 王志军/nr 民房/loc 
+独山县/loc 麻尾镇/nr 麻尾村/nr FTTH/eng 塘/j 香/a 组/v 
+贵定县/loc 云雾/n 镇/n 鸟/n 王村/loc FTTH/eng 长寿/loc 一组/loc 
+平坝县/loc 平黎/loc 路/loc 平海/loc 公司/loc 内/loc 散居/v 
+凯里市/loc 三棵树/loc 镇南/loc 高村/loc 脚/n 高/a 组/v 
+平坝县/loc 环城北路/loc 县中/loc 队/loc 对门/loc 
+石鸡/n 公/loc 
+织/v 金乡镇/loc 大平/loc 乡/n 前/f 坪/v 村/n FTTH/eng 夹/v 马槽/loc 组/q 彭/nr 厚福/nz 民房/loc 
+绥阳/ns 旺/loc 草镇/loc 晨光/loc 村/loc 晨光/loc 组/标准地址 散户/n 
+独山县/loc 下司/n 镇/v 泰康路/loc 散户/n 
+织/v 金乡镇/loc 珠藏镇/ns 华山村/loc FTTH/eng 河头/loc 上组/loc 王祖寿/nr 民房/loc 
+毕节/市 纳雍/nr 织/v 纳路/loc 武/n 世华/loc 家/loc 旁边/loc 熊成莲/nr 家/q 
+威宁/loc 乡镇/loc 小海/loc 镇/loc 西冲村/loc FTTH/eng 元山组/自然村组 
+威宁/loc 乡镇/loc 黑石/loc 镇/loc 黑石村/loc 一组/loc （孔/nr 美英/nz ）
+罗甸县/loc 新苑/loc 村路/loc 
+从江县/loc 丙妹/n 镇/v （雍里/nr 片区/loc ）归/v 林村/loc FTTH/eng 一组/loc 
+金沙/loc 乡镇/loc 平坝/loc 乡民/loc 房/loc 住宅区/loc （袁余才/nr ）
+仁怀/区 苍龙/nr 街道办事处/loc 苍龙/nr 社区/loc 磨刀/n 溪/n 组/v 
+凯里市/loc 大风洞/loc 乡/loc 大风洞/loc 村/loc 大风洞/loc 村/loc 
+南明区西湖路/loc 省委大院/小区名 省委宿舍/小区名 
+赫章/nr 乡镇/loc 水塘/loc 堡乡/n 水潮/n 村/n FTTH/eng 硝洞/n 组/v 周光富/nr 私房/loc 
+金沙/loc 乡镇/loc 禹谟镇/nr 五/m 堰村/loc 林场组/自然村组 李元/loc 明/loc 
+织/v 金乡镇/loc 白泥/loc 乡/loc 白泥村/loc FTTH/eng 闵/nr 文龙/loc 民房/loc 
+毕节/市 金沙/loc 袁家桥/loc （胡帮英/nr ）民房/loc 住宅区/loc 
+赫章/nr 乡镇/loc 哲庄乡/ns 哲/n 庄村/loc 河口组/自然村组 许绍勋/nr 私房/loc 
+绥阳/ns 金承路/nr 罗家堡/loc 零星/n 户/q 
+毕节/市 乡镇/loc 阴底乡阴/ns 底村/loc 十四组/自然村组 
+六枝/m 郎岱镇/loc 郎/ng 岱村/nrt -周仕芬/nr 
+毕节/市 威宁/loc 葡泉路/ns 黑神庙/loc 施家/loc 干锅/loc 鸡/n 旁/f 民房/loc 
+丹寨县/loc 扬/loc 武乡/ns 朱沙村/nr （扬武/ns 街上/loc ）中学/loc 宿舍/loc 
+金沙/loc 乡镇/loc 石场乡/loc 民房/loc （陈/nr 永富/loc ）
+仁怀/区 五马/ns 镇/loc 五马/ns 镇/n 牛/n 角塘/loc 组/标准地址 
+罗甸县/loc 环城东路/loc 电力公司宿舍
+江口县/loc 太平乡/loc 梵净山/nz 村坝/n 干/n 
+黔西/ns 乡镇/loc 林泉/loc 镇/loc 松树村/loc FTTH/eng 九组/loc （彭/nr 永平/loc ）
+织/v 金乡镇/loc 马场/loc 乡/loc 马场村/loc 街上/loc 罗章友/nr 民房/loc 
+仁怀/区 中枢/loc 街道办事处/loc 鹿鸣/loc 社区/loc 老/loc 人大/loc 组/标准地址 堰沟/loc 旁边/loc 
+盘县/ns 淤泥/n 河新/loc 街/n 苏/j 座/q 村/n 
+凯里市/loc 韶山/loc 南路/loc 卫生局/loc (健民大药房/loc )
+黔西/ns 乡镇/loc 素朴/a 镇/loc 马路村/loc FTTH/eng 安山/loc 九组/loc （李/loc 兴富/a ）
+金沙/loc 乡镇/loc 石场乡/loc 民房/loc 住宅区/loc （刘福/loc 军/n ）
+毕节/市 杨家湾/loc 
+黔西/ns 乡镇/loc 绿化/loc 乡/loc 绿化/loc 居委会/loc 下街/loc 
+茅台镇/loc 四/loc 车间/loc 上面/f 
+金沙/loc 乡镇/loc 沙土镇/loc 民房/loc 住宅区/loc 盲人按摩/loc (董/nr 宣明/nr )
+凯里市/loc 迎宾大道/loc 州/n 武警支队/loc 参谋长/n 办公室/loc 
+大方/loc 乡镇/loc 八堡/loc 乡/n 中/f 箐/g 村/n FTTH/eng 大寨组/自然村组 
+金海湖/loc 乡镇/loc 梨树/n 镇/loc 新寨村/loc FTTH/eng 三组/loc 阮雷/nr 
+三穗县/loc 金穗/loc 路/loc 金穗小区/loc 门面/loc 
+丹寨县/loc 南皋乡/loc 南皋/loc 大桥头/ns 
+花溪区/loc 小碧/loc 乡卫生院/loc 
+凯里市/loc 凯棠/nr 乡/n 龙塘村/loc 七组/loc 
+织/v 金乡镇/loc 鸡场/loc 乡/loc 丫口寨/loc 村/n FTTH/eng 杨继雄/nr 民房/loc 
+六枝/m 岩脚/loc 乡/loc 岩脚村/loc -吴/loc 胜荣/loc 
+福泉市/loc 地松/n 乡/n 街道/loc 散户/n /加油站附近/loc 
+织/v 金乡镇/loc 马场/loc 乡/loc 小河村/loc FTTH/eng 大丫口组/自然村组 何/r 攀成/v 民房/loc 
+天柱县/loc 兰/loc 田镇/loc 大雅/ns 村/n FTTH/eng 老寨组/自然村组 
+织/v 金乡镇/loc 官寨/loc 乡/loc 大寨村/loc FTTH/eng 杨旭/nr 民房/loc 
+毕节/市 乡镇/loc 长春/loc 堡/ng 镇/n 宋/nr 官村/loc FTTH/eng 堰塘组/自然村组 顾尚全/nr 
+黔西/ns 乡镇/loc 素朴/a 镇/loc 石堡/loc 村/n FTTH/eng 七组/loc （金开/loc 平/loc ）
+赫章/nr 乡镇/loc 水塘/loc 堡乡/n 合心村/loc FTTH/eng 一组/loc 熊/nr 乾方/loc 私房/loc 
+仁怀/区 中枢/loc 城区/loc 天安保险/loc 里面/loc 
+黔西/ns 乡镇/loc 中坪/loc 镇/loc 新厂村/标准地址 FTTH/eng 田湾组/自然村组 
+织/v 金乡镇/loc 猫场/loc 镇/loc 三甲村/loc FTTH/eng 来/v 沙组/n 陈祖学/nr 民房/loc 
+毕节/市 乡镇/loc 长春/loc 堡/ng 镇滑/v 石村/loc FTTH/eng 坛/ng 灌组/vn 韩贤文/nr 
+织/v 金乡镇/loc 板桥/loc 乡/n 箐/g 龙村/loc FTTH/eng 后冲组/自然村组 李成/nrfg 志/loc 民房/loc 
+织/v 金乡镇/loc 牛场/loc 镇/loc 牛场村/标准地址 魏发/j 全/n 民房/loc 
+云岩区/loc 金坡路/loc 金关村/loc 金关钢材市场后门/loc 
+天柱县/loc 润松/loc 街上/loc 
+麻江县/loc 杏山/loc 街道/loc 小堡村/loc FTTH/eng 红星组/自然村组 
+丹寨县/loc 排调/v 镇排/v 调/vn 中心医院/loc 
+毕节/市 金沙/loc 东南/loc 环线/n 十米/m 街/loc 东南/loc 餐馆/loc 对面/loc 
+仁怀/区 黄梅/nr 路/loc 梅家/loc 堡/ng 东环/loc 线/n 外环/loc 
+织/v 金乡镇/loc 板桥/loc 乡/loc 板桥村/loc 刘忠民/nr 私房/loc 
+织/v 金乡镇/loc 猫场/loc 镇/loc 光明村/loc FTTH/eng 张定/loc 平民/n 房/loc 
+贵定县/loc 昌明/loc 旧治/loc 镇/loc 堡子/loc 寨/loc 
+六枝/m 中寨/loc 乡/loc 大箐/loc 村/n FTTH/eng 
+毕节/市 乡镇/loc 龙场/n 营镇/loc 者/k 把/p 村/n FTTH/eng 九组/loc 张/loc 帮祥/loc 
+三都县/loc 周覃镇/nr 新荣/loc 村/loc 易地/n 搬迁/v 移民/loc 工程/loc 安置房/loc 覃/nr 学成/loc 
+仁怀/区 国酒/loc 南路/loc 茅台/loc 小区/loc 
+岑巩县/loc 天星/nz 乡地/n 城村/n FTTH/eng 大弄/loc 子组/n 
+黔西/ns 乡镇/loc 新仁乡仁慕村/ns FTTH/eng 胡家寨组/自然村组 （胡义/nr ）
+赫章/nr 乡镇/loc 财神/n 镇/loc 大路边/loc 村/n FTTH/eng 万/m 沟/n 组/q 彭贤/nr 美/ns 私房/loc 
+榕江县/loc 栽麻乡/l 小学/loc 
+金海湖/loc 乡镇/loc 小坝/loc 镇/loc 公鸡山/loc 村/n FTTH/eng 马道子/loc 组张/v 昌国/ns 
+赫章/nr 乡镇/loc 野马/n 川镇/ns 上街村/村居委会 七组/loc 刘四/loc 妹/n 
+桐梓/ns 新站/loc 镇关/ns 仓/n 村山/n 岔河组/自然村组 零星/n 户/q 
+赫章/nr 乡镇/loc 白果/loc 镇/loc 河头/loc 上村/loc 小/a 地组/n 雷元胜/nr 私房/loc 
+南明区/loc 凤凰路/loc 托儿所/loc 
+凯里市/loc 清江路/loc 龙井/loc 建材市场/loc 海尔专卖店/loc 
+毕节/市 乡镇/loc 长春/loc 堡镇/n 清/a 塘村/loc FTTH/eng 对河/loc 组/q 樊丽娟/nr 
+麻江县/loc 回龙路/loc 散户/n 
+福泉市/loc 陆坪镇/nr 街道/loc /土管/n 所后/c 散户/n 
+黔西/ns 乡镇/loc 花溪/loc 乡/n 借/v 魁村/ns FTTH/eng 中化/loc 组/标准地址 （罗炳/nr 该/r ）
+毕节/市 乡镇/loc 何官屯/loc 镇/loc 大坪子村/loc FTTH/eng 包包组/自然村组 陆茂/nr 全/n 
+赫章/nr 乡镇/loc 铁匠/loc 乡/loc 铁匠村/loc 王汝刚/nr 
+旺/loc 草镇/loc 广怀村/nr 
+黔西/ns 乡镇/loc 五里/loc 乡化/n 布村/n FTTH/eng 四组/loc （蔡尚余/nr ）
+织/v 金乡镇/loc 后寨/loc 乡/loc 后寨村/loc 邓梦芸/nr 民房/loc 
+清镇市/loc 大冲村/loc 下寨组/自然村组 散户/n 
+金沙/loc 乡镇/loc 沙土镇/loc 民房/loc 住宅区/loc （王亚/loc 飞/loc ）
+赫章/nr 乡镇/loc 水塘/loc 堡乡/n 塘口/loc 村/n FTTH/eng 朵/q 倮/g 组/v 雷德/nr 绪/ng 私房/loc 
+黔西/ns 乡镇/loc 谷里镇/loc 谷里/loc 上街/ns （赖明国/nr ）
+龙马/loc 公寓/loc 后面/f 一楼/loc 
+龙里县/loc 环南路/loc 周边/f 散户/n 
+毕节/市 大方/loc 利民路/loc 地税局/loc 保安室/loc 
+金沙/loc 乡镇/loc 沙土镇/loc 民房/loc 住宅区/loc （唐/loc 光荣/loc ）
+福泉市/loc 道坪镇/nr 清江东路/loc /变电站/loc 附近/loc 散户/n 
+金沙/loc 乡镇/loc 清池镇/ns 普安村/loc FTTH/eng 千秋/loc 组/标准地址 
+毕节/市 纳雍/nr 环城路/loc 阳光新城/loc 对面/loc 街面/n 门面/loc 
+织/v 金乡镇/loc 三塘/loc 镇/loc 上寨村/loc FTTH/eng 罗举文/nr 民房/loc 
+仁怀市/loc 坛/ng 厂/n 镇/n 温泉社区/loc 三组/loc 
+黔西/ns 乡镇/loc 锦星/nz 乡/n 文阁/loc 村/n FTTH/eng 七组/loc （陈/nr 尚友/loc )
+两城/loc 区东/loc 联线/n 袁家/loc 堡/ng 组/v 散户/n 
+黔西/ns 乡镇/loc 雨朵镇/nr 老君/loc 关村/loc FTTH/eng 五组/loc （史红恩/nr ）
+凤冈/ns 龙泉镇/loc 文峰/loc 村/loc 洋溪/loc 口/loc （无线/loc 覆盖/v ）
+织/v 金乡镇/loc 纳雍/nr 乡/loc 纳雍/nr 鼠场村/村居委会 詹/nr 德敏/loc 民房/loc 
+黔西/ns 乡镇/loc 中坪/loc 镇/loc 新街/loc （袁平/nr ）
+福泉市/loc 洒/v 金北/loc 路/loc 土管/n 宿舍/loc 侧/loc （二楼/loc ）散户/n 
+织/v 金乡镇/loc 三甲/loc 乡/n 绮结/a 河村/loc FTTH/eng 韩荣波/nr 民房/loc 
+织/v 金乡镇/loc 牛场/loc 镇/loc 牛场村/标准地址 黎婷敏/nr 民房/loc 
+三穗县/loc 长吉镇/ns 贵/a 晓村/nr FTTH/eng 老段/loc 组/标准地址 
+花溪区/loc 香椿路/loc 郑/ns 老伯/nr 鸡哈/ns 豆腐/loc 前面/loc 零星/n 户/q 
+乌当区/loc 松溪路/loc 建安小区/loc 光机/n 带/v 零星/n 户/q 陈庆忠/nr 
+毕节/市 织金/n 法/j 星路/n 大宝/loc 油漆/loc 楼上/loc 六楼/loc 
+织/v 金乡镇/loc 上/loc 坪寨/loc 乡格/n 支村/n FTTH/eng 杨付力/nr 民房/loc 
+台江县/loc 秀眉/nr 东大道/loc 贵酒/n 王厂/loc 四楼/loc 
+丹寨县/loc 龙井/loc 老/loc 酒厂/loc 
+织/v 金乡镇/loc 少/a 普/nr 乡/n 少/a 普村/n 王家/loc 云/loc 民房/loc 
+丹寨县/loc 龙泉镇/loc 振兴西路/loc 武装部/loc 
+印刷厂/loc 
+六枝/m 中寨/loc 乡长/loc 寨村/loc FTTH/eng 
+贵定县/loc 迎宾路/loc 高速/loc 收费站/loc 旁边/loc 
+毕节/市 大方/loc 西大街/loc 计生局宿舍/小区名 后一/loc 层/标准地址 民房/loc 
+黔西/ns 乡镇/loc 林泉/loc 镇卫/v 星村/loc FTTH/eng 二组/loc （胡/nr 树军/loc ）
+丹寨县/loc 建设东路/loc 文卫巷/nr 茶叶/loc 门市/loc 
+金阳新区/loc 碧海花园/loc 碧海南路/loc 碧海社区服务中心/社区 
+桐梓/ns 娄山关/ns 镇/loc 西门/loc 堰家沟/ns 组/v 零星/n 户/q 
+仁怀/区 胜利北路/loc 自来水公司/loc 后面/f 
+桐梓/ns 娄山关/ns 镇/loc 工农村/loc 加油站/loc 零星/n 散户/n 
+织/v 金乡镇/loc 纳雍/nr 乡/loc 和平村/loc FTTH/eng 刘南/loc 远/loc 民房/loc 
+金沙/loc 乡镇/loc 沙土镇/loc 民房/loc 住宅区/loc 罗宁/nr 
+黔西/ns 乡镇/loc 锦星/nz 乡/n 新街村/loc FTTH/eng 五组/loc （杨/loc 治学/n ）
+盘县/ns 羊场/loc 新街羊/loc 场/loc 零星/n 户/q 
+毕节/市 乡镇/loc 千/m 溪/n 乡/n 中屯村/loc FTTH/eng 十四组/自然村组 罗永举/nr 
+织/v 金乡镇/loc 以/p 那/r 镇沙/loc 田村/loc FTTH/eng 小拱/loc 桥组/n 潘仕/nr 玉民/loc 房/loc 
+两/m 城区/loc 郊区/loc 临时/loc 小区/loc 板桥镇/loc BQ/eng 机/n 监狱/loc 家属楼/loc 平户/n 
+黔西/ns 乡镇/loc 谷里镇/loc 谷里/loc 上街/ns （黄碧华/nr ）
+福泉市/loc 陆坪镇/nr 街/n 中学/loc 宿舍/loc 附近/loc 散户/n 
+惠水县/loc 高镇/loc 姚/nr 新村/loc 十二组/loc 
+水城/loc 钟山区/loc 大湾/loc 镇政府/loc 
+独山县/loc 和平路/loc 师范/loc 附近/loc 散户/n 
+黔西/ns 乡镇/loc 甘棠乡/loc 红星村/loc 关寨/loc 一组/loc 李文群/nr 
+织/v 金乡镇/loc 黑土/loc 镇/loc 龙潭村/loc ＦＴＴＨ卢太军/nr 民房/loc 
+织/v 金乡镇/loc 实兴/v 乡石/n 底村/loc FTTH/eng 杨正群/nr 民房/loc 
+织/v 金乡镇/loc 三塘/loc 镇野/ns 乌村/loc FTTH/eng 三家/loc 茬/q 王兴虎/nr 民房/loc 
+两/m 城区/loc 高桥/loc 海龙/loc 温泉/loc 红旗/loc 组/v ./m 
+金沙/loc 乡镇/loc 岩/loc 孔镇/loc 民房/loc 住宅区/loc 青丰/ns 周国江/nr 
+毕节/市 威宁/loc 建设东路/loc 范家/loc 花园/loc 民房/loc （付枝鑫/nr ）
+息烽县/loc 温泉镇尹庵村/loc 
+福泉市/loc 马遵/nr 公路/loc 皂角井/n 散户/n 
+乌当区/loc 百宜乡红旗村/loc 慈姑/nr 田/loc 零星/n 户/q 
+毕节/市 大方/loc 书院街/loc 新车站/loc 后面/f 民房/loc 一层/楼层 
+织/v 金乡镇/loc 珠藏镇/ns 华山村/loc FTTH/eng 新房组/自然村组 温/loc 吉祥/loc 民房/loc 
+两/m 城区/loc 郊区/loc 临时/loc 小区东/loc 联线/n 何家湾/loc 散户/n 
+织/v 金乡镇/loc 自强/loc 乡/loc 堰塘村/loc FTTH/eng 包/v 包寨/loc 组张/v 少友/n 民房/loc 
+织/v 金乡镇/loc 黑土/loc 乡/loc 黑土村/loc 王达/nr 丽民/loc 房/loc 
+毕节/市 乡镇/loc 亮岩/n 镇亮/a 岩村/loc 新大街/loc 
+毕节/市 金沙/loc 罗/j 马路/loc 皮匠/loc 湾/loc 
+黔西/ns 乡镇/loc 铁石/n 乡/n 慕/nr 老坝村/loc FTTH/eng 红旗/loc 九组/loc （李/loc 顺祥/loc ）
+织/v 金乡镇/loc 珠藏镇/ns 链子/n 桥村/n FTTH/eng 下队/loc 组/标准地址 杨杰/loc 民房/loc 
+毕节/市 金沙/loc 金遵路/nr 玉屏/loc 小学/loc 旁/loc (刘贵/loc 禹/nr )
+织/v 金乡镇/loc 阿弓镇/nr 大田村/loc FTTH/eng 大田组/自然村组 黄林/loc 付/v 民房/loc 
+榕江县/loc 寨/ng 蒿/nr 镇机关/loc 组/标准地址 小学/loc 
+安顺市/loc 西/loc 航路/n 华西/loc 车站/loc 散户/n 
+织/v 金乡镇/loc 三甲/loc 乡/loc 马家庄村/loc FTTH/eng 邓/nr 德江/loc 民房/loc 
+从江县/loc 往/p 洞镇/ns 信地/n 村/n FTTH/eng 四组/loc 
+两/m 城区/loc 泗渡镇/ns 松沙村/ns 零星/n 散户/n 坎上/loc 组/q 冯发勇/nr 私房/loc 
+茅台/loc 仓库/loc 后面/f 
+毕节/市 乡镇/loc 对/p 坡/n 镇/n 嘎/o 木村/loc FTTH/eng 小/a 水井/loc 组胡/l 发顺/loc 
+桐梓/ns 花秋镇/nr 花秋/nr 小寨子/loc 青岗/loc 坝/loc 
+贵定县/loc 抱管/v 乡政府/loc 
+凤冈/ns 永安镇/loc 崇/zg 新村/loc 
+鸭溪/ns 雷泉/nr 社区/loc 农技站/loc 
+黔西/ns 乡镇/loc 金碧/loc 镇/loc 金碧/loc 居委会/loc 文化路/loc （李连喜/nr ）
+金沙/loc 乡镇/loc 化觉/n 乡民/loc 房/loc 住宅区/loc （杜/nr 德军/nr ）
+黔西/ns 乡镇/loc 钟/nr 山乡/loc 铜鼓/n 村/n FTTH/eng 一组/loc （龙文/loc 举/v ）
+贵定县/loc 云雾/n 新西/loc 
+桐梓/ns 花秋镇/nr 街上/loc 玉盒/n 树湾/n 
+金海湖/loc 乡镇/loc 小坝/loc 镇/loc 梁家寨村/村居委会 二组/loc 
+仁怀/区 坛/ng 厂/n 镇/n 枇杷/loc 村/loc 新台/loc 组/标准地址 
+黔西/ns 乡镇/loc 谷里镇/loc 自治/loc 村/n FTTH/eng 一组/loc （姚/nr 成坤/loc ）
+织/v 金乡镇/loc 纳雍/nr 乡/loc 纳雍/nr 派出所/loc 
+天柱县/loc 石洞/loc 镇/loc 黄桥村/loc FTTH/eng 十二组/loc 
+乌当区/loc 金华镇/loc 蒿芝/loc 塘/j 蒿芝村/loc 三组/loc 
+赫章/nr 乡镇/loc 河/loc 镇乡/ns 双河村/loc FTTH/eng 一组/loc 吴祥凤/nr 私房/loc 
+黔西/ns 乡镇/loc 林泉/loc 镇卫/v 星村/loc FTTH/eng 六组/loc （苟/nr 飞虎/nz ）
+织/v 金乡镇/loc 鸡场/loc 乡/n 旧/a 税村/n FTTH/eng 鲁荣春/nr 民房/loc 
+金沙/loc 乡镇/loc 禹谟镇/nr 城墙/loc 村普门/n （冷和剑/nr ）
+紫/n 云县/loc 新东路/loc 老/loc 酒厂/loc 零星/n 户/q 
+赫章/nr 乡镇/loc 野马/n 川镇/ns 双营村/loc FTTH/eng 二组/loc 朱德/nr 贵/loc 私房/loc 
+黔西/ns 乡镇/loc 协和/loc 乡/loc 上街/ns （周发志/nr ）
+黔西/ns 乡镇/loc 谷里镇/loc 天桥村/loc FTTH/eng 二组/loc （陈勇/nr ）
+赫章/nr 乡镇/loc 可乐/loc 乡/loc 农场村/loc 河边组/自然村组 王正跃/nr 私房/loc 
+凯里市/loc 环城东路/loc 私房/loc 技校/loc 后面/f 私房/loc 
+福泉市/loc 牛场/loc 镇/n 蒋/nr 家院/loc 大道/loc 蒋/nr 家院/loc 开发区/loc 散户/n /
+毕节/市 乡镇/loc 海子/loc 街镇/n 大丫口/loc 村/n FTTH/eng 陶庆金/nr 
+毕节/市 纳雍县/loc 委办/v 
+官仓镇/nr 红旗村/loc 禾家/n 组/v 
+南明区/loc 富源路/loc 贵阳/loc 龙家寨/loc 检测站/loc 
+都匀市/loc 剑江北路/loc 盘山/ns 街/loc 私房/loc 
+金海湖/loc 乡镇/loc 梨树/n 镇/loc 新寨村/loc FTTH/eng 一组/loc 王学丙/nr 
+织/v 金乡镇/loc 猫场/loc 镇/loc 二甲村/loc FTTH/eng 二甲/loc 组陈/v 玉民/loc 房/loc 
+榕江县/loc 古州中路/loc 家家福/loc 楼上/loc 三楼/loc 
+黔/loc 西乡/loc 镇定/v 新乡/loc 新村村/loc FTTH/eng 五组/loc （付顺菊/nr ）
+六枝/m 郎岱镇/loc 郎/ng 岱村/nrt -程开毅/nr 
+小河区/loc 西站路/loc 成都/loc 铁路局/loc 贵阳/loc 供电段/loc 贵阳/loc 供电/loc 车间/loc 
+花溪区/loc 徐家冲/loc 农房/n 点/m 
+凤冈/ns 开发区/loc 贵平/ns 公寓/loc 
+天柱县/loc 高/a 酿/v 镇/n 坐/v 寨村/loc FTTH/eng 五组/loc 
+毕节/市 大方/loc 解放路/loc 斜对面/n 四层/loc 民房/loc 一楼/loc 
+岑巩县/loc 大有/loc 镇/loc 塔山村/loc FTTH/eng 半湾/ns 组/v 
+天柱县/loc 南门路/loc 县委宿舍/小区名 隔壁/loc 
+清镇市/loc 暗流乡/loc 小沟村/loc 下克乃/loc FTTH/eng 
+丹寨县/loc 雅灰乡雅灰/nz 街上/loc 杀/v 高村/loc 三组/loc 
+毕节/市 威宁/loc 中山路/loc 东门口/loc 民房/loc 
+六枝/m 跃进路/loc 那/r 古坝/loc A/loc 小区/loc 零星/n 户/q 那/r 古坝/loc A/loc 小区/loc 邓/nr 承付/v 
+桐梓/ns 娄山关/ns 镇/loc 工农街/loc 信用卡/loc 对面/loc 
+开阳县/loc 金中镇/loc 南区/loc 
+罗甸县/loc 边阳/loc 镇文化路/loc 散户/n 
+织/v 金乡镇/loc 绮陌/nr 乡/n 中坝村/loc FTTH/eng 杨家湾组/自然村组 彭静/nr 
+岑巩县/loc 思阳镇/nr 龙江村/loc FTTH/eng 瓦窑组/自然村组 
+凤冈/ns 绥阳/ns 镇/n 新/a 冈村/ns 刘家坟/loc 组/标准地址 （无线/loc 覆盖/v ）
+织/v 金乡镇/loc 实兴/v 乡/n 小干坝/loc 村/n FTTH/eng 苏江/ns 品/loc 民房/loc 
+黔西/ns 乡镇/loc 永兴/loc 乡/loc 新寨村/loc FTTH/eng 白龙组/自然村组 （罗云兴/nr ）
+黔西/ns 乡镇/loc 钟/nr 山乡/loc 铜鼓/n 村/n FTTH/eng 十二组/loc （李章/loc 海/loc ）
+凯里市/loc 炉/zg 山镇/loc 城关村/loc 响/zg 水路/loc 中寨组/自然村组 
+都匀市/loc 环城西路/loc 三道/loc 都匀市/loc 看守所/loc 办公楼/loc /休息室/loc 
+金沙/loc 乡镇/loc 平坝/loc 乡民/loc 房/loc 住宅区/loc （韩廷广/nr ）
+织/v 金乡镇/loc 熊家场/loc 乡/loc 熊家场/loc 村/n 杨/nr 明光/loc 民房/loc 
+毕节/市 乡镇/loc 八寨镇/ns 八/n 寨村/loc 烟站/loc 门口/loc 
+独山县/loc 南通/loc 北路/loc 巷子深/loc 私房/loc 散户/n 
+丹寨县/loc 振兴路/loc 审计局宿舍/loc 
+两/m 城区/loc 郊区/loc 临时/loc 小区/loc 东联/loc 线/n 牟家/loc 坟/n 散户/n 
+毕节/市 金沙/loc 东南/loc 环线/n 中心社区/loc （李/loc 金玉/loc ）
+黔西/ns 乡镇/loc 钟/nr 山乡/loc 新街/loc （王先/loc 富/loc ）
+花溪区/loc 将军路/loc 散户/n 
+从江县/loc 谷坪/loc 乡/loc 小学附近/loc 私房/loc 
+毕节/市 威宁/loc 民享/v 路/loc 老公安局/loc 宿舍/loc （杨/loc 华惠/loc ）
+遵义县/loc 新舟/nz 镇/loc 禹门/ns 新街/loc 
+普定县/loc 塔山路/loc 千禧园/loc 后面/f 
+金沙/loc 乡镇/loc 五龙街/loc 道五/loc 关村/loc FTTH/eng 联生/v 祖/n 
+乌当区/loc 金牛路/loc 奶牛场/loc 零星/n 户/q 场部/loc 
+黄平县/loc 浪/n 洞/n 乡/n 后寨/loc 私房/loc 
+毕节/市 金沙/loc 合理/loc 路/loc 合理村/loc 二组/loc （杨静/nr ）住宅区/loc 
+毕节/市 乡镇/loc 海子/loc 街镇/n 大丫口/loc 村/n FTTH/eng 七组/loc 王益龙/nr 
+瓮安县/loc 玉华/loc 乡卫生院/loc 
+洋海/ns 叉/n 联/v 建房/loc 
+六枝/m 郎岱镇/loc 郎/ng 岱村江/ns 燕琼/nz 
+南明区文雅巷/loc 太慈/loc 十一/loc 居/loc 托儿所/loc 门口/loc 
+修文县/loc 大石/loc 乡/loc 街上/loc （散户/n ）
+金沙/loc 乡镇/loc 平坝/loc 乡/loc （付万禄/nr ）民房/loc 住宅区/loc 
+黔西/ns 乡镇/loc 铁石/n 乡/n 慕/nr 老坝村/loc FTTH/eng 前进/loc 四组/loc （张忠银/nr ）
+平坝区/区 十字/loc 乡/loc 云盘村/loc FTTH/eng +盘山/ns 十一组/loc 
+织/v 金乡镇/loc 茶店/loc 乡群/n 丰村/nr FTTH/eng 新场村/loc 杨春先/nr 民房/loc 
+丹寨县/loc 排调/v 镇/n 排晒/v 村党/n 郎寨/loc FTTH/eng 六组/loc 
+黔西/ns 乡镇/loc 金兰/loc 镇/loc 龙山村/loc FTTH/eng 银山/loc 三组/loc 
+纳雍/nr 乡镇/loc 董地/n 乡/n 街上村/loc 上寨组/自然村组 
+李茂/loc 娟/zg 
+天柱县/loc 十字街/loc 广大/loc 家电/loc 楼上/loc 
+天柱县/loc 凤城街道/loc 八甲村/loc FTTH/eng 一组/loc 
+织/v 金乡镇/loc 纳雍/nr 乡上/s 红岩村/loc FTTH/eng 朱之付/nr 民房/loc 
+六枝/m 木岗/loc 路/loc 木岗/loc 场/loc 小区/loc 零星/n 户/q -梅宗礼/nr 
+金沙/loc 乡镇/loc 安底镇/ns 三叉路口/n 
+织/v 金乡镇/loc 少普镇/nr 白泥/loc 坝村/n FTTH/eng 杨林/loc 飞/loc 民房/loc 
+金海湖/loc 乡镇/loc 文阁/loc 乡/loc 太河村/loc FTTH/eng 前进二组/自然村组 雷宣妃/nr 
+毕节/市 金沙/loc 新村/loc 火电厂/n 小水/loc 砖厂/loc 旁/loc 
+丹寨县/loc 长青/loc 乡羊/n 丁村/loc 大/a 乌/n 尤寨/loc FTTH/eng 六组/loc 
+凯里市/loc 水井坡/loc 私房/loc 沥青/n 房/loc 坎上/loc 
+织/v 金乡镇/loc 绮陌/nr 乡/n 平桥村/标准地址 FTTH/eng 下河湾组/自然村组 杨如刚/nr 民房/loc 
+清镇市/loc 新店镇/loc 茶店/loc 一组/loc 
+黎平县/loc 九/m 潮镇/ns 九潮/n 村/n 十二组/loc 
+施秉县/loc 城关镇/loc 环东路/loc 
+毕节市/loc 西洪/loc 南路/loc 洪南/ns 商住楼/loc (三林/loc 洒/v 店/n )门面/loc 鸿福/loc 卷闸门厂/loc 
+百/loc 管委/n 乡镇/loc 普底/ad 乡/n 龙峰/loc 村/n FTTH/eng 小箐/loc 组/标准地址 
+毕节/市 威宁/loc 威/loc 双大/loc 道/loc 火车站/loc 生活小区/loc 
+清镇市/loc 暗流乡/loc 鼓钟村/loc 远程教育/loc 办公室/loc 
+金沙/loc 乡镇/loc 安洛乡大/ns 贤村/loc FTTH/eng 对门寨组/自然村组 
+金沙/loc 乡镇/loc 桂花/loc 乡/loc （郑/ns 道和/loc ）民房/loc 住宅区/loc 
+毕节/市 金沙/loc 岩/loc 孔镇/loc 岩孔/n 东光/loc （张本/ns 寿/loc ）
+赫章/nr 乡镇/loc 野马/n 川镇/ns 乌/ns 木村/loc FTTH/eng 白果组/自然村组 叶家/loc 礼/n 私房/loc 
+平塘县/loc 玉水北路/loc 周围/f 散户/n /民/loc 中局/j 周围/f 
+盘县/ns 四格/n 坡上村/loc 对/p 门子/n 组/标准地址 
+织/v 金乡镇/loc 桂果镇/nr 东红村/loc FTTH/eng 周齐虎/nrfg 民房/loc 
+赫章/nr 乡镇/loc 野马/n 川镇/ns 乌/ns 木村/loc FTTH/eng 沙田组/自然村组 王/loc 贵才/loc 私房/loc 
+毕节市/loc 西贵/nr 毕/vg 路/n 贵阳/loc 银行/loc 十楼/楼层 
+黔西/ns 乡镇/loc 钟/nr 山乡/loc 猫/n 山村/loc FTTH/eng 六组/loc （王兰/loc 艳/a ）
+织/v 金乡镇/loc 实兴/v 乡/n 新场村/loc FTTH/eng 街上组/自然村组 赵/nr 永贵/loc 民房/loc 
+毕节/市 乡镇/loc 长春/loc 堡镇/n 下伍/loc 村/n FTTH/eng 湾子组/自然村组 李德/nr 唐/loc 
+织/v 金乡镇/loc 牛场/loc 镇/loc 牛场村/标准地址 张仕会/nr 民房/loc 
+毕节/市 威宁/loc 威/nr 宣路/n 海龙/loc 加油站/loc 对面/loc （林仕学/nr ）
+黔西/ns 乡镇/loc 重新/a 镇/loc 居委会/loc 三堰/ns （孟/nr 邦华/loc ）
+清镇市/loc 流长乡/loc 羊场村/loc FTTH/eng 六组/loc （户户/n 用/p 安装费/n ）曾国琴/nr 
+黔/loc 西乡/loc 镇定/v 新乡/loc 新村村/loc FTTH/eng 二组/loc （李发迁/nr ）
+铜仁市/loc 新华北路/loc 南长城/loc 气站/loc 对面/loc 
+安顺市/loc 西秀区/loc 东关/loc 办事处/loc 虹/loc 山村/loc 零星/n 户/q 
+毕节/市 乡镇/loc 长春/loc 堡/ng 镇合/v 桩/q 村/n FTTH/eng 永田/nz 组/标准地址 吉庆/loc 虎/loc 
+金沙/loc 乡镇/loc 化觉/n 镇/v 大坪村/loc FTTH/eng 大坪组/自然村组 何仁虎/nr 
+修文县/loc 龙场镇/loc 营官村/标准地址 小营/loc 三组/loc 
+六枝/m 交通/loc 西路/loc 下/f 嘎/o 支/v 小区/loc 零星/n 户/q 姜禄军/nr 
+织/v 金乡镇/loc 阿弓镇/nr 上寨村/loc FTTH/eng 辛开凤/nr 民房/loc 
+两城/loc 区香港路/loc 松子/loc 坎/nrt 散户/n 
+锦屏县/loc 彦/g 洞/n 乡/n 救民/n 村/n FTTH/eng 二组/loc 
+织/v 金乡镇/loc 猫场/loc 镇/loc 光明村/loc FTTH/eng 龙/nr 中学/loc 
+凤冈/ns 何坝/nr 乡/n 鱼塘/loc 村/loc 沙湾组/自然村组 （无线/loc 覆盖/v ）
+贵定县/loc 龙港/loc 村/loc 刘家山/loc 丁家/loc 冲/loc 
+毕节市/loc 东/loc 双树路/loc 工校/n 旁/f 民房/loc 
+铜仁市/loc 共青/n 路六/nr 完小/a 教师/loc 门卫室/loc 
+织/v 金乡镇/loc 少/a 普/nr 乡镇/loc 迎丰村/nr FTTH/eng 刘光胜/nr 民房/loc 
+平坝区/区 齐伯镇/nr 光明村/loc FTTH/eng +来路/n 一组/loc 
+织/v 金乡镇/loc 鸡场/loc 乡/loc 鸡场村/loc FTTH/eng 转坡/v 组/q 周加勇/nr 民房/loc 
+威宁县/ns 建设西路/loc 火星/loc 塘/j 
+道真/loc 遵义路/loc 复烤厂/loc 旁/loc 零星/n 散户/n 
+六枝/m 友谊路/loc 元宝/loc 楼/loc 小区/loc 零星/n 户/q 罗/j 兴明/loc 
+仁怀/区 老/loc 农广校/loc 后面/f 
+安居工程/loc 四楼/loc 
+织/v 金乡镇/loc 珠藏/ns 镇群丰/ns 村/n FTTH/eng 刘勇/nr 民房/loc 
+两/m 城区/loc 郊区/loc 高坪/loc 镇/loc 大桥村/loc 私房/loc 
+息烽县/loc 小寨坝镇/loc 上寨/loc 零星/n 户/q 
+金沙/loc 乡镇/loc 沙土镇/loc 民房/loc 住宅区/loc （胡/nr 世茂/loc ）
+丹寨县/loc 建设南路/loc 种子公司/loc 下坎/loc 
+修文县/loc 龙场镇/loc 罗家寨/loc 新水/loc 一组/loc 
+平坝县/loc 杨家坝/loc 法源寺/loc 旁边/loc 散居/v 
+织/v 金乡镇/loc 官寨/loc 乡/loc 官寨/loc 街上/loc 向湖乾/nr 民房/loc 
+黔西/ns 乡镇/loc 甘棠乡/loc 生活区/loc （郭黔军/nr ）
+贵定县/loc 巩固/loc 乡卫生院/loc 
+金沙/loc 乡镇/loc 官田/n 乡民/loc 房/loc 住宅区/loc （陈应喜/nr ）
+织/v 金乡镇/loc 三甲/loc 乡/loc 马家庄村/loc FTTH/eng 杨光忠/nr 民房/loc 
+遵义县/loc 苟江镇/nr 张/nr 门坎/n 街上/loc 
+福泉市/loc 洒/v 金北/loc 路/loc 散户/n 
+盘县/ns 洒/v 基镇/n 迤民/ng 村/n 十四组/自然村组 
+毕节/市 威宁/loc 斗阁路/n 三叉路口/n 旁/loc 民房/loc （张文鲜/nr ）
+织/v 金乡镇/loc 化起镇/nr 塘边村/村居委会 FTT/eng H栋/栋号 靑/yg 组/q 刘/nr 兴/v 勇/nr 
+黄平县/loc 浪/n 洞/n 乡/n 平庄/loc 私房/loc 
+岑巩县/loc 朝阳路/loc 
+龙里县/loc 环南路/loc 五号路/loc 新苗幼儿园/loc 旁/loc 散户/n 
+金沙/loc 乡镇/loc 化觉/n 乡民/loc 房/loc 住宅区/loc （张安/loc 全/a ）
+六枝/m 郎岱镇/loc 郎/ng 岱村/nrt -杨祥祥/nr 
+修文县扎佐镇/loc 红卫/loc 桥/loc 散户/n 
+清镇市/loc 电校/loc 厂/loc 区内/s 
+毕节/市 乡镇/loc 生机/loc 镇高/ns 流村/loc FTTH/eng 单/n 中友/loc 
+金沙/loc 乡镇/loc 安底镇/ns （万大/loc 均/d ）民房/loc 住宅区/loc 
+毕节/市 金沙/loc 东南/loc 环线/n 金钻豪庭/小区名 商住楼/loc 后面/f （陈/nr 元江/loc ）
+毕节/市 黔西/ns 中枢/loc 巷/loc 新天地/loc 酒楼/loc 
+金沙/loc 乡镇/loc 平坝/loc 乡民/loc 房/loc 住宅区/loc （黄春平/nr ）
+思南县/loc 江岸/s 名都/loc 
+金海湖/loc 乡镇/loc 岔河镇/loc 发音/n 村/n FTTH/eng 十一组/loc 刘家/loc 权/n 
+织/v 金乡镇/loc 大平/loc 乡/loc 石板村/loc FTTH/eng 院墙/n 组/标准地址 韩文/nr 举/v 民房/loc 
+织/v 金乡镇/loc 自强/loc 乡/loc 坡头上/loc 村/n FTTH/eng 坝口/loc 组/q 徐/nr 满福民房/loc 
+黔西/ns 乡镇/loc 素朴/a 镇/loc 高坎/loc 村/n FTTH/eng 二组/loc （胡桂伦/nr ）
+雷山县/loc 丹小/nr 廉租房/loc 
+毕节/市 乡镇/loc 海子/loc 街/n 镇/n 檫/g 枪/n 岩村/loc FTTH/eng 解放/loc 组江/l 兴福/loc 
+大方/loc 乡镇/loc 绿塘/n 乡/n 高潮村/loc FTTH/eng 方竹/n 坝/loc 
+惠水县/loc 长征路/loc 印刷厂/loc 旁边/loc 
+赫章/nr 乡镇/loc 河/loc 镇乡/ns 发冲/vn 村/n 何传雄/nr 私房/loc 
+威宁/loc 乡镇/loc 牛棚/loc 镇/loc 三合村/loc FTTH/eng 小田/loc 组/标准地址 
+金沙/loc 乡镇/loc 安底镇/ns 民房/loc （刘占/nr ）
+纳雍/nr 乡镇/loc 维/v 新镇/loc 维新/loc 中学教师/nt 老宿舍/loc 
+遵义县/loc 松林镇/loc 松林/loc 水边/loc 
+三都县/loc 大河/loc 镇/loc 联江村/村居委会 联江/loc 七组/loc 
+瓮安县/loc 中坪/loc 镇东街/loc 小岔坡/ns 散户/n 
+织/v 金乡镇/loc 桂果镇/nr 绮陌村/nr FTTH/eng 大树脚/loc 组/标准地址 文友/n 全/a 民房/loc 
+织/v 金乡镇/loc 城关镇/loc 大寨村/loc FTTH/eng 杨/nr 胜明/loc 民房/loc 
+金沙/loc 乡镇/loc 西洛乡/ns 中学/loc 旁边/loc 民房/loc 住宅区/loc (袁安芳/nr )
+织/v 金乡镇/loc 板桥/loc 乡/loc 永兴村/loc FTTH/eng 肖家寨/loc 组/q 肖克礼/nr 民房/loc 
+遵义县/loc 南白/loc 镇/loc 青山村/loc 东山/loc 组/标准地址 
+凤冈/ns 永安/loc 崇/zg 新何/loc 院/loc 
+威宁/loc 乡镇/loc 迤那镇/r 中心村/loc FTTH/eng 中民/loc 组/标准地址 
+毕节/市 乡镇/loc 燕子/loc 口镇/loc 一心村/loc FTTH/eng 牛路/loc 李/loc 德祥/loc 
+赫章/nr 乡镇/loc 野马/n 川镇/ns 山脚村/loc 瓦厂组/自然村组 许/m 明春/t 
+凤冈/ns 永和/loc 鱼塘/loc 村高/loc 桥/n 组/v 
+新蒲/loc 新区/loc 虾子/n 辣椒/loc 厂/n 后/f 
+贵定县/loc 铜/n 宝路/n 农科所/loc 砖场/n 散户/n 
+香树/loc 路/loc 阳光超市/loc 旁/loc 
+三都县/loc 周覃镇/nr 播/v 花村/n 拉平/loc 组/v FTTH/eng 
+虾子水/loc 中路/loc 
+从江县/loc 丙妹/n 镇江/市 东中路/loc 月亮湾/loc 
+金沙/loc 乡镇/loc 源/loc 村镇/n 群/n 星村/loc FTTH/eng 岩脚组/自然村组 
+太平街/loc 粮食局/loc 外面/loc 宿舍/loc 
+四格/n 乡/loc 二台坡/loc 村/loc 新街组/自然村组 
+黔西/ns 乡镇/loc 五里/loc 乡/loc 五里街/loc 上/loc （马贵花/nr ）
+绥阳/ns 坪乐镇/ns 顺河村/loc 坟堡/n 组/v DTMB/eng 
+花溪区/loc 大将路/loc 坡顶/n 散户/n 
+民主/loc 和平/loc 
+毕节/市 大方/loc 西大街/loc 农行宿舍/loc 门面/loc 
+黔西/ns 乡镇/loc 钟/nr 山乡/loc 钟山/loc 计生办/loc 
+金沙/loc 乡镇/loc 太平乡/loc （周定均/nr ）民房/loc 住宅区/loc 
+赫章/nr 乡镇/loc 可乐/loc 乡/loc 农场村/loc FTTH/eng 桥边组/自然村组 潘怀军/nr 私房/loc 
+清镇市/loc 云岭中路/loc 双井/loc 花园/loc 散户/n 
+毕节/市 乡镇/loc 燕子/loc 口镇/loc 石街村/loc FTTH/eng 冬瓜/n 组/q 孟/nr 天祥/loc 
+仁怀/区 国酒/loc 中路/loc 炮台/loc 巷/ng 糖司/n 家属/loc 房/loc 
+威宁/loc 乡镇/loc 新发/loc 乡/n 开/v 坝/n 村/n FTTH/eng 元箐/nr 组/v 
+毕节/市 乡镇/loc 千溪乡沙/ns 垮/v 村/n FTTH/eng 海子/loc 组/q 王春梅/nr 
+天柱县/loc 雷/n 寨村/loc 雷寨/nr 五/m 一组/loc 
+云岩区/loc 旭东路煤矿村/loc 照壁小学/loc 旁/loc 自建房/loc 
+织/v 金乡镇/loc 绮陌/nr 乡/n 中坝村/loc FTTH/eng 头塘/loc 组龙/n 永祥/loc 
+从江县/loc 江/nr 东中路/loc 水果批发市场/loc 小区/loc 世纪星幼儿园/loc 
+毕节/市 乡镇/loc 海子/loc 街镇/n 树/v 垮/v 村/n FTTH/eng 一组/loc 吴运平/nr 
+毕节/市 金沙大/loc 田乡/nr （候付/v ）
+六枝/m 友谊路/loc 六枝/m 宾馆/loc 片区/loc 零星/n 户/q -六枝特区/loc 团委/loc 
+凯里市/loc 炉/zg 山镇/loc 城关村/loc 小街/loc 团结巷/loc 
+织/v 金乡镇/loc 城关镇金/loc 凤/loc 社区/loc 白岩村/村居委会 FTTH/eng 河边组/自然村组 潘忠祥/nr 民房/loc 
+贵定县/loc 都/loc 六乡/ns 都/loc 六村/loc FTTH/eng 平寨组/自然村组 
+金沙/loc 乡镇/loc 源村/n 乡民/loc 房/loc 住宅区/loc （张发兴/nr ）
+毕节/市 纳雍/nr 沿河街/loc （碧/nr 海源/loc 浴业/n ）旁边/loc 民房/loc 
+织/v 金乡镇/loc 桂果镇/nr 马场村/loc FTTH/eng 小寨组/自然村组 詹道书/nr 民房/loc 
+毕节/市 金沙/loc 东南/loc 环线/n 黎明/loc 一组/loc （罗叶/nr ）
+毕节/市 金沙大/loc 田/loc 乡民/loc 房/loc 住宅区/loc （张邦/loc 学/loc ）
+赫章/nr 乡镇/loc 野马/n 川镇/ns 乌/ns 木村/loc FTTH/eng 白果组/自然村组 郭/loc 春六/loc 
+赫章/nr 乡镇/loc 结构/loc 乡/loc 青江/loc 村/n FTTH/eng 一组/loc 王义/loc 昌/loc 私房/loc 
+织/v 金乡镇/loc 八步/m 镇/loc 土锅/loc 村/n FTTH/eng 蜂子/n 组/q 杨/nr 彩云/n 民房/loc 
+织/v 金乡镇/loc 桂果镇/nr 东红村/loc FTTH/eng 鸭院/loc 组陈/v 芝云/ns 民房/loc 
+开阳县/loc 金中镇/loc 开磷/nz 连/u 花塘/loc 平房/loc 
+花溪区/loc 湖潮乡/loc 街上/loc 零星/n 户/q 
+金沙/loc 乡镇/loc 高坪/loc 乡民/loc 房/loc 住宅区/loc （岳应学/nr ）
+织/v 金乡镇/loc 金龙/loc 乡/loc 建福/loc 村/n FTTH/eng 营脚/loc 组/q 杨义/nr 民房/loc 
+赫章/nr 乡镇/loc 兴发/loc 乡/loc 小海村/loc FTTH/eng 岔河组/自然村组 祝/v 佳林/loc 私房/loc 
+榕江县/loc 西环北路/loc 公路管理所/loc 二中/loc 坡脚/loc 
+黄平县/loc 党校/loc 后/loc 移民/loc 新区/loc 
+织/v 金乡镇/loc 绮陌/nr 乡镇/loc 中坝村/loc FTTH/eng 杨/nr 永志/ns 民房/loc 
+盘县/ns 乌蒙/loc 镇/loc 水塘村/loc -T/loc 
+毕节/市 赫章/nr 前河路/loc 桂花苑/小区名 酒厂宿舍/loc 
+织/v 金乡镇/loc 大平/loc 乡/n 前/f 坪/v 村/n FTTH/eng 高家寨组/自然村组 高忠/nr 平民/n 房/loc 
+绥阳/ns 旺/loc 草镇/loc 尹珍/nr 社区/loc 向阳组/自然村组 DTMB/eng 散户/n 
+六枝/m 广场路/loc 基建/loc 局/loc 小区/loc 零星/n 户/q 张仟/nr 明/t 
+修文县/loc 财政局/loc 
+赫章/nr 乡镇/loc 野马/n 川镇/ns 下街村/村居委会 同心路/loc 杨章/loc 院/loc 私房/loc 
+小河区/loc 青龙路/loc 大寨村/loc 十四组/自然村组 
+安顺市/loc 南华路/loc 丝美/loc 发廊/loc 右侧/f W/loc 散户/n 
+六枝特区/loc 郎岱镇/loc 渔/loc 塘村/loc FTTH/eng 
+织/v 金乡镇/loc 猫场/loc 镇/loc 猫场/loc 街上/loc 胡从芬/nr 私房/loc 
+织/v 金乡镇/loc 三甲/loc 乡/loc 大家/loc 嘎/o 村/n 龙桂/nr 玉民/loc 房/loc 
+金沙/loc 乡镇/loc 沙土镇/loc 民房/loc 住宅区/loc （王/loc 天喜/loc ）高中/loc 
+黔西/ns 乡镇/loc 金碧/loc 镇/loc 金碧/loc 新大街/loc （赵/nr 维海/loc ）
+黔西/ns 乡镇/loc 五里/loc 乡荒/n 田村/loc FTTH/eng 十组/loc （曾凡顺/nr ）
+开阳县群兴村/小区名 南门外/loc 桥边/loc 私房/loc 
+黄平县/loc 四/m 屏路/n 饮食服务公司/loc 旁/loc 二楼/loc 
+罗甸县/loc 环城东路/loc 罗甸县/loc 新/loc 公安局/loc 
+安顺市/loc 市西路/loc 中大/loc 商住楼/loc 一层/楼层 铺面/loc 超市/loc 
+织/v 金乡镇/loc 龙场镇/loc 新龙村/loc FTTH/eng 黄光义/nr 民房/loc 
+修文县/loc 小菁/nr 乡/n 财政所/loc 旁/loc 
+罗甸县/loc 政府路/loc 散户/n 龙兴/loc 路口处/n 
+毕节/市 乡镇/loc 长春/loc 堡/ng 镇/n 裸/ag 依村/n FTTH/eng 麻塘/n 组/v 张明/loc 
+金沙/loc 乡镇/loc 禹谟镇/nr 五/m 堰村/loc （余贵林/nr ）
+六枝/m 矿业/loc 路地/s 宗/nr 洗煤厂/n 家属/loc 小区/loc 零星/n 户/q 陈/nr 卫华/loc 
+织/v 金乡镇/loc 鸡场/loc 乡木/n 货村/n FTTH/eng 付炼/v 民房/loc 
+清镇市/loc 流长乡/loc 杨家院村/loc 排洞组/自然村组 
+毕节/市 威宁/loc 星光路/loc 威宁县/ns 星光路/loc 博爱医院/loc 旁/loc 民房/loc 
+桐梓/ns 夜郎/loc 镇/loc 凉水村/标准地址 沙台/n 组/v 
+毕节/市 乡镇/loc 层/q 台镇/ns 官厢/n 村/n FTTH/eng 官厢/n 组/v 包家/loc 华/loc 
+镇远县/loc 共和街/loc 水电宾馆/loc 处散/v 房/n 
+赫章/nr 乡镇/loc 平山/loc 乡/loc 平山村/loc 平山/loc 计生/loc 站/loc 
+六枝/m 交通/loc 东路/loc 运管所/loc 小区/loc 零星/n 户/q 石灿青/nr 
+城北/loc 所河/n 对面/loc 华诚汽修/loc 场内/s 
+南明区/loc 小碧/loc 乡/loc 大地村/loc FTTH/eng 三组/loc 村委会/loc 
+毕节/市 乡镇/loc 水/n 箐/g 镇/n 东风村/loc FTTH/eng 熊廷珍/nr 
+六枝/m 团结路/loc 底/loc 大弯/loc 小区/loc 零星/n 户/q 胡希/nr 
+荔波县/loc 捞/v 村乡/n 群力/loc 村/n 久么/d 组/v 
+织/v 金乡镇/loc 化起镇/nr 新大街/loc 鱼塘/loc 路口/loc 方文军/nr 私房/loc 
+桐梓/ns 娄山关/ns 镇/loc 河滨北路/loc 化工厂/loc 小区旁/loc 零星/n 散户/n 
+遵义县/loc 南白/loc 镇东/loc 大街/loc 小太阳幼儿园/loc 旁/loc 一楼/loc 
+织/v 金乡镇/loc 龙场镇/loc 双山村/loc FTTH/eng 龙家/loc 洞组/n 刘玉莲/nr 民房/loc 
+两/m 城区/loc 郊区/loc 临时/loc 小区/loc 凉水村/标准地址 散户/n （张/loc 石窝/loc ）
+黄平县/loc 东门街/loc 东方佳园/loc 右边/f 
+凤冈/ns 蜂岩/loc 镇/loc 龙井村/loc 中心组/自然村组 （无线/loc 覆盖/v ）
+铜仁市/loc 滨江大道/loc 灯塔/loc 廉租房/loc 万庄/loc 
+黔/loc 西乡/loc 镇定/v 新乡/loc 群/n 星村/loc FTTH/eng 五里/loc 五组/loc （付国俊/nr ）
+南白/loc 镇/n 客/n 车站/loc 
+金沙/loc 乡镇/loc 石场乡/loc （王永华/nr ）民房/loc 住宅区/loc 
+桐梓县/loc 夜郎/loc 镇/loc 夜郎/loc 村/loc 老街组/自然村组 街上/loc 
+遵义县/loc 尚稽/nr 
+仁怀/区 国酒/loc 中路/loc 老/loc 交通局/loc 后面/f 
+道真/loc 上坝/loc 药房/loc 灌/v 统建/v 房旁/loc 
+黔西/ns 乡镇/loc 谷里镇/loc 新/loc 金村/loc FTTH/eng 三组/loc （夏/loc 正永/loc ）
+赫章/nr 乡镇/loc 水塘/loc 堡乡/n 水潮/n 村/n FTTH/eng 硝洞/n 组/q 董延学/nr 私房/loc 
+天柱县/loc 兰/loc 田镇/loc 岩背/loc 村竹/n 二组/loc 
+瓮安县/loc 玉山镇/loc 复兴北路/loc 水泥厂/loc 旁/loc 私房/loc 三楼/loc 
+大方/loc 乡镇/loc 牛场乡/loc 立新村/loc FTTH/eng 居民委员会/loc 居委会/loc 九组/loc 
+织/v 金乡镇/loc 牛场/loc 镇井/ns 沙村/n FTTH/eng 刘从俊/nr 民房/loc 
+威宁/loc 乡镇/loc 秀水/loc 乡/loc 秀水村/loc FTTH/eng 长山/loc 组/标准地址 
+遵义县/loc 南白/loc 镇/loc 森茂/loc 园/loc 尚客/loc 酒店/loc 
+毕节/市 乡镇/loc 长春/loc 堡镇/n 下伍/loc 村/n FTTH/eng 大山组/自然村组 付才/nr 修/v 
+云岩区/loc 金阳街/loc 阳关/loc 堰塘组/自然村组 
+毕节/市 威宁/loc 县府路/loc 气象局宿舍/loc 旁/loc 民房/loc （赵粉兰/nr ）
+福泉市/loc 金山北路/loc 东门外/loc 王记/loc 平价/loc 散户/n 
+六枝/m 团结路/loc 底/loc 大弯/loc 小区/loc 零星/n 户/q -叶/loc 正学/n 
+
