@@ -46,7 +46,7 @@ def strQ2B(ustring):
 def open_file(fn):
     lines = []
     with open(fn, 'r') as f:
-        lines = f.readlines()[:1000]
+        lines = f.readlines()[:100]
         np.random.shuffle(lines)
         lines = [clr(line) for line in lines[:500]]
     return lines
@@ -104,12 +104,24 @@ def init_dig(fn):
     return dig
 
 
+def weight_degree(weights, degrees):
+    wet = 0
+    deg = 0
+    for weight in weights:
+        wet += weight
+    for degree in degrees:
+        deg += degree
+    return np.log(1.2+(wet/deg))
+
+
+
+
 def filter(score, dig):
     result = {}
     edges = sort_edges(dig)
     for edge in edges:
-        #print(edge)
-        if np.log(1.2 + edge[-1]['weight'])<score:
+        #pdb.set_trace()
+        if weight_degree([edge[-1]['weight']], [dig.degree[edge[0][0]], dig.degree[edge[0][1]]]) < score:
             continue
         try:
             result[''.join(edge[0])] = edge[- 1]
@@ -118,12 +130,14 @@ def filter(score, dig):
     return result
 
 
-def combine(score, words):
+def combine(score, words, dig):
     result = {}
     for word in words:
         for _word in words:
-            if word[- 1] == _word[0]:
-                if np.log(1.2 + (0.5 * (np.abs(words[word]['weight'] + words[_word]['weight'])))) < score:
+            if word[-1] == _word[0]:
+                #pdb.set_trace()
+                #if np.log(1.2 + (0.5 * (np.abs(words[word]['weight'] + words[_word]['weight'])))) < score:
+                if weight_degree([words[word]['weight'], words[_word]['weight']], [dig.degree[word[0]], dig.degree[word[1]], dig.degree[_word[1]], dig.degree[_word[1]]]):
                     kw = word[:-1]+ _word
                     result[kw] = words[word]['weight']+ words[_word]['weight']
                 else:
@@ -140,7 +154,7 @@ def calcu(dig, gen,  filter_score, combine_score):
     result = []
     kv = filter(filter_score, dig)
     #print(kv)
-    short_kv = combine(combine_score, kv)
+    short_kv = combine(combine_score, kv, dig)
     words = [k for k in short_kv]
     result.extend(words)
     rule = []
@@ -158,7 +172,7 @@ def calcu(dig, gen,  filter_score, combine_score):
         #print(line)
         wds = list(re.split(rule, line))
         for wd in wds:
-            if not wd == '':
+            if len(wd) >1:
                 result.append(wd)
     #print(result)
     words_num = len(list(set(result)))
@@ -168,6 +182,7 @@ def calcu(dig, gen,  filter_score, combine_score):
         outf.write("%s\n"%(words_num))
         outf.write("%s\n"%(qifu_score))
         outf.write(str(result)+"\n")
+    print(words_num, qifu_score, result)
     return words_num, qifu_score, result
 
 
@@ -181,20 +196,33 @@ def qifu_count(result):
         loss += np.log(1.2 + np.abs(qifu_counter[word] - (total / cnt)))
     return loss
 
+
+def gen(lines):
+    for line in lines:
+        yield line
+
+
 def arr_genrerate(filter_score_min, filter_step_num, filter_step, combine_score_min, combine_step_num, combine_step, fn):
     dig = init_dig(fn)
     gen = gen_lines(open_file(fn))
-    res_lst = []
-    words = []
-    for i in range(filter_step_num):
+    for round in range(10):
+      res_lst = []
+      words = []
+      final_lenth = -1
+      print('round',round)
+      for i in range(filter_step_num):
         filter_level = filter_score_min+filter_step*i
         for j in range(combine_step_num):
             combine_level = combine_score_min+combine_step*j
+            words = []
             words_num, qifu_score, reswds = calcu(dig, gen, filter_level, combine_level)
             res = [filter_level, combine_level, words_num, qifu_score]
             res_lst.append(res)
+            #words = reswds
             words.append(reswds)
-    return np.array(res_lst), reswds
+      pdb.set_trace()
+      gen = gen_lines(words[-1])
+    return np.array(res_lst), words
 
 
 def show_connect_table(df, words):
@@ -209,7 +237,8 @@ def show_connect_table(df, words):
 
 if __name__ == '__main__':
     #words_num, qifu_score = calcu(fn='/home/siy/data/广电全量地址_weak.csv', filter_score=0.4, combine_score=0.1)
-    arr,res_wds = arr_genrerate(filter_score_min=0.0, filter_step_num=100, filter_step=0.1, combine_score_min=0.0, combine_step_num=100, combine_step=0.1, fn='/home/siy/data/广电全量地址_weak.csv')
+    arr,res_wds = arr_genrerate(filter_score_min=0.0, filter_step_num=100, filter_step=0.01, combine_score_min=0.0, combine_step_num=100, combine_step=0.01, fn='/home/siy/data/wds.csv')
+    #arr,res_wds = arr_genrerate(filter_score_min=0.0, filter_step_num=10, filter_step=0.1, combine_score_min=0.0, combine_step_num=20, combine_step=0.1, fn='/home/siy/data/广电全量地址_weak.csv')
     pickle.dump((arr,res_wds),open('pkl.pkl','wb'))
     print(arr)
     print(res_wds)
