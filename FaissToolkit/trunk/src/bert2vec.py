@@ -14,6 +14,10 @@ from logging.handlers import RotatingFileHandler
 import re
 from mylogger import logger
 import myconfig
+import hashlib
+import sys
+
+
 # ===========================
 # logger setting
 # ===========================
@@ -53,6 +57,27 @@ logger.addHandler(rHandler)
 logger.addHandler(console)
 
 
+def init_md5():
+    m2 = hashlib.md5()
+    return m2
+
+
+m2 = init_md5()
+
+
+def strQ2B(ustring):
+      """全角转半角"""
+      rstring = ""
+      for uchar in ustring:
+          inside_code = ord(uchar)
+          if inside_code == 12288:  # 全角空格直接转换
+              inside_code = 32
+          elif (inside_code >= 65281 and inside_code <= 65374):  # 全角字符（除空格）根据关系转化
+              inside_code -= 65248
+          rstring += chr(inside_code)
+      return rstring
+
+
 def init():
     # Connect to Local MONGODB
     logger.info('init start')
@@ -61,12 +86,13 @@ def init():
     store.initialize_library('bert2vec')
     # Access the library
     library = store['bert2vec']
-    c = pymongo.MongoClient(host=myconfig.MONGO_HOST, port=myconfig.MONGO_PORT)
-    db = c.bert2vec
+    client = pymongo.MongoClient(host=myconfig.MONGO_HOST, port=myconfig.MONGO_PORT)
+    pdb.set_trace()
+    db = client.bert2vec
     coll = db.guizhou
     # lib,conn,db,coll
     logger.info('init ok')
-    return library, c, db, coll
+    return library, client, db, coll
 
 
 def init_bert():
@@ -80,15 +106,24 @@ def init_bert():
     logger.info('init bert SUCC')
     return bc
 
+
+
 # get a id to label the data
-def genarate_mongo_id(part):
+def genarate_mongo_id(src):
     # return str(int(time.time())) + str(hash(part))
-    return str(hash(part))
+    #return str(hash(part))
+    m2.update(src.encode())
+    print(m2.hexdigest())
+    return m2.hexdigest()
 
 
 # spacify search in mongo collection
 def search_in_mongo(coll, filed_name, value):
-    return list(coll.find({filed_name: value}))
+    try:
+        return list(coll.find({filed_name: value}))
+    except:
+        logger.info('mongodb has no interdace here')
+        return -2
 
 #    bc, # bert_serving  client
 #    library, # mongo library
@@ -207,44 +242,101 @@ def read_csv_from_data():
                     cell = strQ2B(cell)
                     fetch_shape.append(cell)
                     if len(fetch_shape) > fetch_shape_size:
+                        #pdb.set_trace()
                         yield fetch_shape
                         # arrs_fetch = bc.encode(fetch_shape)
                         fetch_shape=[]
             #yield fetch_shape
 
+
+def append_one(sent, coll, library, bc):
+        print(sent)
+        sentvecid = genarate_mongo_id(sent)
+        weather_sent_exist = search_in_mongo(coll, 'id', sentvecid)
+        if not len(weather_sent_exist) == 0:
+            logger.info('there is one in db: %s'%sent)
+            return -2
+        sentvec = bc.encode([sent])
+        #pdb.set_trace()
+        library.write(sentvecid, sentvec, metadata={'sentvecid': sentvecid})
+        json_cell = {'id': sentvecid, 'sent': sent}
+        coll.insert(json_cell)
+        #pdb.set_trace()
+        return 0
+
+
 #
+import traceback
 def sents2vec(gen, coll, bc, library):
     '''
     read data from gen
     fetch vec from sent
     save date into mongo
     '''
+    print('sents2vec')
     for sents in gen:
-      print(sents)
-      try:
-          arrs = bc.encode(sents)
-      except:
-          print(sents)
-          continue
-      for sent,sentvec in zip(sents,arrs):
+        try:
+            arrs = bc.encode(sents)
+        except:
+            traceback.print_exc()
+            print(sents)
+            continue
+        for sent,sentvec in zip(sents,arrs):
+          try:
+            sentvecid = genarate_mongo_id(sent)
+            weather_sent_exist = search_in_mongo(coll, 'id', sentvecid)
+            if not len(weather_sent_exist) == 0:
+                logger.info('there is one in db: %s'%sent)
+                continue
+            library.write(sentvecid, sentvec, metadata={'sentvecid': sentvecid})
+            json_cell = {'id': sentvecid, 'sent': sent}
+            coll.insert(json_cell)
+            logger.info('insert %s'%sent)
+          except:
+              traceback.print_exc()
+              print(sents)
+              continue
+
+
+def clr(instring):
+    instring = re.sub('[\r\n]','',instring)
+    instring = re.sub(' ','',instring)
+    instring.strip()
+    return instring
+
+
+def readSentFromMongo(sent, coll, library):
+    try:
         sentvecid = genarate_mongo_id(sent)
         weather_sent_exist = search_in_mongo(coll, 'id', sentvecid)
-        if not len(weather_sent_exist) == 0:
-            logger.info('there is one in db: %s'%sent)
-            continue
-        library.write(sentvecid, sentvec, metadata={'sentvecid': sentvecid})
-        json_cell = {'id': sentvecid, 'sent': sent}
-        coll.insert(json_cell)
-        logger.info('insert %s'%sent)
+        response = library.read(sentvecid)
+        return (weather_sent_exist, response.data, response.metadata)
+    except:
+        return (-1, -1, -1)
 
 
+def trans_guangdian_address_into_vec(coll, library, bc, fn='/home/siy/data/广电全量地址_weak.csv'):
+    lines = open(fn,'r').readlines()
+    for line in lines:
+        line = strQ2B(line)
+        line = clr(line)
+        for i in range(len(line)):
+            for j in range(len(line)-i):
+                if i+j < len(line):
+                    sent = line[i:i+j]
+                    if len(sent)>0 and len(sent)<len(line):
+                        append_one(sent, coll, library, bc)
 
 
 if __name__ == '__main__':
+    sent = sys.argv[1]
     lib, c, db, coll = init()
     bc = init_bert()
     gen = read_csv_from_data()
+    print('read_csv_from_data gen ready')
     sents2vec(gen, coll, bc, lib)
+    #weather_sent_exist, response.data, response.meta_data = readSentFromMongo(sent, coll, lib)
+    trans_guangdian_address_into_vec(coll, lib, bc, fn='/home/siy/data/广电全量地址_weak.csv')
     #print(gen.__next__())
     #test_get_one_from_guizhou(coll)
     # test_get_all_arr(coll, lib)

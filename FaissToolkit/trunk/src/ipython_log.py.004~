@@ -1,0 +1,27 @@
+# IPython log file
+
+
+logger.info('init start')                                                      
+store = Arctic("192.168.1.64:27018")                                           
+# Create the library - defaults to VersionStore                                
+store.initialize_library('bert2vec')                                           
+# Access the library                                                           
+library = store['bert2vec']  
+#logger.info('init start')                                                      
+store = Arctic("192.168.1.64:27018")                                           
+# Create the library - defaults to VersionStore                                
+store.initialize_library('bert2vec')                                           
+# Access the library                                                           
+library = store['bert2vec']  
+import Arctic
+import arctic
+from arctic import Arctic
+#logger.info('init start')                                                      
+store = Arctic("192.168.1.64:27018")                                           
+# Create the library - defaults to VersionStore                                
+store.initialize_library('bert2vec')                                           
+# Access the library                                                           
+library = store['bert2vec']  
+get_ipython().run_line_magic('pinfo', 'library.write')
+get_ipython().run_line_magic('pinfo', 'library.write')
+q

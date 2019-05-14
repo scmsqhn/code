@@ -282,3 +282,29 @@ df[1]
 en("(df[1])")
 len(df[1])
 df
+dig.degree
+dig.degree['市']
+pow()
+np.pow
+pow()
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('run', 'word_discover.py')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', '..')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', '..')
+get_ipython().run_line_magic('cd', '..')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', 'word_discover/')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('run', 'discover.py')
+import power
+power
+np.power()
+get_ipython().run_line_magic('run', 'discover.py')
+get_ipython().run_line_magic('run', 'discover.py')
+get_ipython().run_line_magic('run', 'discover.py')
+get_ipython().run_line_magic('run', 'discover.py')
+get_ipython().run_line_magic('run', 'discover.py')
+get_ipython().run_line_magic('run', 'discover.py')
+get_ipython().run_line_magic('run', 'discover.py')

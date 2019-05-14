@@ -1,0 +1,9 @@
+# IPython log file
+
+
+mongo
+get_ipython().run_line_magic('ls', '')
+db
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('store', '')
+exit()

@@ -1,0 +1,8 @@
+# IPython log file
+
+
+library
+get_ipython().run_line_magic('ed', '00-first.py')
+get_ipython().run_line_magic('ed', '~/.ipython/default_profile/startup/00-first.py')
+get_ipython().run_line_magic('ed', '~/.ipython/default_profiles/startup/00-first.py')
+exit()

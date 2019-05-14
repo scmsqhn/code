@@ -1,0 +1,2 @@
+2019-05-13 16:48:38,670 - mylogger - INFO - insert 夜晚
+2019-05-13 16:48:39,874 - mylogger - INFO - insert 上午

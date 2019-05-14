@@ -1,0 +1,64 @@
+# IPython log file
+
+
+arclib
+db()
+coll()
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('ed', '/home/siy/.ipython/profile_default/startup/00-startup.py')
+get_ipython().run_line_magic('ed', '/home/siy/.ipython/profile_default/startup/00-Startup.py')
+get_ipython().run_line_magic('ed', '/home/siy/.ipython/profile_default/startup/00-first.py')
+client
+db()
+get_ipython().run_line_magic('ed', '/home/siy/.ipython/profile_default/startup/00-first.py')
+get_ipython().run_line_magic('ls', '')
+c
+db()
+coll()
+client
+client.db()
+get_ipython().run_line_magic('pinfo', 'client')
+client
+get_ipython().run_line_magic('pinfo', 'client')
+client.database_names()
+client['bert2vec']
+db = client['bert2vec']
+db()
+db = client['bert2vec']
+db()
+client.list_database_names()
+client.get_database('bert2vec')
+db = client.get_database('bert2vec')
+db()
+db = client.database_names
+client.database_names()
+client['admin']
+db = client['admin']
+db()
+client['admin']
+get_ipython().run_line_magic('ls', '')
+client.list_databases()
+client.list_databases()
+list(client.list_databases())
+client.get_database('bert2vec')
+client.get_database('bert2vec').collection_names()
+client.get_database('bert2vec').get_collection(')
+client.get_database('bert2vec').get_collection('guizhou')
+gz = client.get_database('bert2vec').get_collection('guizhou')
+gz()
+client.get_database('bert2vec').get_collection('guizhou')
+client.get_database('bert2vec').get_collection('guizhou')
+coll = client.get_database('bert2vec').get_collection('guizhou')
+coll()
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', '~/.ipython')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', 'pro')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', 'profile_default')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('cd', 'startup')
+get_ipython().run_line_magic('ls', '')
+get_ipython().run_line_magic('ed', '00-first.py')
+library
+exit()
