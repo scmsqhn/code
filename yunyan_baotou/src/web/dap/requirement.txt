@@ -75,7 +75,7 @@ snowballstemmer==1.2.1
 SQLAlchemy==1.2.8
 style==1.1.0
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==1.15.2
 termcolor==1.1.0
 tflearn==0.3.2
 tqdm==4.23.4
