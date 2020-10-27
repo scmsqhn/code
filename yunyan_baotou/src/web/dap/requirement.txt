@@ -14,7 +14,7 @@ click==6.7
 clog==0.2.3
 ConcurrentLogHandler==0.8.7
 crypto==1.4.1
-cryptography==2.2.2
+cryptography==3.2
 cycler==0.10.0
 Cython==0.28.2
 decorator==4.3.0
