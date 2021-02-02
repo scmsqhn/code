@@ -2,7 +2,7 @@ absl-py==0.2.2
 arctic==1.67.0
 asn1crypto==0.24.0
 astor==0.6.2
-bleach==1.5.0
+bleach==3.3.0
 boto==2.48.0
 boto3==1.7.24
 botocore==1.10.24
